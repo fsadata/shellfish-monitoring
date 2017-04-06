@@ -1,0 +1,105 @@
+SiteNumber,SampleNumber,SiteLocation,BedLocation,GridReference,DateCollected,Species,PSP,DSP,ASP
+2,491,River Blyth,,,2001-04-02,Mussels,ND,NG,ND
+7,501,River Thames,,TQ 873 846,2001-04-03,Mussels,ND,NG,ND
+,489,River Thames,Swale Site 6,,2001-04-02,Mussels,ND,NG,ND
+12,494,Isle of Wight,Medina,SZ 505 935,2001-03-26,N.Oysters,ND,NG,<2.5
+21,495,Camel,Gentle Jane,SW 938 747,2001-03-27,Mussels,,NG,
+,496,Camel,Trebetherick Rocks,SW 924 778,2001-03-27,Mussels,,NG,
+26,487,Aberamffra,Barmouth,,2001-04-02,Mussels,ND,NG,ND
+27,488,Dwyrdd,Coedy Goffer,SH 579 365,2001-04-02,Cockles,ND,,ND
+1,520,Holy Island,Ross Links,NU 123 399,2001-04-09,Mussels,,NG,
+4,530,Blakeney,Simpool,TF 990 453,2001-04-10,Mussels,ND,NG,ND
+6,504,Blackwater,Thirslet Creek,TL 956 077,2001-04-04,N.Oysters,,NG,
+,515,River Thames,Phoenix,TQ 922 825,2001-04-09,Cockles,ND,NG,ND
+,516,River Thames,N E Maplin Sands,TR 060 918,2001-04-09,Cockles,ND,NG,ND
+,517,River Thames,Buxey No 4,TM 088 021,2001-04-09,Cockles,ND,NG,ND
+9,508,Portsmouth,Pewitt Isle,SU 602 411,2001-04-05,N.Oysters,ND,,
+13,502,Poole,Ramshorn,SZ 002 882,2001-04-03,Mussels,ND,NG,ND
+,532,Plymouth,Shillingham,SX 407 567,2001-04-10,Mussels,ND,NG,ND
+18,451,Fowey,Pont Pill,SX 137 516,2001-03-26,Mussels,,,ND
+19,531,Fal Estuary,Calamansack,SW 752 266,2001-04-10,N.Oysters,ND,,ND
+21,509,Camel,Gentle Jane,SW 938 747,2001-04-05,Mussels,ND,NG,ND
+,510,Camel,Trebethrick Rocks,SW 924 778,2001-04-05,Mussels,ND,NG,<2.5
+23,529,Three Rivers,Salmon Point,SN 357 073,2001-04-08,Mussels,ND,NG,ND
+34,528,Solway,Silloth,NY 100 540,2001-04-10,Mussels,ND,NG,ND
+1,596,River Blyth,Factory Point,,2001-04-24,Mussels,ND,NG,ND
+5,598,Butley,The Cliff,TM 397 487,2001-04-24,P.Oysters,,NG,
+,599,River Alde,Martello Tower,TM 461 550,2001-04-24,Mussels,ND,NG,ND
+7,574,River Roach,,,2001-04-23,N.Oysters,ND,NG,ND
+9,570,Portsmouth,Pewitt Isle,SU 602 411,2001-04-23,N.Oysters,ND,,ND
+10,585,Southampton,Netley,SU 453 077,2001-04-23,N.Oysters,ND,NG,ND
+,597,Southampton,Stanswood Bay,,2001-04-23,N.Oysters,ND,NG,ND
+12,571,Isle of Wight,Medina,SZ 505 935,2001-04-23,N.Oysters,ND,NG,LOD
+14,573,Portland Harbour,Fleet Lagoon,SY 663 763,2001-04-23,Mussels,,NG,ND
+19,581,Helford,Calamansack,,2001-04-24,N.Oysters,,NG,
+24,580,Milford Haven,Mt.Pleasant,SN 016 059,2001-04-23,Mussels,ND,NG,ND
+28,572,Menai Strait,Barras,SH 479 652,2001-04-23,Mussels,ND,NG,ND
+31,567,Liverpool Bay,Leasowe LH,SJ 250 920,2001-04-19,Mussels,ND,NG,LOD
+18,607,Fowey,Pont Pill,SX 137 516,2001-04-25,P.Oysters,,NG,
+,608,Fowey,Wisemans,SX 126 532,2001-04-25,Mussels,ND,NG,
+19,634,Fal Estuary,Malpas/Turnaware,,2001-04-30,Mussels,ND,,
+,636,Fal Estuary,Percuil/Greenbank,,2001-04-30,N.Oysters,ND,,
+21,604,Camel,Gentle Jane,SW 938 747,2001-04-25,P.Oysters,,NG,
+,605,Camel,Gentle Jane,SW 938 747,2001-04-25,Mussels,,NG,
+,606,Camel,Trebetherick Rocks,SW 924 778,2001-04-25,Mussels,,NG,
+,629,Camel,Little Petherick Creek,SW 923 739,2001-04-26,Cockles,ND,NG,
+30,631,Colwyn Bay,Llanddulas,SH 897 786,2001-04-30,Mussels,ND,,
+,632,Conway,Bicallt,SH 773 795,2001-04-30,Mussels,ND,NG,
+33,609,Barrow,Roa Island,SD 233 647,2001-04-25,Mussels,ND,NG,
+18,608,Fowey,Wisemans,SX 126 532,2001-04-25,Mussels,,,ND
+33,609,Barrow,Roa Island,SD 233 647,2001-04-25,Mussels,,,LOD
+21,629,Camel,Little Petherick Creek,SW 923 739,2001-04-26,Cockles,,,ND
+30,631,Colwyn Bay,Llanddulas,SH 897 786,2001-04-30,Mussels,,NG,ND
+,632,Conway,Bicallt,SH 773 795,2001-04-30,Mussels,,,LOD
+13,643,Poole,Ramshorn,SZ 002 882,2001-05-01,Mussels,ND,NG,LOD
+7,644,River Thames,Corporation Jetty,,2001-05-01,Mussels,ND,NG,ND
+6,645,Blackwater,North Fleet,TL 986 111,2001-05-02,N.Oysters,ND,NG,
+,646,River Thames,Swale Site 6,,2001-05-02,Mussels,ND,NG,ND
+25,649,Dovey,Aberdyfi,SN 616 959,2001-05-02,Mussels,ND,NG,ND
+9,658,Portsmouth,Pewitt Isle,SU 602 411,2001-05-08,N.Oysters,ND,,ND
+24,665,Milford Haven,Mt.Pleasant,SN 016 059,2001-05-08,Mussels,ND,NG,ND
+4,666,Blakeney,Simpool,TF 990 453,2001-05-08,Mussels,ND,NG,ND
+1,672,Holy Island,Ross Links,NU 123 399,2001-05-08,Mussels,ND,NG,ND
+,679,Camel,Pinkson Creek,SW 946 735,2001-05-09,Mussels,ND,NG,ND
+,680,River Thames,NE Maplin Sands,,2001-05-09,Cockles,ND,NG,ND
+,681,River Thames,Phoenix,,2001-05-09,Cockles,ND,NG,ND
+20,682,St Ives Bay,Godrevy Cove,SW 581 428,2001-05-09,Mussels,ND,NG,ND
+,683,St Ives Bay,Carrick Gladden,,2001-05-09,Mussels,ND,NG,ND
+3,684,The Wash,Toft Sand,TF 464 417,2001-05-08,Mussels,ND,NG,ND
+,685,Falmouth,Helford River,,2001-05-08,N.Oysters,,NG,
+34,686,Silloth,Beckfoot,NY 076 517,2001-05-09,Mussels,ND,NG,ND
+18,691,Fowey,Pont Pill,SX 137 516,2001-05-09,P.Oysters,ND,NG,LOD
+,692,Fowey,Wisemans,SX 126 532,2001-05-09,Mussels,ND,NG,ND
+17,693,Yealm,Thorne,SX 540 487,2001-05-10,Mussels,ND,NG,ND
+2,723,Craster,Newton,NU 247 241,2001-05-14,Mussels,ND,NG,ND
+21,724,Camel,Gentle Jane,SW 938 747,2001-05-14,Mussels,ND,NG,ND
+,725,Camel,Trebetherick Rocks,SW 924 778,2001-05-14,Mussels,ND,NG,ND
+12,726,Isle of Wight,Medina,SZ 505 935,2001-05-14,N.Oysters,ND,NG,ND
+33,729,Barrow,Roa Island,SD 233 647,2001-05-14,Mussels,ND,NG,LOD
+,743,River Thames,Barton Point,,2001-05-15,Mussels,ND,NG,LOD
+31,744,Liverpool Bay,Leasowe LH,SJ 250 920,2001-05-14,Mussels,ND,NG,
+6,749,Colchester,Upper Salcot,TL 991 126,2001-05-16,N.Oysters,,NG,LOD
+,750,Colchester,Freeground,TM 027 122,2001-05-16,N.Oysters,ND,NG,LOD
+,751,Colchester,Strood Channel,TM 001 137,2001-05-16,N.Oysters,,NG,
+16,752,River Avon,Hexdown Quay,SX 671 447,2001-05-16,Mussels,ND,,LOD
+,753,River Roach,Devils Quay,,2001-05-17,N.Oysters,47,NG,ND
+7,756,River Thames,Buxey Site 4,,2001-05-21,Cockles,ND,NG,ND
+,762,Fal Estuary,Greenbank,,2001-05-21,N.Oysters,ND,,ND
+19,763,Fal Estuary,Turnaware,SW 838 375,2001-05-21,Mussels,ND,,ND
+,764,Fal Estuary,Malpas,,2001-05-21,Mussels,ND,,ND
+,765,Chichester,Chichester Channel,,2001-05-21,N.Oysters,,NG,
+8,766,Chichester,Mill Rythe,SU 746 005,2001-05-21,N.Oysters,ND,,LOD
+5,768,River Alde,Martello Tower,,2001-05-22,Mussels,ND,NG,LOD
+1,769,River Blyth,,,2001-05-22,Mussels,,NG,LOD
+14,781,Weymouth,Ferrybridge,,2001-05-23,P.Oysters,ND,NG,ND
+,782,Weymouth,Weymouth Harbour,,2001-05-23,Mussels,ND,NG,
+,783,Camel,Trebetherick Rocks,SW 924 788,2001-05-22,Mussels,ND,NG,ND
+21,784,Camel,Gentle Jane,SW 938 747,2001-05-22,Mussels,ND,NG,ND
+6,785,Colchester,Wreck Marker,TM 070 139,2001-05-18,Mussels,ND,PS,ND
+18,786,Fowey,Pont Pill,SX 137 516,2001-05-23,P.Oysters,,NG,
+,787,Fowey,Wisemans,SX 126 532,2001-05-23,Mussels,ND,NG,LOD
+24,788,Milford Haven,Mt.Pleasant,SN 016 059,2001-05-23,Mussels,ND,NG,ND
+28,805,Menai Strait,Kim 8,,2001-05-21,Mussels,ND,NG,ND
+6,827,Blackwater,Goldhanger Creek,TL 925 077,2001-05-29,P.Oysters,ND,NG,ND
+19,828,Helford,Calamansack,,2001-05-29,N.Oysters,ND,,ND
+32,837,Ribble,Salters Bank,SD 328 259,2001-05-29,Mussels,ND,NG,LOD

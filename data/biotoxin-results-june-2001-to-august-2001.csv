@@ -1,0 +1,408 @@
+SampleNumber,NameofSite,NameOfBed,LocalAuthority,GridReference,BedId,DateSampleArrivedAtBurnham,DateSampleArrivedAtWeymouth,DateSampleCollected,SpeciesSampled,PSPResult_STX_Equivalent,DSPResultPositive_Negative,DomoicAcid
+BTX/2001/0034,Camel,Town Bar A,N Cornwall DC,SW92307515,B035G,,,2001-05-31,Cockles,ND,Negative,*
+BTX/2001/0035,Camel,Ironbridge,N Cornwall DC,SW92707424,B035H,,,2001-05-31,Cockles,ND,Negative,*
+BTX/2001/0036,Camel,Little Petherick Creek,N Cornwall DC,SW92387395,B035K,,,2001-05-31,Cockles,ND,Negative,*
+BTX/2001/0037,The Thames,Phoenix,London PHA,TQ92208250,B16BR,,,2001-06-04,Cockles,ND,Positive,<LOD
+BTX/2001/0038,The Thames,Buxey No. 5,London PHA,TM08800210,B16BQ,,,2001-06-04,Cockles,ND,Negative,<LOD
+BTX/2001/0039  ,Dwyryd estuary,Dwyryd estuary,Gwynedd Council,SH579365,B074B,,,2001-06-04,Cockles,ND,Negative,<LOD
+BTX/2001/0040,St Ives Bay,Godrevy Cove,Penwith DC,SW58134283,B088B,,,2001-06-04,Mussels,ND,Negative,<LOD
+BTX/2001/0041,The Wash,Maretail,Boston BC,TF439377,B003D,,,2001-06-04,Mussels,ND,Negative,<LOD
+BTX/2001/0042,The Thames,NE Maplin Sands,London PHA,TR06009180,B16BI,,,2001-06-04,Cockles,ND,Positive,<LOD
+BTX/2001/0043,Crouch,Purleigh Shawl,Maldon DC,TQ866965,B015D,,,2001-06-04,Mussels,ND,Negative,<LOD
+BTX/2001/0044,St Ives Bay,Carrack Gladden,Penwith DC,SW53403880,B088E,,,2001-06-04,Mussels,ND,Negative,<LOD
+BTX/2001/0045,Yealm,Yealm,Plymouth PHA,SX544$94,B031E,,,2001-06-04,Mussels,ND,Negative,<LOD
+BTX/2001/0046,Milford Haven,Coedcanlas Spit,Pembrokeshire CC,SN001086,B039H,,,2001-06-04,Mussels,ND,Negative,<LOD
+BTX/2001/0047,Milford Haven,Lawrenny Quay,Pembrokeshire CC,SN010062,,,,2001-06-04,Mussels,ND,Negative,<LOD
+BTX/2001/0048,Ramshorn,Ramshorn,Poole BC,SZ002882,B054L,,,2001-06-05,Mussels,ND,Negative,<LOD
+BTX/2001/0049,The Wash,Stylemans,Kings Lynn DC,TF602342,B004F,,,2001-06-05,Mussels,ND,Negative,<LOD
+BTX/2001/0050,Camel,Trebetherick Rocks,N Cornwall DC,SW92417788,B035J,,,2001-06-05,Mussels,ND,Negative,*
+BTX/2001/0051,Camel,Gentle Jane,N Cornwall DC,SW939747,B035A,,,2001-06-05,Mussels,ND,Negative,<LOD
+BTX/2001/0052,Plymouth,Lynher Shillingham,Plymouth PHA,SX407567,B032L,,,2001-06-05,Mussels,ND,Negative,<LOD
+BTX/2001/0053,Dart,Waddeton,South Hams,SX87405598,B028B,,,2001-06-05,Mussels,ND,Negative,*
+BTX/2001/0054,Colne,Peewit Island,Colchester BC,TM050164,B012E,,,2001-06-06,Native oyster,ND,**,*
+BTX/2001/0055,Roach,Devils Quay,London PHA,TQ972921,B073C,,,2001-06-06,Native oyster,ND,**,**
+BTX/2001/0056,Brixham,Fishcombe Cove,Torbay DC,SX912573,B082A,,,2001-06-06,Mussels,ND,**,*
+BTX/2001/0066,Dee,Caldy Blacks,Wirral B.C.,SJ227837,B045O,,,2001-06-11,Mussel,ND,Negative,<LOD
+BTX/2001/0067,Plymouth,EC52,Plymouth PHA,MAP REF: EC52,,,,2001-06-11,Scallop,ND,Negative,<LOD
+BTX/2001/0068,Fowey,Pont Pill No 38,Fowey PHA,SX155360,B070I,,,2001-06-11,C. gigas,DSP ONLY,Negative,*
+BTX/2001/0069,Thames,Corporation Jetty,London PHA,TQ938827 ,B016D,,,2001-06-11,Mussel,DSP ONLY,Negative,<LOD
+BTX/2001/0070,Thames,Minnis Bay,Thanet D.C.,,,,,2001-06-11,Cockles,ND,Positive,<LOD
+BTX/2001/0071,Liverpool Bay,Leasowe Lighthouse,Mersey PHA,SJ250920,B058D,,,2001-06-11,Mussel,ND,Negative,<LOD
+BTX/2001/0072,Fal,Turnaware Pontoon,Falmouth PHA,SW84093878,B033Z,,,2001-06-11,Mussel,41ug/100g**,Negative,10.4
+BTX/2001/0073,Fal,Malpas,Falmouth PHA,SW84544276,B033C,,,2001-06-11,Mussel,51ug/100g**,Negative,8.87
+BTX/2001/0074,Fal,Penryn,Falmouth PHA,SW80243386,B033T,,,2001-06-11,Native oyster,ND,Unsuitable for Testing,7.68
+BTX/2001/0075,Fal,Percuil,Falmouth PHA,SW85623321,B033R,,,2001-06-11,Native oyster,Not Tested,Unsuitable for Testing,LOD
+BTX/2001/0076,Thames,Chapman Sands,Thames PHA,TQ86208400,B16BM,,,2001-06-11,Cockles,DSP ONLY,Positive,*
+BTX/2001/0077,Thames,Phoenix,Thames PHA,TQ92208250,B16BR,,,2001-06-11,Cockles,DSP ONLY,Positive,*
+BTX/2001/0078,Thames,W. Shoebury,Thames PHA,TQ97108520,B16BH,,,2001-06-11,Cockles,DSP ONLY,Positive,*
+BTX/2001/0079,Thames,N.E. Maplin Sands,Thames PHA,TR06009180,B16BI,,,2001-06-11,Cockles,DSP ONLY,Negative,*
+BTX/2001/0080,Thames,Barton Point Sheppey,Thames PHA,TQ937749 ,B016R,,,2001-06-12,Mussel,Not Tested,Negative,<LOD
+BTX/2001/0081,Thames,River Swale,Thames PHA,TR050658,B076G,,,2001-06-12,Mussel,Not Tested,Negative,<LOD
+BTX/2001/0082,3 Rivers,St Ishmaels,Carmarthenshire C.C.,SN357073,B071E,,,2001-06-10,Mussel,Not Tested,Negative,<LOD
+BTX/2001/0083,Burry Inlet,Burry Inlet N.E.,Carmarthenshire C.C.,SS500974,B038A,,,2001-06-10,Cockles,DOA,DOA,DOA
+BTX/2001/0084,Morecambe Bay,Roa Island,Barrow B.C.,SD233647,B077D,,,2001-06-11,Mussel,Not Tested,Negative,<LOD
+BTX/2001/0087,W Mersea,Strood Channel,Colchester BC,TM000137,B013H,,,2001-06-13,Pacific Oyster,Reported 19/6/01,NEGATIVE (reported 19/6/01),<LOD
+BTX/2001/0094,Portland Harbour,Fleet Lagoon,Weymouth PHA,SY66277626,B025A,,2001-06-15,2001-06-14,Mussel,Reported 19/6/01,NEGATIVE (reported 19/6/01),<LOD
+BTX/2001/0098,Menai Straits,Menai Straits E,Gwynedd CC,SH59407412,B055F,,2001-06-18,2001-06-13,Mussel,ND,NEGATIVE,<LOD
+BTX/2001/0099,Portland Harbour,Several order,Weymouth PHA,SY68277575,B025F,,2001-06-19,2001-06-18,Mussel,ND,NEGATIVE,<LOD
+BTX/2001/0100,Weymouth Bay,Bowleaze Cove,Weymouth PHA,,B025S,,2001-06-19,2001-06-18,Mussel,,NEGATIVE,<LOD
+BTX/2001/0101,Thames,Minnis Bay,Thanet DC,TR274697,B17AD,,2001-06-19,2001-06-18,Cockles,DSP Follow up point,NEGATIVE,DSP Follow up point
+BTX/2001/0102,Portsmouth,Haslar Wall,Portsmouth PHA,SZ62239847,B020E,,2001-06-19,2001-06-18,Native Oysters,ND,NEGATIVE,<LOD
+BTX/2001/0103,Thames,E. Barrows,London PHA,TR22809820,B16BH,,2001-06-19,2001-06-14,Cockles,DSP Follow up point,NEGATIVE,DSP Follow up point
+BTX/2001/0104,Beaulieu,Bucklers Hard,New Forest DC,SU40850019,B023A,,2001-06-19,2001-06-18,Native Oysters,,NEGATIVE,<LOD
+BTX/2001/0105,Thames,W Shoebury,London PHA,TQ97108520,B16BH,,2001-06-19,2001-06-18,Cockles,DSP Follow up point,NEGATIVE,DSP Follow up point
+BTX/2001/0106,Thames,Chapman Sands,London PHA,TQ867844 ,B016A,,2001-06-19,2001-06-18,Cockles,DSP Follow up point,POSITIVE,DSP Follow up point
+BTX/2001/0107,Dovey,Aberdyfi Slipway,Gwynedd CC,SN616959,B041F,,2001-06-19,2001-06-18,Mussel,ND,NEGATIVE,<LOD
+BTX/2001/0108,Portsmouth,Peewit,Portsmouth PHA,SU60290411,B020B,,2001-06-19,2001-06-18,Native Oysters,ND,NEGATIVE,<LOD
+BTX/2001/0109,Crouch,Purleigh Shawl,Maldon DC,TQ866965,B015D,,2001-06-19,2001-06-18,Mussel,DSP Follow up point,NEGATIVE,<LOD
+BTX/2001/0110,Solent,Calshot,Southhampton PHA,SU49100110,B24AW,,2001-06-19,2001-06-18,Native Oysters,DSP Follow up point,NEGATIVE,DSP Follow up point
+BTX/2001/0111,Thames,Phoenix,London PHA,TQ92208250,B16BR,,2001-06-19,2001-06-18,Cockles,DSP Follow up point,NEGATIVE,DSP Follow up point
+BTX/2001/0112,Pegwell Bay,Pegwell Bay,Thanet DC,TR353638,B061A,,2001-06-19,2001-06-18,Cockles,DSP Follow up point,NEGATIVE,<LOD
+BTX/2001/0113,Thames,NE Maplin Sands 2,London PHA,TR06009180,B016G,,2001-06-19,2001-06-18,Cockles,DSP Follow up point,POSITIVE,DSP Follow up point
+BTX/2001/0114,Solent,Stanswood Bay,Southhampton PHA,SZ47509960,B24AV,,2001-06-19,2001-06-18,Native Oysters,DSP Follow up point,NEGATIVE,DSP Follow up point
+BTX/2001/0115,Solent,Netley,Southhampton PHA,SU453077,B021D,,2001-06-19,2001-06-18,Native Oysters,DSP Follow up point,NEGATIVE,DSP Follow up point
+BTX/2001/0116,Mawddach,Crescent,Gwynedd CC,SH635151,B064B,,2001-06-19,2001-06-18,Mussel,ND,NEGATIVE,<LOD
+BTX/2001/0117,Portsmouth,Langstone Main Channel,Portsmouth PHA,SU70600391,B019A,,2001-06-19,2001-06-18,Native Oysters,,NEGATIVE,<LOD
+BTX/2001/0118,Thames,Pollard,Canterbury CC,TR082669,B17AM,,2001-06-19,2001-06-17,Pacific Oyster,DSP Follow up point,NEGATIVE,DSP Follow up point
+BTX/2001/0119,Fishguard Harbour,Goodwick Sands,Pembrokeshire CC,SM95063778,B068B,,2001-06-19,2001-06-18,Mussel,ND,NEGATIVE,<LOD
+BTX/2001/0120,Solent,Fawley,Southhampton PHA,SU485033,B021H,,2001-06-19,2001-06-18,Native Oysters,DSP Follow up point,NEGATIVE,DSP Follow up point
+BTX/2001/0121,Solent,Chilling,Southhampton PHA,,,,2001-06-19,2001-06-18,Native Oysters,DSP Follow up point,NEGATIVE,DSP Follow up point
+BTX/2001/0122,Solent,E Ryde Middle,Southhampton PHA,SZ584970,B024W,,2001-06-19,2001-06-18,Native Oysters,,NEGATIVE,
+BTX/2001/0123,Thames,Pollard,Canterbury CC,TR082669,B17AM,,2001-06-19,2001-06-17,Cockles,DSP Follow up point,NEGATIVE,DSP Follow up point
+BTX/2001/0124,Fal,Malpas,Falmouth PHA,SW84544276,B033C,,2001-06-19,2001-06-18,Mussel,ND,PSP only,<LOD
+BTX/2001/0125,Fal,Turnaware,Falmouth PHA,SW84093878,B033Z,,2001-06-19,2001-06-18,Mussel,ND,PSP only,LOD
+BTX/2001/0126,Milford Haven,Lawrennie quay,Pembrokeshire CC,SN10062,,,2001-06-20,2001-06-19,Mussel,,NEGATIVE,<LOD
+BTX/2001/0127,Fal,Calamansac,Falmouth PHA,SW75282664,B034A,,2001-06-20,2001-06-19,Scallop,ND,NEGATIVE,
+BTX/2001/0128,Milford Haven,Coedcanlas Spit,Pembrokeshire CC,SN001086,B039H,,2001-06-20,2001-06-19,Mussel,,NEGATIVE,<LOD
+BTX/2001/0129,Thames,Pollard,Canterbury CC,TR082669,B17AM,,2001-06-20,2001-06-18,Clams,DSP Follow up point,NEGATIVE,DSP Follow up point
+BTX/2001/0130,Brancaster,Brancaster Staithe,Kings Lynn DC,TF815457,B005S,,2001-06-20,2001-06-18,Mussel,ND,NEGATIVE,<LOD
+BTX/2001/0131,Bigbury and Avon,W Bank,South Hams DC,SX67254489,B030C,,2001-06-20,2001-06-19,Mussel,,NEGATIVE,<LOD
+BTX/2001/0132,Fal,Calamansac,Falmouth PHA,SW75282664,B034A,,2001-06-20,2001-06-19,Native Oysters,ND,NEGATIVE,LOD
+BTX/2001/0095,Colne,Colne Point,Colchester BC,TM102119,B012D,,2001-06-15,2001-06-14,Mussel,,Negative,
+BTX/2001/0096,Colne,Wreck Marker,Colchester BC,TM070139,B012G,,2001-06-15,2001-06-14,Mussel,,Negative,
+BTX/2001/0097,Colne,Brightlingsea,Colchester BC,TM082162,B012A,,2001-06-15,2001-06-14,Mussel,,Negative,
+BTX/2001/0086,Blakeney,Simpool,N. Norfolk,TF990453,B006C,,2001-06-13,2001-06-12,Mussel,ND,Negative,
+BTX/2001/0087,West Mersea,Strood Channel,Colchester BC,TM000137,B013H,,2001-06-14,2001-06-13,C. gigas,ND,Negative,
+BTX/2001/0080,Thames,Barton Point Sheppey,Thames PHA,TQ937749 ,B016R,,2001-06-13,2001-06-12,Mussel,ND,Negative,<LOD
+BTX/2001/0081,Thames,River Swale,Thames PHA,TR050658,B076G,,2001-06-13,2001-06-12,Mussel,ND,Negative,<LOD
+BTX/2001/0088,Southampton Water,Netley,Southampton PHA,SU453077,B021D,,2001-06-14,2001-06-13,O. edulis,,Negative,
+BTX/2001/0089,Solent,Chilling Ground,Southampton PHA,,,,2001-06-14,2001-06-13,O. edulis,,Negative,
+BTX/2001/0090,Solent,Calshot,Southampton PHA,SU49100110,B024AW,,2001-06-14,2001-06-13,O. edulis,,Negative,
+BTX/2001/0091,Solent,East Ryde Middle,Southampton PHA,SZ56309690,B024W,,2001-06-14,2001-06-13,O. edulis,,Negative,
+BTX/2001/0092,Solent,Fawley,Southampton PHA,SU499031,B021H,,2001-06-14,2001-06-13,O. edulis,,Negative,
+BTX/2001/0093,Solent,Stanswood Bay,Southampton PHA,SZ47509960,B24AV,,2001-06-14,2001-06-13,O. edulis,,Negative,
+BTX/2001/0094,Weymouth,Fleet Lagoon,Weymouth PHA,,,,2001-06-14,2001-06-14,Mussel,ND,Negative,
+BTX/2001/0082,3 Rivers,St Ishmaels,Carmarthenshire C.C.,SN357073,B071E,,2001-06-13,2001-06-10,Mussel,ND,Negative,<LOD
+BTX/2001/0083,Burry Inlet,Burry Inlet N.E.,Carmarthenshire C.C.,SS500974,B038A,,2001-06-13,2001-06-10,Cockles,DOA,DOA,DOA
+BTX/2001/0098,Menai Straits,East,Gwynedd CC,SH59407412,B055F,,2001-06-18,2001-06-13,Mussel,,Negative,
+BTX/2001/0084,Morecambe Bay,Roa Island,Barrow B.C.,SD233647,B077D,,2001-06-13,2001-06-11,Mussel,ND,Negative,<LOD
+BTX/2001/0085,Barrow,Cocken Tunnel,Barrow B.C.,SD185706,B077B,,2001-06-13,2001-06-11,Mussel,ND,Negative,
+BTX/2001/0149,Holy Island-Ross Links,Ross Links,Berwick upon Tweed BC,NU12333958,B001M,,,2001-06-25,Pacific oyster,ND,NEGATIVE,<LOD
+BTX/2001/0137,Colne,Wreck Marker,Colchester BC,TM070139,B012G,,,2001-06-21,Mussel,,NEGATIVE,
+BTX/2001/0138,Colne,Brightlingsea,Colchester BC,TM082162,B012A,,,2001-06-21,Mussel,,NEGATIVE,<LOD
+BTX/2001/0139,Colne,Colne Point,Colchester BC,TM102119,B012D,,,2001-06-21,Mussel,,NEGATIVE,<LOD
+BTX/2001/0166,The Thames,Phoenix,London PHA,TQ92208250,B16BR,,,2001-06-26,Cockles,,NEGATIVE,
+BTX/2001/0164,The Thames,N E Maplin Sands 2,London PHA,TR06009180,B16BI,,,2001-06-26,Cockles,,NEGATIVE,
+BTX/2001/0165,The Thames,W Shoebury,London PHA,TQ97108520,B16BH,,,2001-06-26,Cockles,,NEGATIVE,
+BTX/2001/0167,The Thames,Chapman Sands,London PHA,TQ867844,B16BH,,,2001-06-26,Cockles,,NEGATIVE,
+BTX/2001/0134,The Thames,East Barrow,London PHA,TR22809820,,,,2001-06-20,Cockles,,NEGATIVE,
+BTX/2001/0153,The Thames,Minnis Bay,Thanet DC,TR274697,B17AD,,,2001-06-25,Cockles,,NEGATIVE,
+BTX/2001/0141,The Thames,Pollard,Canterbury CC,TR082669,B17AM,,,2001-06-25,Cockles,,NEGATIVE,
+BTX/2001/0142,The Thames,Pollard,Canterbury CC,TR082670,B17AM,,,2001-06-25,Clams,,NEGATIVE,
+BTX/2001/0143,The Thames,Pollard,Canterbury CC,TR082671,B17AM,,,2001-06-25,Pacific oyster,,NEGATIVE,
+BTX/2001/0145,Southampton Water,Netley,Southampton PHA,SU453077,B021D,,,2001-06-25,Native oyster,ND,NEGATIVE,<LOD
+BTX/2001/0144,Southampton Water,Hamble Estuary,Southampton PHA,SU479053,B021F,,,2001-06-25,Native oyster,ND,NEGATIVE,<LOD
+BTX/2001/0146,The Solent,Stanswood,Southampton PHA,SZ47509960,B24AV,,,2001-06-25,Native oyster,ND,NEGATIVE,<LOD
+BTX/2001/0162,Lymington River,No. 3 Post,New Forest DC,SZ34809375,B24AF,,,2001-06-26,Native oyster,,NEGATIVE,<LOD
+BTX/2001/0133,Poole,C.Brewer PlotBN  (Ramshorn),Poole Council,SZ002882,B054L,,,2001-06-19,Mussel,ND,NEGATIVE,<LOD
+BTX/2001/0154,Fowey,Pont Pill No 34,Fowey PHA,SX13405165,B070I,,,2001-06-25,Pacific oyster,ND,,
+BTX/2001/0155,Fowey,Wisemans,Fowey PHA,SX12605320,B070K,,,2001-06-25,Mussel,ND,,
+BTX/2001/0156,Fal,Malpas,Falmouth PHA,SW84544276,B033C,,,2001-06-25,Mussel,ND,,<LOD
+BTX/2001/0158,Fal,Penryn River - Meads,Falmouth PHA,SW80243386,B033T,,,2001-06-25,Native oyster,ND,,<LOD
+BTX/2001/0159,Fal,T Pontoon,Falmouth PHA,SW84093878,B033Z,,,2001-06-25,Mussel,ND,,<LOD
+BTX/2001/0157,Fal,Percuil,Falmouth PHA,SW85623321,B033R,,,2001-06-25,Native oyster,ND,,<LOD
+BTX/2001/0150,Bigbury and Avon,Hexdown Quay,South Hams DC,SX67254489,B030C,,,2001-06-25,Pacific oyster,ND,NEGATIVE,<LOD
+BTX/2001/0151,Bigbury and Avon,Hexdown Quay,South Hams DC,SX67254489,B030C,,,2001-06-25,Mussel,ND,NEGATIVE,<LOD
+BTX/2001/0135,Taw/Torridge,Appledore,Taw-Torridge ,SS466305,B036Q,,,2001-06-20,Mussel,ND,NEGATIVE,<LOD
+BTX/2001/0140,Taw/Torridge,Cool Stone - Instow,North Devon DC,SS473321,B036F,,,2001-06-20,Mussel,ND,NEGATIVE,*
+BTX/2001/0136,Swansea,Swansea Bay S,Swansea CC,SS62908930,B037I,,,2001-06-20,Mussel,ND,NEGATIVE,<LOD
+BTX/2001/0152,Menai Strait - East,Bangor,Gwynedd County BC,SH59407412,B055F,,,2001-06-25,Mussel,ND,NEGATIVE,<LOD
+BTX/2001/0163,Ribble,Salters Bank,West Lancashire DC,SD328259,B046C,,,2001-06-26,Mussel,ND,NEGATIVE,<LOD
+BTX/2001/0160,Lune,Wyre End Scar,Wyre BC,SD33105190,B066H,,,2001-06-26,Mussel,ND,NEGATIVE,<LOD
+BTX/2001/0161,,,Wyre BC,,,,,,Scallop,ND,NEGATIVE,<LOD
+BTX/2001/0148,Morecambe Bay - East,Heysham Flat Skeer,Lancaster CC,SD407628,B047D,,,2001-06-25,Mussel,ND,NEGATIVE,<LOD
+BTX/2001/0147,Ravenglass,Ravenglass 2,Copeland DC,SD08359610,B053C,,,2001-06-25,Mussel,ND,NEGATIVE,<LOD
+BTX/2001/0168,Silloth,B059E,Allerdale DC,NY076517,Dubmill Point,,2001-06-28,2001-06-26,Mussels,ND,NEGATIVE,
+BTX/2001/0184,Helford,B034A,Falmouth PHA,SW75282664,Calamansack Bar,,2001-07-02,2001-07-02,Native oyster,ND,,<LOD
+BTX/2001/0187*,Blyth,B007A,Waveney DC,TM475765,Harbour River Blyth,2001-07-04,2001-07-05,2001-07-02,Mussels,,,<LOD
+BTX/2001/0182,The Thames,B16BM,London PHA,TQ86208400,Chapman Sands,,2001-07-04,2001-07-03,Cockles,ND,POSITIVE,
+BTX/2001/0188*,The Thames,B16BQ,London PHA,TM08800210,Buxey No 4,2001-07-04,2001-07-05,2001-07-02,Cockles,,,<LOD
+BTX/2001/0169,Blackwater,B013F,Maldon DC,TL98611115,Tollesbury North Fleet,2001-06-29,2001-06-29,2001-06-28,Native oyster,ND,,
+BTX/2001/0175,The Thames,B17AD,Thanet,TR274697,Minnis Bay,,2001-07-03,2001-07-02,Cockles,ND,POSITIVE,
+BTX/2001/0173,The Solent,B063B,Isle of Wight Council,SZ501951,Medina Wharf,2001-07-03,2001-07-03,2001-07-02,Native oyster,ND,,<LOD
+BTX/2001/0174,The Solent,B024B,Isle of Wight Council,SZ579940,Mother Bank,2001-07-03,2001-07-03,2001-07-02,Native oyster,ND,,<LOD
+BTX/2001/0186,Camel,B035J,North Cornwall DC,SW939747,Gentle Jane,2001-07-04,2001-07-04,2001-07-03,Mussels,ND,NEGATIVE,<LOD
+BTX/2001/0185,Camel,B035J,North Cornwall DC,SW92417788,Trebetherick Rocks,2001-07-04,2001-07-04,2001-07-03,Mussels,ND,NEGATIVE,<LOD
+BTX/2001/0176,Plymouth,EC63,Plymouth PHA,,EC63,2001-07-03,2001-07-04,2001-07-02,Scallop,ND,NEGATIVE,2.4
+BTX/2001/0177,Poole,B054Q,Poole Council,SZ064858,Bournemouth Pier,2001-07-04,2001-07-04,2001-07-03,Mussels,ND,,<LOD
+BTX/2001/0178,Poole,B054L,Poole Council,SZ002882,C.Brewer PlotBN (Ramshorn),2001-07-04,2001-07-04,2001-07-03,Mussels,ND,NEGATIVE,<LOD
+BTX/2001/0183,Exe,B26AA,Teignbridge DC,SX977809,Pool,,2001-07-04,2001-07-03,Mussels,ND,NEGATIVE,<LOD
+BTX/2001/0170,Weymouth Inner Harbour,,Weymouth PHA,,Inner Harbour,,2001-06-29,2001-06-29,Mussels,ND**,,
+BTX/2001/0180,Milford Haven,B039H,Milford Haven PHA,SN001086,Coedcanlas Spit,2001-07-05,2001-07-04,2001-07-03,Mussels,ND,NEGATIVE,
+BTX/2001/0179,Milford Haven,,Milford Haven PHA,SN010062,Lawrenny Quay,2001-07-05,2001-07-04,2001-07-03,Mussels,ND,NEGATIVE,
+BTX/2001/0171,Colwyn Bay,B069C,Conwy County BC,SH897786,Llanddulas,2001-06-30,2001-07-02,2001-06-28,Mussels,ND,NEGATIVE,<LOD
+BTX/2001/0172,Conwy,B044H,Conwy County BC,SH773795,Bicallt,2001-06-30,2001-07-02,2001-06-28,Mussels,ND,NEGATIVE,<LOD
+BTX/2001/0193,Holy Island-Ross Links,B001M,Berwick upon Tweed BC,NU12333958,Ross Links,2001-07-05,2001-07-04,,Mussels,ND,NEGATIVE,<LOD
+BTX/2001/0187,Blyth,,River Blyth PHA,,Blyth Harbour Northumberland,2001-07-05,2001-07-02,,Mussels,28.51 ug/100g*,NEGATIVE,<LOD
+BTX/2001/0216,Bigbury and Avon,B030C,South Hams DC,SX67254489,West Bank - Relaying,2001-07-11,2001-07-10,,Pacific oyster,ND,NEGATIVE,<LOD
+BTX/2001/0215,The Wash,B004F,Kings Lynn & W Norfolk BC,TF602342,Stylemans,2001-07-11,2001-07-10,,Mussels,ND,NEGATIVE,<LOD
+BTX/2001/0200,Alde/Ore,B008E,Suffolk Coastal DC,TM46185505,Martello Tower,2001-07-10,2001-07-09,,Mussels,ND,NEGATIVE,<LOD
+BTX/2001/0196,Butley,B009A,Suffolk Coastal DC,TM397487,Butley Creek,2001-07-10,2001-07-09,,Pacific oyster,ND,PSP ONLY,<LOD
+BTX/2001/0190,Colne,B012E,Colchester BC,TM050164,Peewit Island,2001-07-05,2001-07-04,,Native oyster,ND,NEGATIVE,<LOD
+BTX/2001/0197,The Thames,B17AM,,,Pollard,2001-07-09,2001-07-08,,Clams,ND,,
+BTX/2001/0198,The Thames,B17AM,Canterbury CC,TR082669,Pollard,2001-07-10,2001-07-09,,Pacific oyster,ND,NEGATIVE,
+BTX/2001/0199,The Thames,B17AM,Canterbury CC,TR082669,Pollard,2001-07-10,2001-07-09,,Cockles,ND,POSITIVE,<LOD
+BTX/2001/0201,Thames,B17AD,Thanet DC,TR274697,Minnis Bay,2001-07-10,2001-07-09,,Cockles,DSP ONLY,POSITIVE,<LOD
+BTX/2001/0202,Pegwell Bay,B016A,Thanet DC,TR353638,Pegwell Bay,2001-07-10,2001-07-09,,Cockles,ND,POSITIVE,<LOD
+BTX/2001/0203,Thames,,Canterbury CC,,Longrock,2001-07-10,2001-07-09,,Mussels,ND,NEGATIVE,<LOD
+BTX/2001/0222,Thames,B16BH,London PHA,TQ867844,Chapman Sands,2001-07-11,2001-07-09,,Cockles,DSP ONLY,NEGATIVE,
+BTX/2001/0223,The Swale,B076F,Swale BC,TR042651,Swale BC/6,2001-07-11,2001-07-10,,Mussels,ND,NEGATIVE,<LOD
+BTX/2001/0224,The Thames,B16BI,London PHA,TR06009180,N E Maplin Sands 2,2001-07-11,2001-07-09,,Cockles,ND,POSITIVE,
+BTX/2001/0218,Chichester Harbour,B018E,Havant BC,SU746005,Mill Rythe,2001-07-11,2001-07-09,,Native oyster,ND,PSP ONLY,<LOD
+BTX/2001/0219,Chichester Harbour,B018C,Havant BC,SU784016,Chichester Chnl,2001-07-11,2001-07-09,,Native oyster,ND,PSP ONLY,<LOD
+BTX/2001/0173,Solent,B063B,Isle of Wight Council,SZ501951,Medina Wharf,2001-07-03,2001-07-02,,Oysters,ND,NEGATIVE,<LOD
+BTX/2001/0174,Solent,B024B,Isle of Wight Council,SZ579940,Mother Bank,2001-07-03,2001-07-02,,Oysters,ND,NEGATIVE,<LOD
+BTX/2001/0177,Poole,B054Q,Poole Borough Council,SZ064858,Bournemouth Pier,2001-07-04,2001-07-03,,Mussels,ND,NEGATIVE,<LOD
+BTX/2001/0194,Portland,Wyke,Weymouth PHA,SY68277575,B025F,2001-07-05,2001-07-05,,Mussels,DSP ONLY,NEGATIVE,<LOD
+BTX/2001/0229,Portland,Wyke,Weymouth PHA,SY68277575,B025F,2001-07-10,2001-07-10,,Mussels,DSP ONLY,NEGATIVE,
+BTX/2001/0220,Fowey,B070K,Fowey PHA,SX12605320,Wisemans,2001-07-11,2001-07-10,,Pacific oyster,ND,NEGATIVE,<LOD
+BTX/2001/0221,Fowey,B070K,Fowey PHA,SX12605320,Wisemans,2001-07-11,2001-07-10,,Mussels,ND,NEGATIVE,
+BTX/2001/0225,Fal,B033R,Falmouth PHA,SW85623321,Percuil,2001-07-11,2001-07-10,,Native oyster,ND,PSP ONLY,
+BTX/2001/0226,Fal,B033T,Falmouth PHA,SW80243386,Penryn River - Meads,2001-07-11,2001-07-10,,Native oyster,ND,PSP ONLY,
+BTX/2001/0227,Fal,B033Z,Falmouth PHA,SW84093878,T Pontoon,2001-07-11,2001-07-10,,Mussels,ND,NEGATIVE,
+BTX/2001/0228,Fal,B033C,Falmouth PHA,SW84544276,Malpas,2001-07-11,2001-07-10,,Mussels,ND,NEGATIVE,
+BTX/2001/0217,Bigbury and Avon,B030C,South Hams DC,SX67254489,West Bank - Relaying,2001-07-11,2001-07-10,,Mussels,ND,NEGATIVE,
+BTX/2001/0191,Brixham,B082A,Torbay BC,SX912573,Fishcombe Cove Brixham,2001-07-05,2001-07-04,,Mussels,ND,NEGATIVE,<LOD
+BTX/2001/0192,Dart,B028B,South Hams DC,SX87405598,Waddeton,2001-07-05,2001-07-04,,Mussels,ND,NEGATIVE,<LOD
+BTX/2001/0204,St Ives Bay,B088E,Penwith DC,SW53403880,Wackys Cave,2001-07-10,2001-07-09,,Mussels,ND,NEGATIVE,<LOD
+BTX/2001/0205,St Ives Bay,B088B,Penwith DC,SW58134283,Godrevy Cove,2001-07-10,2001-07-09,,Mussels,ND,NEGATIVE,<LOD
+BTX/2001/0206,Three Rivers,B071E,Carmarthenshire CC,SN357073,St Ishmaels,2001-07-10,2001-07-08,,Mussels,ND,NEGATIVE,<LOD
+BTX/2001/0210,Burry Inlet,B038A,Carmarthenshire CC,SS500974,North (East),2001-07-10,2001-07-08,,Cockles,ND,POSITIVE,<LOD
+BTX/2001/0209,Menai Strait - East,B055F,Gwynedd County BC,SH59407412,Bangor,2001-07-10,2001-07-09,,Mussels,ND,NEGATIVE,<LOD
+BTX/2001/0211,Dee,B045O,Wirral BC,SJ227837,Caldy Blacks,2001-07-10,2001-07-09,,Mussels,ND,NEGATIVE,<LOD
+BTX/2001/0212,Liverpool Bay- N. Wirral,B058D,Mersey PHA,SJ250920,Leasowe Lighthouse,2001-07-10,2001-07-09,,Mussels,ND,NEGATIVE,
+BTX/2001/0213,Morecambe Bay - Barrow,B077B,Barrow BC,SD185706,Cocken Tunnel,2001-07-10,2001-07-09,,Mussels,ND,NEGATIVE,<LOD
+BTX/2001/0214,Morecambe Bay - Roa Island,B077D,Barrow BC,SD233647,Roa Island,2001-07-10,2001-07-09,,Mussels,ND,NEGATIVE,<LOD
+BTX/2001/0195,Fleetwood,1VA,Wyre BC,,Port,2001-07-10,2001-07-09,,Scallop,51.16 ug/100g,NEGATIVE,<LOD
+BTX/2001/0232,The Wash,B003D,Boston BC,TF439377,Maretail,2001-07-10,2001-07-16,2001-07-13,Mussel,DOA,DOA,<LOD
+BTX/2001/0253,Blakeney,B006C,North Norfolk DC,TF990453,Simpool,2001-07-17,2001-07-18,2001-07-18,Mussel,ND,NEGATIVE,<LOD
+BTX/2001/0233,West Mersea,B013H,Colchester BC,TM000137,Strood Channel,2001-07-13,2001-07-16,,Native oyster,ND,Insufficient shellfish for test,<LOD
+BTX/2001/0230,Blackwater,B014D,Maldon DC,TL925077,Goldhanger Creek,2001-07-09,2001-07-12,2001-07-12,Pacific oyster,ND,NEGATIVE,<LOD
+BTX/2001/0231,The Thames,B016R,London PHA,TQ937749,Sheppey Bart Pt,2001-07-12,2001-07-12,2001-07-13,Mussel,ND,NEGATIVE,<LOD
+BTX/2001/0242,The Thames,B17AM,Canterbury CC,TR082669,Pollard,2001-07-16,2001-07-17,2001-07-17,Clams,DSP ONLY,NEGATIVE,<LOD
+BTX/2001/0243,The Thames,B17AM,Canterbury CC,TR082669,Pollard,2001-07-16,2001-07-17,2001-07-17,Cockles,DSP ONLY,NEGATIVE,DSP ONLY
+BTX/2001/0244,The Thames,B16BI,London PHA,TR06009180,N E Maplin Sands 2,2001-07-16,2001-07-17,,Cockles,DSP ONLY,NEGATIVE,DSP ONLY
+BTX/2001/0245,The Thames,B16BH,London PHA,TQ867844,Chapman Sands,2001-07-16,2001-07-17,,Cockles,DSP ONLY,NEGATIVE,DSP ONLY
+BTX/2001/0246,The Thames,B17AM,Canterbury CC,TR082669,Pollard,2001-07-16,2001-07-17,2001-07-17,Pacific oyster,DSP ONLY,NEGATIVE,<LOD
+BTX/2001/0252,Thames,B073C,London PHA,TQ972923,Paglesham Reach,2001-07-17,2001-07-18,2001-07-17,Native oyster,ND,NEGATIVE,<LOD
+BTX/2001/0250,Southampton Water,B021F,Southampton PHA,SU479053,Hamble Estuary,2001-07-16,2001-07-17,2001-07-17,Native oyster,ND,NEGATIVE,<LOD
+BTX/2001/0251,Southampton Water,B021D,Southampton PHA,SU453077,Netley,2001-07-16,2001-07-17,2001-07-17,Native oyster,ND,NEGATIVE,<LOD
+BTX/2001/0249,The Solent,B24AV,Southampton PHA,SZ47509960,Stanswood,2001-07-16,2001-07-17,2001-07-17,Native oyster,ND,NEGATIVE,<LOD
+BTX/2001/0221,Fowey,B070K,Fowey PHA,SX12605320,Wisemans Reach,2001-07-09,,2001-07-11,Mussel,Reported last Week,Reported last Week,<LOD
+BTX/2001/0225,Fal,B033R,Falmouth PHA,SW85623321,Percuil,2001-07-10,,2001-07-11,Native oyster,Reported last Week,Reported last Week,<LOD
+BTX/2001/0226,Fal,B033T,Falmouth PHA,SW80243386,Penryn,2001-07-10,,2001-07-11,Native oyster,Reported last Week,Reported last Week,<LOD
+BTX/2001/0227,Fal,B033Z,Falmouth PHA,SW84093878,Turnaware,2001-07-10,,2001-07-11,Mussel,Reported last Week,Reported last Week,<LOD
+BTX/2001/0228,Fal,B033C,Falmouth PHA,SW84544276,Malpas,2001-07-10,,2001-07-11,Mussel,Reported last Week,Reported last Week,<LOD
+BTX/2001/0255,Falmouth,,Falmouth PHA,,Falmouth Bay,2001-07-17,2001-07-18,,Scallop,ND,NEGATIVE,Not received at Burnham
+BTX/2001/0254,Camel,BO35J,North Cornwall DC,SW939747,Gentle Jane,2001-07-17,2001-07-18,,Mussel,ND,NEGATIVE,Not received at Burnham
+BTX/2001/0256,Camel,B035J,North Cornwall DC,SW92417788,Trebetherick Rocks,2001-07-17,,2001-07-18,Mussel,Not received at Weymouth,Not received at Weymouth,<LOD
+BTX/2001/0234,Burry Inlet,B038I,Carmarthenshire CC,SS505959,South side (East),2001-07-16,2001-07-17,,Cockles,DSP ONLY,NEGATIVE,DSP ONLY
+BTX/2001/0235,Burry Inlet,B038K,Carmarthenshire CC,SS487959,South side (Mid),2001-07-16,2001-07-17,,Cockles,DSP ONLY,NEGATIVE,DSP ONLY
+BTX/2001/0236,Burry Inlet,B038J,Carmarthenshire CC,SS472961,South side (West),2001-07-16,2001-07-17,,Cockles,DSP ONLY,POSITIVE,DSP ONLY
+BTX/2001/0237,Burry Inlet,B038L,Carmarthenshire CC,SS444973,Whitford Point,2001-07-16,2001-07-17,,Mussel,DSP ONLY,NEGATIVE,DSP ONLY
+BTX/2001/0238,Burry Inlet,B038Q,Carmarthenshire CC,SS53639594,Ochor Draw,2001-07-16,2001-07-17,,Cockles,DSP ONLY,POSITIVE,DSP ONLY
+BTX/2001/0239,Burry Inlet,B038B,Llanelli CC,SS483996,Site 4 North (West),2001-07-16,2001-07-17,,Cockles,DSP ONLY,NEGATIVE,DSP ONLY
+BTX/2001/0240,Burry Inlet,B038A,Llanelli CC,SS500974,Site 4 North (East),2001-07-16,2001-07-17,,Cockles,DSP ONLY,NEGATIVE,DSP ONLY
+BTX/2001/0241,Burry Inlet,B038G,Llanelli CC,SS483005,Site 6 Pwll,2001-07-16,2001-07-17,,Mussel,DSP ONLY,NEGATIVE,DSP ONLY
+BTX/2001/0247,Dovey,B041F,Gwynedd County BC,SN616959,Aberdyfi Slipwy,2001-07-16,2001-07-17,2001-07-17,Mussel,ND,NEGATIVE,<LOD
+BTX/2001/0248,Mawddach,B064B,Gwynedd County BC,SH635151,Mawddach,2001-07-16,2001-07-17,2001-07-17,Mussel,ND,NEGATIVE,<LOD
+BTX/2001/0257,Portland,B025F,Weymouth PHA,SY68277575,Wyke,2001-07-18,2001-07-18,2001-07-19,Mussels,ND,PSP only,<LOD
+BTX/2001/0258,Thames,B17AD,Thanet DC,TR274697,Minnis Bay,2001-07-18,2001-07-19,,Cockles,DSP only,NEGATIVE,
+BTX/2001/0259,Pegwell Bay,B016A,Thanet DC,TR353638,Pegwell Bay,2001-07-18,2001-07-19,,Cockles,DSP only,NEGATIVE,
+BTX/2001/0260,Glaslyn/Dwyryd Estuary,B074B,Gwynedd County BC,SH579365,Dwyrd Estuary,2001-07-18,2001-07-19,2001-07-20,Cockles,ND,NEGATIVE,<LOD
+BTX/2001/0261,Taw/Torridge,B036Q,Taw-Torridge ,SS466305,Appledore,2001-07-18,2001-07-19,2001-07-19,Mussels,ND,NEGATIVE,<LOD
+BTX/2001/0262,Swansea,B037I,City and Council of Swansea,SS62908930,Swansea Bay S,2001-07-18,2001-07-19,2001-07-19,Mussels,ND,NEGATIVE,<LOD
+BTX/2001/0263,Conwy,B044H,Conwy County BC,,Bicallt,2001-07-17,2001-07-19,2001-07-20,Mussels,ND,NEGATIVE,<LOD
+BTX/2001/0264,Colne,B012G,Colchester BC,TM070139,Wreck Marker,2001-07-19,2001-07-23,,Mussels,DOA,DOA,
+BTX/2001/0265,Brancaster,B005S,Kings Lynn & W Norfolk BC,TF815457,Norton Creek,2001-07-23,2001-07-24,2001-07-24,Mussels,ND,NEGATIVE,<LOD
+BTX/2001/0266,The Thames,B17AM,Canterbury CC,TR082669,Pollard,2001-07-23,2001-07-24,,Cockles,DSP only,POSITIVE,
+BTX/2001/0267,The Thames,B17AM,Canterbury CC,TR082669,Pollard,2001-07-23,2001-07-24,,Pacific oysters,DSP only,NEGATIVE,
+BTX/2001/0268,The Thames,B17AM,Canterbury CC,TR082669,Pollard,2001-07-23,2001-07-24,,Clams,DSP only,NEGATIVE,
+BTX/2001/0269,Thames,B17AD,Thanet DC,TR274697,Minnis Bay,2001-07-23,2001-07-24,,Cockles,DSP only,NEGATIVE,
+BTX/2001/0270,Beaulieu,B023A,New Forest DC,SU40850019,Bucklers Hard,2001-07-23,2001-07-24,2001-07-25,Native oysters,ND,NEGATIVE,<LOD
+BTX/2001/0271,Fowey,B070I,Fowey PHA,SX13405165,Pont Pill No 34,2001-07-23,2001-07-24,2001-07-24,Pacific oysters,ND,PSP only,<LOD
+BTX/2001/0272,Fowey,B070K,Fowey PHA,SX12605320,Wisemans,2001-07-23,2001-07-24,2001-07-24,Mussels,ND,PSP only,<LOD
+BTX/2001/0273,Menai Strait - East,B055F,Gwynedd County BC,SH59407412,Bangor,2001-07-23,2001-07-24,2001-07-24,Mussels,ND,NEGATIVE,<LOD
+BTX/2001/0274,Morecambe Bay - East,B047D,Lancaster CC,SD407628,Heysham Flat Skeer,2001-07-23,2001-07-24,2001-07-24,Mussels,ND,NEGATIVE,<LOD
+BTX/2001/0275,Ravenglass,B053C,Copeland BC,SD08359610,Ravenglass 2,2001-07-23,2001-07-24,2001-07-24,Mussels,ND,NEGATIVE,<LOD
+BTX/2001/0276,Burry Inlet,B038G,Carmarthenshire C C,SS483005,Site 6 Pwll,2001-07-23,2001-07-24,,Mussels,DSP only,NEGATIVE,
+BTX/2001/0277,Burry Inlet,B038B,Carmarthenshire C C,SS483996,Site 4 North (West),2001-07-23,2001-07-24,,Cockles,DSP only,NEGATIVE,
+BTX/2001/0278,Burry Inlet,B038A,Carmarthenshire C C,SS500974,Site 4 North (East),2001-07-23,2001-07-24,,Cockles,DSP only,NEGATIVE,
+BTX/2001/0279,Portland,B025F,Weymouth PHA,SY68277575,Wyke,2001-07-24,2001-07-24,2001-07-25,Mussels,ND,NEGATIVE,<LOD
+BTX/2001/0280,Holy Island-Ross Links,B001M,Berwick upon Tweed BC,NU12333958,Ross Links,2001-07-24,2001-07-25,2001-07-25,Mussels,ND,NEGATIVE,<LOD
+BTX/2001/0281,The Thames,B16BI,London PHA,TR06009180,N E Maplin Sands 2,2001-07-23,2001-07-25,,Cockles,DSP only,NEGATIVE,
+BTX/2001/0282,The Thames,B016D,London PHA,,Corporation Jetty,2001-07-24,2001-07-25,2001-07-25,Mussels,ND,NEGATIVE,<LOD
+BTX/2001/0283,Pegwell Bay,B016A,Thanet DC,TR353638,Pegwell Bay,2001-07-24,2001-07-25,,Cockles,DSP only,NEGATIVE,
+BTX/2001/0284,Lymington River,B24AF,New Forest DC,SZ34809375,No. 3 Post,2001-07-24,2001-07-25,2001-07-25,Native oysters,ND,NEGATIVE,<LOD
+BTX/2001/0285,Plymouth,B032L,Plymouth PHA,SX407567,Lynher - Shillingham,2001-07-24,2001-07-25,2001-07-25,Mussels,ND,NEGATIVE,<LOD
+BTX/2001/0286,Silloth,B059E,Allerdale DC,NY076517,Silloth,2001-07-24,2001-07-25,2001-07-25,Mussels,ND,NEGATIVE,<LOD
+BTX/2001/0287,Fal,B033C,Falmouth PHA,SW84544276,Malpas,2001-07-24,2001-07-25,2001-07-25,Mussels,ND,PSP only,<LOD
+BTX/2001/0288,Fal,B033Z,Falmouth PHA,SW84093878,T Pontoon,2001-07-24,2001-07-25,2001-07-25,Mussels,ND,PSP only,<LOD
+BTX/2001/0289,Fal,B033R,Falmouth PHA,SW85623321,Percuil,2001-07-24,2001-07-25,2001-07-25,Native oysters,ND,NEGATIVE,<LOD
+BTX/2001/0290,,VIIE,Wyre BC,VIIE,"""Picker""",2001-07-24,2001-07-26,2001-07-25,Scallops,,,<LOD
+BTX/2001/0291,Burry Inlet,B038L,City and Council of Swansea,SS444973,Whitford Point,2001-07-23,2001-07-25,,Mussels,DSP only,NEGATIVE,
+BTX/2001/0292,Burry Inlet,B038Q,City and Council of Swansea,SS53639594,Ochor Draw,2001-07-23,2001-07-25,,Cockles,DSP only,POSITIVE,
+BTX/2001/0293,Burry Inlet,B038J,City and Council of Swansea,SS472961,South side (West),2001-07-23,2001-07-25,,Cockles,DSP only,NEGATIVE,
+BTX/2001/0294,Burry Inlet,B038K,City and Council of Swansea,SS487959,South side (Mid),2001-07-23,2001-07-25,,Cockles,DSP only,NEGATIVE,
+BTX/2001/0295,Burry Inlet,B038I,City and Council of Swansea,SS505959,South side (East),2001-07-23,2001-07-25,,Cockles,DSP only,POSITIVE,
+BTX/2001/0290,,VIIE,Wyre BC,VIIE,"""Picker""",2001-07-24,2001-07-26,2001-07-25,Scallops,ND,NEGATIVE,<LOD
+BTX/2001/0296,Yealm,B031E,Plymouth PHA,SX544494,Fox cove,2001-07-25,2001-07-26,2001-07-26,Mussels,ND,NEGATIVE,<LOD
+BTX/2001/0297,R. Dart,B028B,South Hams DC,SX87405598,Waddeton,2001-07-25,2001-07-26,2001-07-26,Mussels,ND,NEGATIVE,<LOD
+BTX/2001/0298,Ribble,B046C,W. Lancs DC,SD328259,Salters Bank,2001-07-25,2001-07-26,2001-07-26,Mussels,ND,NEGATIVE,<LOD
+BTX/2001/0299,Anglesey,B056A,Ynys Mon CC,SH39506630,Cefni Estuary,2001-07-30,2001-07-31,,Cockles,ND,NEGATIVE,
+BTX/2001/0300,Menai Strait West,B042A,Ynys Mon CC,SH47906510,Barras Is.,2001-07-30,2001-07-31,,Mussels,ND,NEGATIVE,
+BTX/2001/0301,Red Wharf Bay,B057A,Ynys Mon CC,SH54008085,Traeth Coch,2001-07-30,2001-07-31,,Cockles,ND,NEGATIVE,
+BTX/2001/0302,Lune,B066H,Wyre BC,SD33105190,Wyre End Scar,2001-07-26,2001-07-31,2001-07-31,Mussels,ND,NEGATIVE,<LOD
+BTX/2001/0303,Butley,B009A,Suffolk Coastal DC,TM397487,Butley Creek,2001-07-30,2001-07-31,2001-07-31,Pacific oysters,ND,NEGATIVE,<LOD
+BTX/2001/0304,Portsmouth,B020B,Portsmouth PHA,SU60290411,Peewit Isle,2001-07-30,2001-07-31,2001-07-31,Native oysters,ND,Insufficient,<LOD
+BTX/2001/0305,Langstone Harbour,B019A,Portsmouth PHA,SU70600391,Main Channel,2001-07-30,2001-07-31,2001-07-31,Native oysters,ND,weight ,<LOD
+BTX/2001/0306,The solent,B020E,Portsmouth PHA,,Haslar Wall,2001-07-30,2001-07-31,2001-07-31,Native oysters,ND,for DSP,<LOD
+BTX/2001/0307,Pegwell Bay,B016A,Thanet DC,TR353638,Pegwell Bay,2001-07-30,2001-07-31,,Cockles,DSP only,NEGATIVE,
+BTX/2001/0308,Thames,B17AD,Thanet DC,TR274697,Minnis Bay,2001-07-30,2001-07-31,,Cockles,DSP only,NEGATIVE,
+BTX/2001/0309,The Thames,B17AM,Canterbury CC,TR082669,Pollard,2001-07-30,2001-07-31,,Cockles,DSP only,POSITIVE,
+BTX/2001/0310,The Thames,B17AM,Canterbury CC,TR082669,Pollard,2001-07-30,2001-07-31,,Pacific oysters,DSP only,NEGATIVE,
+BTX/2001/0311,The Thames,B17AM,Canterbury CC,TR082669,Pollard,2001-07-30,2001-07-31,,Clams,DSP only,NEGATIVE,
+BTX/2001/0312,Burry Inlet,B038G,Carmarthenshire C C,SS483005,Site 6 Pwll,2001-07-30,2001-07-31,,Mussels,DSP only,NEGATIVE,
+BTX/2001/0313,Burry Inlet,B038A,Carmarthenshire C C,SS500974,Site 4 North (East),2001-07-30,2001-07-31,,Cockles,DSP only,NEGATIVE,
+BTX/2001/0314,Burry Inlet,B038B,Carmarthenshire C C,SS483996,Site 4 North (West),2001-07-30,2001-07-31,,Cockles,DSP only,NEGATIVE,
+BTX/2001/0315,Burry Inlet,B038I,City and Council of Swansea,SS505959,South side (East),2001-07-30,2001-07-31,,Cockles,DSP only,NEGATIVE,
+BTX/2001/0316,Burry Inlet,B038K,City and Council of Swansea,SS487959,South side (Mid),2001-07-30,2001-07-31,,Cockles,DSP only,NEGATIVE,
+BTX/2001/0317,Burry Inlet,B038J,City and Council of Swansea,SS472961,South side (West),2001-07-30,2001-07-31,,Cockles,DSP only,NEGATIVE,
+BTX/2001/0318,Burry Inlet,B038Q,City and Council of Swansea,SS53639594,Ochor Draw,2001-07-30,2001-07-31,,Cockles,DSP only,POSITIVE,
+BTX/2001/0319,Helford,B034A,Falmouth and Truro PHA,SW75282664,Calamansac,2001-07-31,2001-08-01,2001-08-01,Native oysters,ND,NEGATIVE,<LOD
+BTX/2001/0320,West Mersea,B031F,Maldon DC,TL98611115,Tollesbury North,2001-07-31,2001-08-01,2001-08-01,Native oysters,ND,NEGATIVE,<LOD
+BTX/2001/0321,Exe,B26AA,Teignbridge DC,SX977809,Pool,2001-07-31,2001-08-01,2001-08-01,Mussels,ND,NEGATIVE,<LOD
+BTX/2001/0322,Teign,B027V,Teignbridge DC,SX91417275,Gappa Bank,2001-07-31,2001-08-01,2001-08-01,Mussels,ND,NEGATIVE,<LOD
+BTX/2001/0323,,ICES 1521,Wyre BC,,ICES 1521,2001-07-31,2001-08-01,2001-08-01,Scallops,ND,NEGATIVE,<LOD
+BTX/2001/0324,Milford Haven,,Milford PHA,SN010062,Lawrenny Quay,2001-07-31,2001-08-01,,Mussels,ND,NEGATIVE,
+BTX/2001/0325,Milford Haven,B039H,Milford PHA,SN001086,Coedcanlas Spit,2001-07-31,2001-08-01,2001-08-01,Mussels,33.66,NEGATIVE,<LOD
+BTX/2001/0326,Fishguard Harbour,B068B,Pembrokeshire CC,SM95063778,Goodwick Sands,2001-07-31,2001-08-01,2001-08-01,Mussels,ND,NEGATIVE,<LOD
+BTX/2001/0364,Blyth,,River Blyth PHA,,Workshop Quay,2001-08-06,2001-08-08,2001-08-07,Mussels,ND,NEGATIVE,<LOD
+BTX/2001/0365,The Wash,B004F,Kings Lynn & W Norfolk BC,TF602342,Stylemans,2001-08-06,2001-08-08,2001-08-08,Mussels,ND,NEGATIVE,<LOD
+BTX/2001/0370,The Wash,B003D,Boston Borough Council,TF439377,Maretail,2001-08-07,2001-08-09,2001-08-09,Mussels,ND,NEGATIVE,
+BTX/2001/0342,Blakeney,B006C,North Norfolk DC,TF990453,Simpool,2001-08-06,2001-08-07,2001-08-07,Mussels,ND,NEGATIVE,<LOD
+BTX/2001/0335,Colne,B012E,Colchester BC,TM050164,Peewit Island,2001-08-02,2001-08-03,2001-08-07,Native oyster,ND,NEGATIVE,<LOD
+BTX/2001/0341,Blackwater,B014D,Maldon DC,TL925077,Goldhanger,2001-08-06,2001-08-07,2001-08-07,Pacific oyster,ND,NEGATIVE,<LOD
+BTX/2001/0369,West Mersea,B013H,Colchester BC,TM000137,Strood Channel,2001-08-08,2001-08-09,2001-08-09,O. edulis,ND,NEGATIVE,
+BTX/2001/0343,Walton Backwaters,B011G,Tendering DC ,TM22142478,Kirby Creek,2001-08-06,2001-08-07,2001-08-07,Native oyster,ND,NEGATIVE,<LOD
+BTX/2001/0333,The Thames,B16BQ,London PHA,TM08800210,Buxey No 4,2001-08-01,2001-08-02,2001-08-01,Cockles,ND,NEGATIVE,<LOD
+BTX/2001/0334,The Thames,B16BI,London PHA,TR06009180,N E Maplin Sands 2,2001-08-01,2001-08-02,2001-08-01,Cockles,ND,NEGATIVE,<LOD
+BTX/2001/0338,The Thames,B17AM,Canterbury CC,TR082669,Pollard,2001-08-06,2001-08-06,,Cockles,ND,NEGATIVE,
+BTX/2001/0339,The Thames,B17AM,Canterbury CC,TR082669,Pollard,2001-08-06,2001-08-06,,Pacific oyster,ND,NEGATIVE,
+BTX/2001/0340,The Thames,B17AM,Canterbury CC,TR082669,Pollard,2001-08-06,2001-08-06,,Clam,ND,NEGATIVE,
+BTX/2001/0354,The Thames,B16BR,London PHA,TQ92208250,Phoenix,2001-08-06,2001-08-07,2001-08-07,Cockles,ND,NEGATIVE,<LOD
+BTX/2001/0366,The Thames,BO16R,London Port Health Authority,TQ937749,Barton Point,2001-08-07,2001-08-08,,Mussels,ND,NEGATIVE,
+BTX/2001/0351,Thames,B17AD,Thanet DC,TR274697,Minnis Bay,2001-08-06,2001-08-07,2001-08-07,Cockles,ND,POSITIVE,<LOD
+BTX/2001/0371,The Thames,,London PHA,,Corporation Jetty,2001-08-09,2001-08-10,2001-08-10,Mussels,ND,NEGATIVE,
+BTX/2001/0352,Pegwell Bay,B016A,Thanet DC,TR353638,Pegwell Bay,2001-08-06,2001-08-07,2001-08-07,Cockles,ND,POSITIVE,<LOD
+BTX/2001/0372,Poole,B054L,Poole Council,SZ002882,Ramshorn,2001-08-09,2001-08-10,2001-08-10,Mussels,ND,NEGATIVE,
+BTX/2001/0367,Weymouth,,Weymouth PHA,,Weymouth Inner Harbour,2001-08-08,2001-08-08,,Mussels,ND,NEGATIVE,
+BTX/2001/0362,Fowey,B070K,Fowey PHA,SX12605320,Wisemans,2001-08-07,2001-08-08,2001-08-08,Mussels,ND,NEGATIVE,<LOD
+BTX/2001/0363,Fowey,B070I,Fowey PHA,SX13405165,Pont Pill No 34,2001-08-07,2001-08-08,2001-08-08,Pacific oyster,ND,NEGATIVE,<LOD
+BTX/2001/0331,Brixham,B082A,Torbay BC,SX91285739,Fishcombe Cove,,2001-08-02,,Mussels,ND,NEGATIVE,<LOD
+BTX/2001/0345,St Ives Bay,B088B,Penwith DC,SW58134283,Godrevy Cove,2001-08-06,2001-08-07,2001-08-07,Mussels,ND,NEGATIVE,<LOD
+BTX/2001/0346,St Ives Bay,B088E,Penwith DC,SW53403880,Wackys Cave,2001-08-06,2001-08-07,2001-08-07,Mussels,ND,NEGATIVE,<LOD
+BTX/2001/0327,Fal,B033T,Falmouth Port Health Authority,SW80243386,Penryn,2001-07-31,2001-08-01,,Native oyster,ND,NEGATIVE,
+BTX/2001/0329,Bigbury and Avon,B030C,South hams DC,SX67254489,Hexdown Quay,2001-08-01,2001-08-02,2001-08-01,Native oyster,ND,NEGATIVE,<LOD
+BTX/2001/0330,Bigbury and Avon,B030C,South hams DC,SX67254489,Hexdown Quay,2001-08-01,2001-08-02,2001-08-01,Mussels,ND,NEGATIVE,<LOD
+BTX/2001/0336,Camel,BO35J,North Cornwall DC,SW939747,Gentle Jane,2001-07-31,2001-08-03,,Mussels,ND,NEGATIVE,
+BTX/2001/0368,Taw/Torridge,B036Q,Taw-Torridge DC,SS466305,Appledore ,2001-08-08,2001-08-09,2001-08-09,Mussels,ND,NEGATIVE,
+BTX/2001/0332,Swansea,B037I,Swansea CC,SS62908930,Swansea Bay S,2001-08-01,2001-08-02,2001-08-01,Mussels,ND,NEGATIVE,<LOD
+BTX/2001/0355,Burry Inlet,B038Q,City and Council of Swansea,SS53639594,Ochor Draw,2001-08-06,2001-08-07,,Cockles,DSP only,NEGATIVE,DSP only
+BTX/2001/0356,Burry Inlet,B038J,City and Council of Swansea,SS472961,South side (West),2001-08-06,2001-08-07,,Cockles,DSP only,NEGATIVE,DSP only
+BTX/2001/0357,Burry Inlet,B038K,City and Council of Swansea,SS487959,South side (Mid),2001-08-06,2001-08-07,,Cockles,DSP only,POSITIVE,DSP only
+BTX/2001/0358,Burry Inlet,B038I,City and Council of Swansea,SS505959,South side (East),2001-08-06,2001-08-07,,Cockles,DSP only,NEGATIVE,DSP only
+BTX/2001/0359,Burry Inlet,B038A,Carmarthenshire CC,SS500974,North (East),2001-08-05,2001-08-07,,Cockles,ND,NEGATIVE,
+BTX/2001/0360,Burry Inlet,B038G,Carmarthenshire C C,SS483005,Site 6 Pwll,2001-08-05,2001-08-07,,Mussels,DSP only,NEGATIVE,DSP only
+BTX/2001/0361,Burry Inlet,B038B,Carmarthenshire C C,SS483996,Site 4 North (West),2001-08-05,2001-08-07,,Cockles,DSP only,POSITIVE,DSP only
+BTX/2001/0349,Milford Haven,B039H,Milford Haven PHA,SN001086,Coedcanlas Spit,2001-08-06,2001-08-07,,Mussels,ND,PSP only,PSP only
+BTX/2001/0350,Milford Haven,,Milford Haven PHA,SN010062,Lawrenny Quay,2001-08-06,2001-08-07,2001-08-07,Mussels,ND,PSP only,<LOD
+BTX/2001/0328,Glaslyn/Dwyryd Estuary,B074B,Gwynedd County BC,SH579365,Dwyrd Estuary,2001-08-01,2001-08-02,2001-08-01,Cockles,ND,NEGATIVE,<LOD
+BTX/2001/0337,Menai Strait - East,B055F,Gwynedd County BC,SH59407412,Bangor,2001-08-02,2001-08-06,2001-08-07,Mussels,ND,Insufficient for DSP,<LOD
+BTX/2001/0347,Morecambe Bay - Barrow,B077B,Barrow BC,SD185706,Cocken Tunnel,2001-08-06,2001-08-07,2001-08-07,Mussels,ND,NEGATIVE,<LOD
+BTX/2001/0348,Morecambe Bay - Roa Island,B077D,Barrow BC,SD233647,Roa Island,2001-08-06,2001-08-07,2001-08-07,Mussels,ND,NEGATIVE,<LOD
+BTX/2001/0344,Ravenglass,B053C,Copeland DC,SD08359610,Ravenglass 2,2001-08-06,2001-08-07,2001-08-07,Mussels,ND,NEGATIVE,<LOD
+BTX/2001/0429,Colne,B012E,Colchester BC,TM050164,Peewit Island,2001-08-21,2001-08-22,,Native oyster,ND,NEGATIVE,<LOD
+BTX/2001/0431,Butley,B009A,Suffolk Coastal DC,TM397487,Butley Creek,2001-08-21,2001-08-22,,Pacific oysters,ND,NEGATIVE,
+BTX/2001/0406,Roach,BO73H,London PHA,TQ948934,Paglesham Reach,2001-08-14,2001-08-16,2001-08-15,Pacific oyster,ND,NEGATIVE,
+BTX/2001/0410,The Thames,B17AM,Canterbury CC,TR082669,Pollard,2001-08-20,2001-08-21,,Cockles,DSP only,NEGATIVE,DSP only
+BTX/2001/0411,The Thames,B17AM,Canterbury CC,TR082669,Pollard,2001-08-20,2001-08-21,,Pacific oyster,DSP only,NEGATIVE,DSP only
+BTX/2001/0412,The Thames,B17AM,Canterbury CC,TR082669,Pollard,2001-08-20,2001-08-21,,Clam,DSP only,NEGATIVE,DSP only
+BTX/2001/0413,Thames,B17AD,Thanet DC,TR274697,Minnis Bay,2001-08-20,2001-08-21,,Cockles,DSP only,NEGATIVE,DSP only
+BTX/2001/0414,Pegwell Bay,B016A,Thanet DC,TR353638,Pegwell Bay,2001-08-20,2001-08-21,,Cockles,DSP only,NEGATIVE,DSP only
+BTX/2001/0430,Lymington River,B24AF,New Forest DC,SZ34809375,No. 3 Post,2001-08-21,2001-08-22,2001-08-22,Native oysters,ND,NEGATIVE,<LOD
+BTX/2001/0428,Portland,B025F,Weymouth PHA,SY68277575,Fleet Lagoon,2001-08-21,2001-08-21,,Mussels,ND,NEGATIVE,
+BTX/2001/0415,Plymouth,EC50,Plymouth PHA,EC50,,2001-08-20,2001-08-21,2001-08-21,Scallop,ND,NEGATIVE,1.2
+BTX/2001/0435,Yealm,B031E,Plymouth PHA,SX544494,Fox cove,2001-08-21,2001-08-22,,Mussels,ND,NEGATIVE,
+BTX/2001/0433,Fowey,B070I,Fowey PHA,SX13405165,Pont Pill No 34,2001-08-21,2001-08-22,,Pacific oysters,ND,PSP only,
+BTX/2001/0434,Fowey,B070K,Fowey PHA,SX12605320,Wisemans,2001-08-21,2001-08-22,,Mussels,ND,PSP only,
+BTX/2001/0407,Falmouth Bay,EC34,Falmouth and Truro PHA,EC34,Falmouth Bay,2001-08-14,2001-08-16,,Scallop,ND,NEGATIVE,
+BTX/2001/0432,Helford,B034A,Falmouth and Truro PHA,SW75282664,Calamansac,2001-08-21,2001-08-22,,Native oysters,ND,NEGATIVE,
+BTX/2001/0425,Bigbury and Avon,B030C,South Hams DC,SX67254489,Hexdown Quay,2001-08-17,2001-08-21,,Pacific oyster,ND,NEGATIVE,
+BTX/2001/0439,Camel,B035J,North Cornwall DC,SW939747,Gentle Jane,2001-08-21,2001-08-22,,Mussels,ND,NEGATIVE,
+BTX/2001/0426,,,North Devon DC,,Yelland Power Station,2001-08-20,2001-08-21,,Mussels,ND,NEGATIVE,
+BTX/2001/0416,Milford Haven,B039H,Pembrokeshire CC,SN001086,Coedcanlas Spit,2001-08-20,2001-08-21,2001-08-21,Mussels,ND,NEGATIVE,<LOD
+BTX/2001/0417,Milford Haven,,Pembrokeshire CC,SN010062,Lawrenny Quay,2001-08-20,2001-08-21,2001-08-21,Mussels,ND,NEGATIVE,<LOD
+BTX/2001/0421,Burry Inlet,B038J,City and Council of Swansea,SS472961,South side (West),2001-08-20,2001-08-21,,Cockles,DSP only,POSITIVE,DSP only
+BTX/2001/0422,Burry Inlet,B038K,City and Council of Swansea,SS487959,South side (Mid),2001-08-20,2001-08-21,,Cockles,DSP only,NEGATIVE,DSP only
+BTX/2001/0423,Burry Inlet,B038I,City and Council of Swansea,SS505959,South side (East),2001-08-20,2001-08-21,,Cockles,DSP only,NEGATIVE,
+BTX/2001/0424,Burry Inlet,B038Q,City and Council of Swansea,SS53639594,Ochor Draw,2001-08-20,2001-08-21,,Cockles,DSP only,POSITIVE,DSP only
+BTX/2001/0436,Burry Inlet,B038B,Carmarthenshire C C,SS483996,Site 4 North (West),2001-08-21,2001-08-22,,Cockles,DSP only,POSITIVE,DSP only
+BTX/2001/0437,Burry Inlet,B038A,Carmarthenshire C C,SS500974,Site 4 North (East),2001-08-21,2001-08-22,,Cockles,DSP only,POSITIVE,NEGATIVE
+BTX/2001/0438,Burry Inlet,,Carmarthenshire C C,SS502984,Machynys,2001-08-21,2001-08-22,,Cockles,DSP only,NEGATIVE,DSP only
+BTX/2001/0408,Mawddach,B064B,Gwynedd County BC,SH635151,Crescent,2001-08-15,2001-08-16,2001-08-16,Mussels,ND,NEGATIVE,LOD
+BTX/2001/0409,Dovey,B041F,Gwynedd County BC,SN616959,Aberdyfi Slipway,2001-08-15,2001-08-16,2001-08-16,Cockles,ND,NEGATIVE,<LOD
+BTX/2001/0418,Bangor,B055F,Gwynedd County BC,SH59407412,Menai Strait - East,2001-08-20,2001-08-21,,Mussels,ND,,
+BTX/2001/0427,Glaslyn/Dwyryd Estuary,B074B,Gwynedd County BC,SH579365,Dwyrd Estuary,2001-08-20,,2001-08-22,Mussels,,NEGATIVE,<LOD
+BTX/2001/0419,,IS39,Wyre BC,IS39,"""Helen Mona""",2001-08-16,2001-08-21,2001-08-21,Scallops,ND,NEGATIVE,<LOD
+BTX/2001/0420,,IS21,Wyre BC,IS21,"""Onward""",2001-08-16,2001-08-21,2001-08-21,Scallops,ND,,0.07
+BTX/2001/0431,Butley,B009A,Suffolk Coastal DC,TM397487,Butley Creek,2001-08-21,2001-08-22,2001-08-23,Pacific oysters,Reported Last week,NEGATIVE,<LOD
+BTX/2001/0440,Alde/Ore,B008E,Suffolk Coastal DC,TM46185505,Martello Tower,2001-08-22,2001-08-23,2001-08-23,Mussels,ND,NEGATIVE,<LOD
+BTX/2001/0445,The Thames,B17AM,Canterbury CC,TR082669,Pollard,2001-08-28,2001-08-29,,Cockles,,NEGATIVE,
+BTX/2001/0446,The Thames,B17AM,Canterbury CC,TR082669,Pollard,2001-08-28,2001-08-29,,Pacific oyster,,NEGATIVE,
+BTX/2001/0447,The Thames,B17AM,Canterbury CC,TR082669,Pollard,2001-08-28,2001-08-29,,Clam,,NEGATIVE,
+BTX/2001/0448,Thames,B17AD,Thanet DC,TR274697,Minnis Bay,2001-08-28,2001-08-29,,Cockles,ND,NEGATIVE,
+BTX/2001/0449,Pegwell Bay,B016A,Thanet DC,TR353638,Pegwell Bay,2001-08-28,2001-08-29,,Cockles,ND,NEGATIVE,
+BTX/2001/0443,Poole,B054Q,Poole Council,SZ064858,Hook Sands,2001-08-22,2001-08-24,2001-08-24,Mussels,ND,,<LOD
+BTX/2001/0428,Portland,B025F,Weymouth PHA,SY68277575,Fleet Lagoon,2001-08-21,2001-08-21,2001-08-22,Mussels,Reported Last week,,<LOD
+BTX/2001/0463,Portland,B025S,Weymouth PHA,,Bowleaze Cove,2001-08-29,2001-08-30,2001-08-30,Mussels,,,
+BTX/2001/0435,Yealm,B031E,Plymouth PHA,SX544494,Fox cove,2001-08-21,2001-08-22,2001-08-22,Mussels,Reported Last week,,<LOD
+BTX/2001/0464,Portland,B025F,Weymouth PHA,SY68277575,Wyke,2001-08-29,2001-08-30,2001-08-30,Mussels,,,
+BTX/2001/0433,Fowey,B070I,Fowey PHA,SX13405165,Pont Pill No 34,2001-08-21,2001-08-22,2001-08-22,Pacific oysters,Reported Last week,,<LOD
+BTX/2001/0434,Fowey,B070K,Fowey PHA,SX12605320,Wisemans,2001-08-21,2001-08-22,2001-08-22,Mussels,Reported Last week,NEGATIVE,<LOD
+BTX/2001/0441,Plymouth,B032L,Plymouth PHA,SX407567,Lynher - Shillingham,2001-08-22,2001-08-23,2001-08-23,Mussels,ND,,<LOD
+BTX/2001/0444,Camel,B035J,North Cornwall DC,SW92417788,Trebetherick Rocks,2001-08-21,,2001-08-28,Mussels,,NEGATIVE,<LOD
+BTX/2001/0452,Fishguard Harbour,B068B,Pembrokeshire CC,SM95063778,Goodwick Sands,2001-08-28,2001-08-29,2001-08-29,Mussels,ND,NEGATIVE,<LOD
+BTX/2001/0456,Burry Inlet,B038B,Carmarthenshire C C,SS483996,Site 4 North (West),2001-08-28,2001-08-29,,Cockles,,,
+BTX/2001/0457,Burry Inlet,B038A,Carmarthenshire C C,SS500974,Site 4 North (East),2001-08-28,2001-08-29,,Cockles,,POSITIVE,
+BTX/2001/0458,Burry Inlet,B038G,Carmarthenshire C C,SS483005,Machynys,2001-08-28,2001-08-29,,Mussels,,POSITIVE,
+BTX/2001/0459,Burry Inlet,B038J,City and Council of Swansea,SS472961,South side (West),2001-08-28,2001-08-29,,Cockles,,POSITIVE,
+BTX/2001/0460,Burry Inlet,B038K,City and Council of Swansea,SS487959,South side (Mid),2001-08-28,2001-08-29,,Cockles,,POSITIVE,
+BTX/2001/0461,Burry Inlet,B038I,City and Council of Swansea,SS505959,South side (East),2001-08-28,2001-08-29,,Cockles,,POSITIVE,
+BTX/2001/0462,Burry Inlet,B038Q,City and Council of Swansea,SS53639594,Ochor Draw,2001-08-28,2001-08-29,,Cockles,,POSITIVE,NEGATIVE
+BTX/2001/0450,Menai Strait West,B042A,Ynys Mon CC,SH47906510,Barras Is.,2001-08-28,2001-08-29,,Mussels,ND,,
+BTX/2001/0451,Anglesey - Red Wharf Bay,B057A,Ynys Mon County BC,SH54008085,Traeth Coch,2001-08-28,2001-08-29,,Mussels,ND,POSITIVE,NEGATIVE
+BTX/2001/0442,Ribble,B046C,W. Lancs DC,SD328259,Salters Bank,2001-08-23,2001-08-24,,Mussels,ND,NEGATIVE,
+BTX/2001/0453,Offshore scallop ground,IS 21,Wyre BC,IS 21,"""Onward""",2001-08-25,2001-08-29,2001-08-29,Scallops,,NEGATIVE,<LOD
+BTX/2001/0454,Offshore scallop ground,IS 21,Wyre BC,IS 21,"""Silverchord""",2001-08-25,2001-08-29,2001-08-29,Scallops,ND,,<LOD
+BTX/2001/0455,Lune,B066H,Wyre BC,SD33105190,Wyre End Scar,2001-08-22,2001-08-29,2001-08-29,Mussels,,,<LOD
