@@ -1,0 +1,1215 @@
+SampleNumber,ProductionArea,BedID,LocalAuthority,GridReference,SamplingPoint,DateSampleCollected,SpeciesSampled,PSP_HPLCScreenResult(Detected-ND),PSP_HPLC(Microgram_STXeq_per_kg)SemiquantResult_<400->400,PSP_HPLCResult_(Microgram_STXeq_per_kg)HighValueCalculatedFromMU,TotalOA-DTXs-PTXs(Microgram_OA_eq_per_kg)HighValueCalculatedFromMU,TotalAZAS_(Microgram_AZA1_eq_per_kg)HighValueCalculatedFromMU,TotalYTXS(mg_YTX_eq_per_kg)HighValueCalculatedFromMU,ASP(mgPerkg)
+BTX/2020/005,West Mersea,B13AG,Colchester BC,TL97441340,Salcott Pacifics,2024-01-07,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/006,Brancaster,B05AS,Kings Lynn & West Norfolk BC,TF79884539,Norton Creek Mussels,2024-01-07,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/007,Southampton Water,B21AT,Southampton PHA,SU48760530,Hamble Estuary,2024-01-07,Manila clams,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/008,Solent,B24BK,Southampton PHA,SZ57479794,Browndown,2024-01-07,Native oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/009,The Fleet,B25AI,Dorset Council,SY66477627,Fleet Oysters,2024-01-08,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/010,Lyme Bay,B090V,Dorset Council,SY45918886,Lyme Bay Ensis West,2024-01-07,Razors,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/015,Colne,B012F,Colchester BC,TM06201600,Pyefleet Spit,2024-01-08,Pacific Oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/016,Butley,B009E,East Suffolk Council,TM39434850,Pumping Station Outfall,2024-01-08,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/017,The Wash,B04AP,Kings Lynn & West Norfolk BC,TF65963701,Stubborn Sand,2024-01-08,Cockles,Detected,<400,,<RL,<RL,<RL,<LOQ
+BTX/2020/0022,Camel,B35AE,Cornwall CC,SW93407530,Porthilly Rock B,2024-01-09,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0023,Conwy,B044V,Conwy CBC,SH7630879327,Conwy West,2024-01-08,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0024,Crouch,B015Y,Maldon DC,TQ90429738,Althorne,2024-01-09,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0030,Roach,B73AF,London PHA,TQ94909207,Paglesham,2024-01-10,Hard clams,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0031,Poole,B54CI,Bournemouth Poole Christchurch Council,SZ01818871,West Brownsea 1,2024-01-10,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0034,Silloth,B059L,Allerdale BC,NY10055345,Lees Scar,2024-01-14,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0035,Deben,B010O,East Suffolk Council,TM28834500,Stonner Point,2024-01-14,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0036,Taw/Torridge,B36AB,Torridge DC,SS46573142,Spratt Ridge East,2024-01-13,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0037,Holy Island - Ross Links,B001M,Northumberland CC,NU12333958,Ross Links,2024-01-14,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0038,Porlock,B094D,Somerset West & Taunton Council,SS87114786,Porlock East,2024-01-14,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0044,North Kent Coast,B17BS,Canterbury CC,TR10326689,WOCO Westbeach,2024-01-15,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0045,The Wash,B003V,Boston BC,TF44234098,Toft,2024-01-15,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0046,Blackwater,B014V,Maldon DC,TL91160795,Goldhanger,2024-01-15,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0055,Morecambe Bay - Barrow,B077R,Barrow-in-Furness BC,SD24916365,Foulney,2024-01-16,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0056,Morecambe Bay - Roosebeck,B48AX,Barrow-in-Furness BC,SD25996647,Roosebeck North,2024-01-16,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0057,West Mersea,B13AA,Colchester BC,TM03101211,West Mersea Outfall,2024-01-16,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0058,The Thames,B16BS,London PHA,TQ88148489,West of Southend Pier,2024-01-16,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0059,Liverpool Bay - Wirral,B058R,Mersey PHA,SJ29539425,Harrison Drive East,2024-01-16,Cockles,Detected,<400,,<RL,<RL,<RL,<LOQ
+BTX/2020/0060,Blackwater,B14AD,Maldon DC,TM04060768,St Peters Flats,2024-01-16,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0062,Swale,B076P,Swale BC,TR01316497,The Causeway,2024-01-17,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0066,St. Austell Bay,B70AE,Cornwall PHA,SX05744972,Ropehaven Outer,2024-01-21,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0067,Fowey,B70AB,Cornwall PHA,SX13025157,Pont Pill,2024-01-21,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0068,Fal,B33BD,Cornwall PHA,SW84093949,Trelissick Pontoon,2024-01-21,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0069,Fal,B033E,Cornwall PHA,SW85134212,Grimes Bar,2024-01-21,Native oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0070,Holy Island - Ross Links,B001M,Northumberland CC,NU12333958,Ross Links,2024-01-20,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0071,Swansea,B037U,Swansea PHA,SS67659210,Queens Dock,2024-01-21,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0072,Ribble,B046C,West Lancashire DC,SD32802590,Point 31 Ribble Walls North,2024-01-21,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0086,Burry Inlet,B038B,Carmarthenshire CC,SS47959886,North (West),2024-01-22,Cockles,Detected,<400,,<RL,<RL,<RL,<LOQ
+BTX/2020/0087,Helford,B034W,Cornwall PHA,SW75462765,Porth Navas Quay,2024-01-22,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0088,Langstone Harbour,B019I,Portsmouth PHA,SU70560339,Stoke Common Lake,2024-01-22,Hard clams,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0089,Start Bay,B087J,South Hams DC,SX82504197,Off Torcross,2024-01-22,Surf clams,ND,,,<RL,<RL,<RL,5.3
+BTX/2020/0090,Dart,B028B,South Hams DC,SX87415599,Waddeton,2024-01-22,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0091,Brixham,B082B,Torbay BC,SX90965741,Fishcombe SW corner,2024-01-21,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0092,Lyme Bay,B090M,Torbay BC,Unverified,Site 1,2024-01-21,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0093,Lune,B066W,Wyre BC,SD41835241,Pilling Sands East,2024-01-22,Cockles,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0108,Yealm,B031J,Plymouth PHA,SX54224904,Thorn,2024-01-23,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0109,Portsmouth Harbour,B020H,Portsmouth PHA,SU62850544,Paulsgrove,2024-01-23,Hard clams,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0111,Blakeney,B006R,North Norfolk DC,TF91804549,Wells - The Pool,2024-01-24,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0112,Anglesey - Red Wharf Bay,B057J,Ynys Mon CC,SH53148022,Nodwydd,2024-01-24,Cockles,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0113,Exe,B26BH,Teignbridge DC,SX97948072,Cockwood Harbour,2024-01-24,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0114,Teign,B27AC,Teignbridge DC,SX92827284,Gas Works East,2024-01-24,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0121,Porthallow Cove,B34AA,Cornwall PHA,SW80212383,Porthallow North,2024-01-28,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0122,Burry Inlet,B038I,City and Council of Swansea,SS50509590,South East 4,2024-01-28,Cockles,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0123,Burry Inlet,B038L,City and Council of Swansea,SS43409470,Whitford Point,2024-01-28,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0130,Percuil,B033R,Cornwall PHA,SW85853369,Percuil,2024-01-29,Native oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0131,Fal,B33BG,Cornwall PHA,SW82803517,Mylor Pool,2024-01-29,Native oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0132,Beaulieu,B023I,New Forest DC,SU40280135,Landing Stage,2024-01-30,Manila clams,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0148,Conwy,B044V,Conwy CBC,SH76317972,Conwy West,2024-02-04,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0149,Deben,B010O,East Suffolk Council,TM28834500,Stonner Point,2024-02-04,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0150,The Fleet,B25AI,Dorset Council,SY66477627,Fleet Oysters,2024-02-05,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0169,Fal,B033E,Cornwall PHA,SW85134212,Grimes Bar,2024-02-05,Native oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0170,Fal,B33BG,Cornwall PHA,SW82803517,Mylor Pool,2024-02-05,Native oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0171,Butley,B009E,East Suffolk Council,TM39434850,Pumping Station Outfall,2024-02-05,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0188,Blackwater,B14AD,Maldon DC,TM04060768,St Peters Flats,2024-02-06,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0189,Crouch,B015Y,Maldon DC,TQ90429738,Althorne,2024-02-06,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0193,Roach,B73AF,London PHA,TQ94909207,Paglesham,2024-02-07,Hard clams,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0197,Helford,B034W,Cornwall PHA,SW75462765,Porth Navas Quay,2024-02-11,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0198,Brancaster,B05AS,Kings Lynn & West Norfolk BC,TF79884539,Norton Creek Mussels,2024-02-11,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0199,Holy Island - Ross Links,B001M,Northumberland CC,NU12333958,Ross Links,2024-02-11,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0205,North Kent Coast,B17BS,Canterbury CC,TR10296690,WOCO Westbeach,2024-02-12,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0206,Percuil,B033R,Cornwall PHA,SW85853369,Percuil,2024-02-12,Native oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0207,Fal,B33BD,Cornwall PHA,SW84093949,Trelissick Pontoon,2024-02-12,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0208,Blackwater,B014V,Maldon DC,TL91160795,Goldhanger,2024-02-12,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0216,Silloth,B059L,Allerdale BC,NY10055345,Lees Scar,2024-02-13,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0217,Morecambe Bay - Barrow,B077R,Barrow-in-Furness BC,SD24916365,Foulney,2024-02-13,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0218,Morecambe Bay - Roosebeck,B48AX,Barrow-in-Furness BC,SD25996647,Roosebeck North,2024-02-13,Pacific oysters,ND,,,<RL,<RL,<RL,1.8
+BTX/2020/0219,Porthallow Cove,B34AA,Cornwall PHA,SW80212383,Porthallow North,2024-02-13,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0220,Camel,B35AE,Cornwall CC,SW93407530,Porthilly Rock B,2024-02-13,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0221,The Wash,B04AP,Kings Lynn & West Norfolk BC,TF65963701,Stubborn Sand,2024-02-13,Cockles,Detected,<400,,<RL,<RL,<RL,<LOQ
+BTX/2020/0222,Porlock,B094D,Somerset West & Taunton Council,SS87114786,Porlock East,2024-02-13,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0223,West Mersea,B13AA,Colchester BC,TM03101211,West Mersea Outfall,2024-02-13,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0224,The Thames,B16BS,London PHA,TQ88148489,West of Southend Pier,2024-02-13,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0236,Portsmouth Harbour,B020H,Portsmouth PHA,SU62850544,Paulsgrove,2024-02-19,Hard clams,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0237,Lune,B066W,Wyre BC,SD41835241,Pilling Sands East,2024-02-19,Cockles,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0238,West Mersea,B13AG,Colchester BC,TL97441340,Salcott Pacifics,2024-02-18,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0244,Burry Inlet,B038B,Carmarthenshire CC,SS48009950,North (West),2024-02-20,Cockles,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0245,St. Austell Bay,B70AE,Cornwall PHA,SX05744972,Ropehaven Outer,2024-02-20,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0246,Fowey,B70AB,Cornwall PHA,SX13025157,Pont Pill,2024-02-20,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0247,Langstone Harbour,B019I,Portsmouth PHA,SU70560339,Stoke Common Lake,2024-02-20,Hard clams,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0248,Solent,B24BK,Southampton PHA,SZ57479794,Browndown,2024-02-20,Native oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0249,Southampton Water,B21AT,Southampton PHA,SU48760530,Hamble Estuary,2024-02-20,Manila clams,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0250,Colne,B012F,Colchester BC,TM06201600,Pyefleet Spit,2024-02-20,Pacific Oysters,Not tested,Not tested,Not tested,Not tested,Not tested,Not tested,Not tested
+BTX/2020/0251,Blakeney,B006R,North Norfolk DC,TF91804549,Wells - The Pool,2024-02-21,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0252,Anglesey - Red Wharf Bay,B057J,Ynys Mon CC,SH53148022,Nodwydd,2024-02-21,Cockles,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0258,Taw/Torridge,B36AB,Torridge DC,SS46573142,Spratt Ridge East,2024-02-24,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0259,Liverpool Bay - Wirral,B058R,Mersey PHA,SJ29539425,Harrison Drive East,2024-02-25,Cockles,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0272,Poole,B54CI,Bournemouth Poole Christchurch Council,SZ01818871,West Brownsea 1,2024-02-26,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0273,Swansea,B037U,Swansea PHA,SS67659210,Queens Dock,2024-02-26,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0279,Beaulieu,B023I,New Forest DC,SU40280135,Landing Stage,2024-02-27,Manila clams,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0280,Yealm,B031J,Plymouth PHA,SX54224904,Thorn,2024-02-27,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0281,Dart,B028B,South Hams DC,SX87415599,Waddeton,2024-02-26,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0282,Start Bay,B087J,South Hams DC,SX82504197,Off Torcross,2024-02-26,Surf clams,ND,,,<RL,<RL,<RL,5.5
+BTX/2020/0283,Exe,B26BH,Teignbridge DC,SX97948072,Cockwood Harbour,2024-02-27,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0284,Teign,B27AC,Teignbridge DC,SX92827284,Gas Works East,2024-02-27,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0285,Brixham,B082B,Torbay BC,SX90965741,Fishcombe SW corner,2024-02-26,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0286,Lyme Bay,B090M,Torbay BC,Unverified,Site 1,2024-02-26,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0287,Ribble,B046C,West Lancashire DC,SD32802590,Point 31 Ribble Walls North,2024-02-28,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0297,Deben,B010O,East Suffolk Council,TM28834500,Stonner Point,2024-03-03,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0298,The Fleet,B25AI,Dorset Council,SY66477627,Fleet Oysters,2024-03-04,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0314,Fal,B33BG,Cornwall PHA,SW82803517,Mylor Pool,2024-03-04,Native oysters,Detected,<400,,<RL,<RL,<RL,<LOQ
+BTX/2020/0315,Fowey,B70AB,Cornwall PHA,SX13025157,Pont Pill,2024-03-04,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0316,Fal,B33BD,Cornwall PHA,SW84093949,Trelissick Pontoon,2024-03-04,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0317,St. Austell Bay,B70AE,Cornwall PHA,SX05744972,Ropehaven Outer,2024-03-04,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0318,Fal,B033E,Cornwall PHA,SW85134212,Grimes Bar,2024-03-04,Native oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0319,Butley,B009E,East Suffolk Council,TM39434850,Pumping Station Outfall,2024-03-04,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0320,Swale,B076P,Swale BC,TR01316497,The Causeway,2024-03-04,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0321,Blackwater,B014V,Maldon DC,TL91160795,Goldhanger,2024-03-04,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0328,Blackwater,B14AD,Maldon DC,TM04060768,St Peters Flats,2024-03-05,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0329,The Thames,B16BS,London PHA,TQ88148489,West of Southend Pier,2024-03-05,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0349,Helford,B034W,Cornwall PHA,SW75462765,Porth Navas Quay,2024-03-10,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0350,Brancaster,B05AS,Kings Lynn & West Norfolk BC,TF79884539,Norton Creek Mussels,2024-03-10,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0351,Roach,B73AF,London PHA,TQ94909207,Paglesham,2024-03-10,Hard clams,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0352,Taw/Torridge,B36AB,Torridge DC,SS46573142,Spratt Ridge East,2024-03-09,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0353,Holy Island - Ross Links,B001M,Northumberland CC,NU12333958,Ross Links,2024-03-09,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0354,Southampton Water,B21AT,Southampton PHA,SU48760530,Hamble Estuary,2024-03-10,Manila clams,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0355,Solent,B24BK,Southampton PHA,SZ57479794,Browndown,2024-03-10,Native oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0375,Fal,B33BD,Cornwall PHA,SW84093949,Trelissick Pontoon,2024-03-11,Mussels,ND,,,,,,
+BTX/2020/0376,The Wash,B04AP,Kings Lynn & West Norfolk BC,TF65963701,Stubborn Sand,2024-03-11,Cockles,Detected,<400,,<RL,<RL,<RL,<LOQ
+BTX/2020/0377,Blakeney,B006R,North Norfolk DC,TF91804549,Wells - The Pool,2024-03-11,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0382,Morecambe Bay - Barrow,B077R,Barrow-in-Furness BC,SD24916365,Foulney,2024-03-12,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0383,Morecambe Bay - Roosebeck,B48AX,Barrow-in-Furness BC,SD25996647,Roosebeck North,2024-03-12,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0384,North Kent Coast,B17BS,Canterbury CC,TR10326689,WOCO Westbeach,2024-03-12,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0385,Poole,B54CI,Bournemouth Poole Christchurch Council,SZ01818871,West Brownsea 1,2024-03-12,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0386,Porlock,B094D,Somerset West & Taunton Council,SS87114786,Porlock East,2024-03-12,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0388,Camel,B35AE,Cornwall CC,SW93407530,Porthilly Rock B,2024-03-13,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0389,West Mersea,B13AA,Colchester BC,TM03101211,West Mersea Outfall,2024-03-13,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0390,Silloth,B059L,Allerdale BC,NY10055345,Lees Scar,2024-03-13,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0396,Porthallow Cove,B34AA,Cornwall PHA,SW80212383,Porthallow North,2024-03-17,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0397,Conwy,B044V,Conwy CBC,SH7630879722,Conwy West,2024-03-17,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0398,The Wash,B003V,Boston BC,TF44234098,Toft,2024-03-17,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0404,Percuil,B033R,Cornwall PHA,SW85853369,Percuil,2024-03-18,Native oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0405,Brixham,B082B,Torbay BC,SX90965741,Fishcombe SW corner,2024-03-17,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0406,Lyme Bay,B090M,Torbay BC,Unverified,Site 1,2024-03-17,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0411,West Mersea,B13AG,Colchester BC,TL97441340,Salcott Pacifics,2024-03-19,Pacific oysters,ND,,,<RL,<RL,<RL,1.4
+BTX/2020/0412,Colne,B012F,Colchester BC,TM06201600,Pyefleet Spit,2024-03-20,Pacific Oysters,ND,,,<RL,<RL,<RL,1
+BTX/2020/0413,Teign,B27AC,Teignbridge DC,SX92827284,Gas Works East,2024-03-18,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0414,Exe,B26BH,Teignbridge DC,SX97948072,Cockwood Harbour,2024-03-17,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0419,Burry Inlet,B038B,Carmarthenshire CC,SS48009950,North (West),2024-03-24,Cockles,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0420,Dart,B028B,South Hams DC,SX87415599,Waddeton,2024-03-24,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0421,Anglesey - Red Wharf Bay,B057J,Ynys Mon CC,SH53148022,Nodwydd,2024-03-24,Cockles,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0431,Crouch,B015Y,Maldon DC,TQ90429738,Althorne,2024-03-25,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0476,Ribble,B046C,West Lancashire DC,SD32802590,Point 31 Ribble Walls North,2024-04-01,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0483,Helford,B034W,Cornwall PHA,SW75462765,Porth Navas Quay,2024-04-02,Pacific oysters,ND,,,<RL,<RL,<RL,1.9
+BTX/2020/0484,Fowey,B70AB,Cornwall PHA,SX13025157,Pont Pill,2024-04-02,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0485,St. Austell Bay,B70AE,Cornwall PHA,SX05744972,Ropehaven Outer,2024-04-02,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0486,Fal,B33BD,Cornwall PHA,SW84093949,Trelissick Pontoon,2024-04-02,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0487,Fal,B33AN,Cornwall PHA,SW81963546,Mylor Creek,2024-04-02,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0488,Fal,B033Y,Cornwall PHA,SW85024095,Ruan Pontoon/Tregothnan,2024-04-02,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0489,Menai Strait - West,B042O,Gwynedd CC,SH49916579,Area 11 East,2024-04-01,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0490,Menai Strait - East,B055S,Gwynedd CC,SH5833473287,West of Bangor Pier,2024-04-01,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0491,Blackwater,B14AD,Maldon DC,TM04060768,St Peters Flats,2024-04-02,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0492,Porthallow Cove,B34AA,Cornwall PHA,SW80212383,Porthallow North,2024-04-03,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0493,Poole,B54CI,Bournemouth Poole Christchurch Council,SZ01818871,West Brownsea 1,2024-04-03,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0505,North Kent Coast,B17BS,Canterbury CC,TR10326689,WOCO Westbeach,2024-04-07,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0506,Brancaster,B05AS,Kings Lynn & West Norfolk BC,TF79884539,Norton Creek Mussels,2024-04-07,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0507,Roach,B73AF,London PHA,TQ94909207,Paglesham,2024-04-07,Hard clams,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0508,Liverpool Bay - Wirral,B058R,Mersey PHA,SJ29539425,Harrison Drive East,2024-04-07,Cockles,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0509,Taw/Torridge,B36AB,Torridge DC,SS46573142,Spratt Ridge East,2024-04-06,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0510,Holy Island - Ross Links,B001M,Northumberland CC,NU12333958,Ross Links,2024-04-06,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0511,Southampton Water,B21AT,Southampton PHA,SU48760530,Hamble Estuary,2024-04-07,Manila clams,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0512,Solent,B24BK,Southampton PHA,SZ57479794,Browndown,2024-04-07,Native oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0513,Exe,B26BH,Teignbridge DC,SX97948072,Cockwood Harbour,2024-04-07,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0514,Teign,B27AC,Teignbridge DC,SX92827284,Gas Works East,2024-04-07,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0523,The Wash,B003V,Boston BC,TF44234098,Toft,2024-04-08,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0524,The Wash,B04AP,Kings Lynn & West Norfolk BC,TF65963701,Stubborn Sand,2024-04-08,Cockles,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0525,Blakeney,B006R,North Norfolk DC,TF91804549,Wells - The Pool,2024-04-08,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0526,Brixham,B082B,Torbay BC,SX90965741,Fishcombe SW corner,2024-04-08,Mussels,Detected,<400,<RL,<RL,<RL,<RL,<LOQ
+BTX/2020/0532,Lyme Bay,B090V,Dorset Council,SY45918886,Lyme Bay Ensis West,2024-04-08,Razors,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0533,Crouch,B015Y,Maldon DC,TQ90429738,Althorne,2024-04-09,Mussels,,,,<RL,<RL,<RL,
+BTX/2020/0534,Camel,B35AE,Cornwall CC,SW93407530,Porthilly Rock B,2024-04-09,Mussels,Not suitable for testing,Not suitable for testing,Not suitable for testing,Not suitable for testing,Not suitable for testing,Not suitable for testing,Not suitable for testing
+BTX/2020/0535,Lyme Bay,B090V,Dorset Council,SY45918886,Lyme Bay Ensis West,2024-04-14,Razors,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0567,Fal,B33BD,Cornwall PHA,SW84093949,Trelissick Pontoon,2024-04-15,Mussels,ND,,,,,,
+BTX/2020/0568,Fal,B033Y,Cornwall PHA,SW85024095,Ruan Pontoon/Tregothnan,2024-04-15,Mussels,ND,,,,,,
+BTX/2020/0569,Fal,B33AN,Cornwall PHA,SW81963551,Mylor Creek,2024-04-15,Mussels,ND,,,,,,
+BTX/2020/0570,Menai Strait - West,B042O,Gwynedd CC,SH49916579,Area 11 East,2024-04-15,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0571,Menai Strait - East,B055S,Gwynedd CC,SH58337328,West of Bangor Pier,2024-04-15,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0572,The Thames,B16BS,London PHA,TQ88148489,West of Southend Pier,2024-04-15,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0573,Blackwater,B014V,Maldon DC,TL91160795,Goldhanger,2024-04-15,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0574,Deben,B010O,East Suffolk Council,TM28834500,Stonner Point,2024-04-15,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0575,Butley,B009E,East Suffolk Council,TM39434850,Pumping Station Outfall,2024-04-15,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0576,Dee,B45AG,Wirral BC,SJ21468468,West Kirby,2024-04-15,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0577,Lune,B066W,Wyre BC,SD41835241,Pilling Sands East,2024-04-15,Cockles,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0584,Crouch,B015Y,Maldon DC,TQ90429738,Althorne,2024-04-16,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0585,Camel,B35AE,Cornwall CC,SW93407530,Porthilly Rock B,2024-04-16,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0586,West Mersea,B13AG,Colchester BC,TL97441340,Salcott Pacifics,2024-04-17,Pacific oysters,ND,,,<RL,<RL,<RL,1.1
+BTX/2020/0590,Colne,B012F,Colchester BC,TM06201600,Pyefleet Spit,2024-04-17,Pacific oysters,ND,,,<RL,<RL,<RL,1.1
+BTX/2020/0591,Helford,B034W,Cornwall PHA,SW75462765,Porth Navas Quay,2024-04-21,Pacific oysters,ND,,,,,,
+BTX/2020/0592,Holy Island - Ross Links,B001M,Northumberland CC,NU12333958,Ross Links,2024-04-20,Pacific oysters,Detected,<400,,,,,
+BTX/2020/0593,Poole,B54CI,Bournemouth Poole Christchurch Council,SZ01818871,West Brownsea 1,2024-04-21,Mussels,ND,,,,,,
+BTX/2020/0594,Burry Inlet,B038L,City and Council of Swansea,SS43409470,Whitford Point,2024-04-21,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0595,Anglesey - Red Wharf Bay,B057J,Ynys Mon CC,SH53148022,Nodwydd,2024-04-21,Cockles,Detected,<400,,<RL,<RL,<RL,1.2
+BTX/2020/0619,Burry Inlet,B038I,City and Council of Swansea,SS50509590,South East 4,2024-04-22,Cockles,ND,,,<RL,<RL,24/04/2024,<LOQ
+BTX/2020/0626,Fowey,B70AB,Cornwall PHA,SX13025157,Pont Pill,2024-04-24,Mussels,ND,,,,,,
+BTX/2020/0627,Dart,B028P,South Hams DC,SX87945350,Long Wood South,2024-04-24,Pacific oysters,ND,,,<RL,<RL,<RL,1.9
+BTX/2020/0628,Start Bay,B087I,South Hams DC,SX 8472 4671,Off Strete,2024-04-24,Surf clams,ND,,,<RL,<RL,<RL,4.6
+BTX/2020/0629,West Mersea,B13AA,Colchester BC,TM03101211,West Mersea Outfall,2024-04-24,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0636,Porthallow Cove,B34AA,Cornwall PHA,SW80212383,Porthallow North,2024-04-28,Mussels,Detected,<400,,<RL,<RL,<RL,<LOQ
+BTX/2020/0637,Brixham,B082B,Torbay BC,SX90965741,Fishcombe SW corner,2024-04-28,Mussels,,,,<RL,<RL,<RL,
+BTX/2020/0638,Ribble,B046C,West Lancashire DC,SD32802590,Point 31 Ribble Walls North,2024-04-28,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0639,Portland,B25AJ,Dorset Council,SY68918032,Weymouth Bay,2024-04-28,Razors,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0652,Fal,B033Y,Cornwall PHA,SW85024095,Ruan Pontoon/Tregothnan,2024-04-29,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0653,Fal,B33AN,Cornwall PHA,SW81963551,Mylor Creek,2024-04-29,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0654,Fal,B33BD,Cornwall PHA,SW84093949,Trelissick Pontoon,2024-04-29,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0655,St. Austell Bay,B70AE,Cornwall PHA,SX05744972,Ropehaven Outer,2024-04-29,Mussels,,,,<RL,<RL,<RL,
+BTX/2020/0656,Dee,B45AG,Wirral BC,SJ21068470,West Kirby,2024-04-29,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0660,Swale,B076P,Swale BC,TR01316497,The Causeway,2024-05-01,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0674,Porthallow Cove,B34AA,Cornwall PHA,SW80212383,Porthallow North,2024-05-05,Mussels,,,,<RL,<RL,<RL,
+BTX/2020/0675,Helford,B034W,Cornwall PHA,SW75462765,Porth Navas Quay,2024-05-05,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0676,Brancaster,B05AS,Kings Lynn & West Norfolk BC,TF79884539,Norton Creek Mussels,2024-05-05,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0677,Taw/Torridge,B36AB,Torridge DC,SS46573142,Spratt Ridge East,2024-05-04,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0678,Holy Island - Ross Links,B001M,Northumberland CC,NU12333958,Ross Links,2024-05-04,Pacific oysters,Detected,<400,,<RL,<RL,<RL,<LOQ
+BTX/2020/0679,Southampton Water,B21AT,Southampton PHA,SU48760530,Hamble Estuary,2024-05-05,Manila clams,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0680,Solent,B24BK,Southampton PHA,SZ57479794,Browndown,2024-05-05,Native oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0708,Mevagissey Bay,B70AM,Cornwall PHA,SX02264678,Pentewan,2024-05-05,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0709,St. Austell Bay,B70AE,Cornwall PHA,SX05744972,Ropehaven Outer,2024-05-05,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0710,Fowey,B70AB,Cornwall PHA,SX13025157,Pont Pill,2024-05-05,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0711,Lantivet Bay,B70AI,Cornwall PHA,SX16305094,Sandheap Point,2024-05-05,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0712,The Wash,B04AP,Kings Lynn & West Norfolk BC,TF65963701,Stubborn Sand,2024-05-06,Cockles,Detected,<400,,<RL,<RL,<RL,<LOQ
+BTX/2020/0713,Crouch,B015Y,Maldon DC,TQ90429738,Althorne,2024-05-06,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0714,Blakeney,B006R,North Norfolk DC,TF91804549,Wells - The Pool,2024-05-06,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0715,Dart,B028P,South Hams DC,SX87945350,Long Wood South,2024-05-06,Pacific oysters,,,,<RL,<RL,<RL,
+BTX/2020/0716,Teign,B27AC,Teignbridge DC,SX92827284,Gas Works East,2024-05-06,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0717,Exe,B26BH,Teignbridge DC,SX97948072,Cockwood Harbour,2024-05-06,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0718,Roach,B73AF,London PHA,TQ94909207,Paglesham,2024-05-07,Hard clams,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0719,Blackwater,B14AD,Maldon DC,TM04060768,St Peters Flats,2024-05-07,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0720,Poole,B54CI,Bournemouth Poole Christchurch Council,SZ01818871,West Brownsea 1,2024-05-07,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0732,Morecambe Bay - Roosebeck,B48AX,Barrow-in-Furness BC,SD25996647,Roosebeck North,2024-05-12,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0733,Morecambe Bay - Barrow,B077R,Barrow-in-Furness BC,SD24916365,Foulney,2024-05-12,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0734,Silloth,B059L,Allerdale BC,NY10055345,Lees Scar,2024-05-12,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0773,North Kent Coast,B17BS,Canterbury CC,TR10326689,WOCO Westbeach,2024-05-13,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0774,Fal,B33AN,Cornwall PHA,SW81963546,Mylor Creek,2024-05-13,Mussels,ND,,,,,,
+BTX/2020/0775,Fal,B33BD,Cornwall PHA,SW84093949,Trelissick Pontoon,2024-05-13,Mussels,ND,,,,,,
+BTX/2020/0776,Fal,B033Y,Cornwall PHA,SW85024095,Ruan Pontoon/Tregothnan,2024-05-13,Mussels,ND,,,,,,
+BTX/2020/0777,The Wash,B003V,Boston BC,TF44234098,Toft,2024-05-13,Mussels,ND,,,<RL,<RL,<RL,4.2
+BTX/2020/0778,Butley,B009E,East Suffolk Council,TM39434850,Pumping Station Outfall,2024-05-13,Pacific oysters,ND,,,<RL,<RL,<RL,1.1
+BTX/2020/0779,Deben,B010O,East Suffolk Council,TM28834500,Stonner Point,2024-05-13,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0780,Menai Strait - West,B042O,Gwynedd CC,SH49916579,Area 11 East,2024-05-13,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0781,Menai Strait - East,B055S,Gwynedd CC,SH5833473287,West of Bangor Pier,2024-05-13,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0782,Blackwater,B014V,Maldon DC,TL91160795,Goldhanger,2024-05-13,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0783,Brixham,B082B,Torbay BC,SX90965741,Fishcombe SW corner,2024-05-13,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0784,Lyme Bay,B090V,Dorset Council,SY45918886,Lyme Bay Ensis West,2024-05-13,Razors,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0789,The Thames,B16BS,London PHA,TQ88148489,West of Southend Pier,2024-05-14,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0790,Yealm,B031J,Plymouth PHA,SX54224904,Thorn,2024-05-14,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0791,Swansea,B037U,Swansea PHA,SS67659210,Queens Dock,2024-05-14,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0792,Porlock,B094D,Somerset West & Taunton Council,SS87114787,Porlock East,2024-05-12,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0793,West Mersea,B13AA,Colchester BC,TM03101211,West Mersea Outfall,2024-05-14,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0803,Porthallow Cove,B34AA,Cornwall PHA,SW80212383,Porthallow North,2024-05-19,Mussels,ND,,,73,<RL,<RL,<LOQ
+BTX/2020/0804,Holy Island - Ross Links,B001M,Northumberland CC,NU12333958,Ross Links,2024-05-19,Pacific oysters,Detected,<400,,,,,
+BTX/2020/0805,Anglesey - Red Wharf Bay,B057J,Ynys Mon CC,SH53148022,Nodwydd,2024-05-19,Cockles,Detected,<400,,<RL,<RL,<RL,<LOQ
+BTX/2020/0832,Colne,B012F,Colchester BC,TM06201600,Pyefleet Spit,2024-05-20,Pacific Oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0833,St. Austell Bay,B70AE,Cornwall PHA,SX05744972,Ropehaven Outer,2024-05-20,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0835,Lantivet Bay,B70AI,Cornwall PHA,SX16305094,Sandheap Point,2024-05-20,Mussels,ND,,,,,,
+BTX/2020/0836,Fowey,B70AB,Cornwall PHA,SX13025157,Pont Pill,2024-05-20,Mussels,ND,,,,,,
+BTX/2020/0837,Helford,B034W,Cornwall PHA,SW75462765,Porth Navas Quay,2024-05-20,Pacific oysters,ND,,,,,,
+BTX/2020/0838,Mevagissey Bay,B70AL,Cornwall PHA,SX02264678,Pentewan,2024-05-20,Razors,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0839,Start Bay,B087I,South Hams DC,SX 8472 4671,Off Strete,2024-05-20,Surf clams,ND,,,<RL,<RL,<RL,4
+BTX/2020/0840,Yealm,B031J,Plymouth PHA,SX54224904,Thorn,2024-05-20,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0841,Lyme Bay,B090M,Torbay BC,Unverified,Site 1,2024-05-19,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0842,Burry Inlet,B038L,City and Council of Swansea,SS43409470,Whitford Point,2024-05-20,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0843,Dart,B028P,South Hams DC,SX87945350,Long Wood South,2024-05-20,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0853,West Mersea,B13AG,Colchester BC,TL97441340,Salcott Pacifics,2024-05-21,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0854,Burry Inlet,B038I,City and Council of Swansea,SS50509590,South East 4,2024-05-21,Cockles,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0855,Porlock,B094D,Somerset West & Taunton Council,SS87114787,Porlock East,2024-05-22,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0856,Poole,B54CI,Bournemouth Poole Christchurch Council,SZ01818871,West Brownsea 1,2024-05-22,Mussels,ND,,,,,,
+BTX/2020/0857,Fowey,B70AB,Cornwall PHA,SX13025157,Pont Pill,2024-05-26,Mussels,,,,<RL,<RL,<RL,
+BTX/2020/0858,St. Austell Bay,B70AE,Cornwall PHA,SX05744972,Ropehaven Outer,2024-05-26,Mussels,,,,<RL,<RL,<RL,
+BTX/2020/0859,Fal,B33AN,Cornwall PHA,SW81963551,Mylor Creek,2024-05-27,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0860,Fal,B033Y,Cornwall PHA,SW85024095,Ruan Pontoon/Tregothnan,2024-05-27,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0861,Fal,B33BD,Cornwall PHA,SW84093949,Trelissick Pontoon,2024-05-27,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0862,Lyme Bay,B090M,Torbay BC,Unverified,Site 1,2024-05-26,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0863,Dee,B45AG,Wirral BC,SJ21468468,West Kirby,2024-05-27,Mussels,ND,,,<RL,<RL,<RL,1.2
+BTX/2020/0864,The Fleet,B25AI,Dorset Council,SY66477627,Fleet Oysters,2024-05-27,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0901,Swale,B076P,Swale BC,TR01316497,The Causeway,2024-05-28,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0904,Porthallow Cove,B34AA,Cornwall PHA,SW80212383,Porthallow North,2024-05-28,Mussels,,,,56,<RL,<RL,
+BTX/2020/0906,Swansea,B037U,Swansea PHA,SS67659210,Queens Dock,2024-05-28,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0907,Camel,B35AE,Cornwall CC,SW93407530,Porthilly Rock B,2024-05-29,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0908,Poole,B54CL,Poole BC,SZ01818871,West Brownsea 1,2024-05-29,Mussels,,,,,,,<LOQ
+BTX/2020/0909,Ribble,B046C,West Lancashire DC,SD32802590,Point 31 Ribble Walls North,2024-05-29,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0919,Helford,B034W,Cornwall PHA,SW75462765,Porth Navas Quay,2024-06-02,Pacific oysters,ND,,,<RL,<RL,<RL,1.2
+BTX/2020/0920,Brancaster,B05AS,Kings Lynn & West Norfolk BC,TF79884539,Norton Creek Mussels,2024-06-02,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0921,Yealm,B031J,Plymouth PHA,SX54224904,Thorn,2024-06-02,Pacific oysters,ND,,,<RL,<RL,<RL,1.1
+BTX/2020/0922,Solent,B24BK,Southampton PHA,SZ57479794,Browndown,2024-06-02,Native oysters,ND,,,<RL,<RL,<RL,1.1
+BTX/2020/0923,Southampton Water,B21AT,Southampton PHA,SU48760530,Hamble Estuary,2024-06-02,Manila clams,ND,,,<RL,<RL,<RL,2
+BTX/2020/0924,Anglesey - Red Wharf Bay,B057J,Ynys Mon CC,SH53148022,Nodwydd,2024-06-02,Cockles,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0925,The Fleet,B25AI,Dorset Council,SY66477627,Fleet Oysters,2024-06-03,Pacific oysters,ND,,,<RL,<RL,<RL,1.5
+BTX/2020/957,Lantivet Bay,B70AI,Cornwall PHA,SX16305094,Sandheap Point,2024-06-03,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/958,St. Austell Bay,B70AE,Cornwall PHA,SX05744972,Ropehaven Outer,2024-06-03,Mussels,ND,,,30,<RL,<RL,<LOQ
+BTX/2020/959,Mevagissey Bay,B70AM,Cornwall PHA,SX02264678,Pentewan,2024-06-03,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/960,Porthallow Cove,B34AA,Cornwall PHA,SW80212383,Porthallow North,2024-06-03,Mussels,ND,,,45,<RL,<RL,<LOQ
+BTX/2020/961,The Wash,B04AP,Kings Lynn & West Norfolk BC,TF65963701,Stubborn Sand,2024-06-03,Cockles,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/962,Poole,B54CI,Bournemouth Poole Christchurch Council,SZ01818871,West Brownsea 1,2024-06-03,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/964,Brixham,B082B,Torbay BC,SX90965741,Fishcombe SW corner,2024-06-02,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/965,Lyme Bay,B090M,Torbay BC,Unverified,Site 1,2024-06-02,Mussels,,,,<RL,<RL,<RL,
+BTX/2020/0982,Roach,B73AF,London PHA,TQ94909207,Paglesham,2024-06-04,Hard clams,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0983,Crouch,B015Y,Maldon DC,TQ90429738,Althorne,2024-06-04,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0984,Blakeney,B006R,North Norfolk DC,TF91804549,Wells - The Pool,2024-06-05,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0985,Porlock,B094D,West Somerset Council,SS87114787,Porlock East,2024-06-05,Pacific oysters,ND,,,,,,
+BTX/2020/0996,Holy Island - Ross Links,B001M,Northumberland CC,NU12333958,Ross Links,2024-06-08,Pacific oysters,Detected,<400,,<RL,<RL,<RL,<LOQ
+BTX/2020/0997,Solent,B24BK,Southampton PHA,SZ57479794,Browndown,2024-06-09,Native oysters,,,,,,,<LOQ
+BTX/2020/0998,North Kent Coast,B17BS,Canterbury CC,TR1030866805,WOCO Westbeach,2024-06-09,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0999,The Thames,B16CM,London PHA,TR00508769,East of Havengore Creek,2024-06-09,Cockles,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1000,The Thames,B16CN,London PHA,TR06779599,Crouch Approach,2024-06-09,Cockles,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1001,The Thames,B16BR,London PHA,TQ93798271,Phoenix,2024-06-09,Cockles,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1032,Silloth,B059L,Allerdale BC,NY10055345,Lees Scar,2024-06-09,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1033,Fal,B033Y,Cornwall PHA,SW85024095,Ruan Pontoon/Tregothnan,2024-06-10,Mussels,ND,,,,,,
+BTX/2020/1034,Fal,B33BD,Cornwall PHA,SW84093949,Trelissick Pontoon,2024-06-10,Mussels,ND,,,,,,
+BTX/2020/1035,Fal,B33AN,Cornwall PHA,SW81963551,Mylor Creek,2024-06-10,Mussels,ND,,,,,,
+BTX/2020/1036,The Wash,B003V,Boston BC,TF44234098,Toft,2024-06-10,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1037,Menai Strait - West,B042O,Gwynedd CC,SH49916579,Area 11 East,2024-06-10,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1038,Menai Strait - East,B055S,Gwynedd CC,SH5833473287,West of Bangor Pier,2024-06-10,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1039,Taw/Torridge,B36AB,Torridge DC,SS46573142,Spratt Ridge East,2024-06-08,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1040,Lyme Bay,B090M,Torbay BC,Unverified,Site 1,2024-06-09,Mussels,ND,,,<RL,<RL,<RL,
+BTX/2020/1041,Blackwater,B014V,Maldon DC,TL91160795,Goldhanger,2024-06-10,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1042,Lyme Bay,B090V,Dorset Council,SY45918886,Lyme Bay Ensis West,2024-06-10,Razors,ND,,,,,,
+BTX/2020/1043,Portland,B25AJ,Dorset Council,SY68918032,Weymouth Bay,2024-06-10,Razors,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1053,Morecambe Bay - Barrow,B077R,Barrow-in-Furness BC,SD24916365,Foulney,2024-06-11,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1054,Morecambe Bay - Roosebeck,B48AX,Barrow-in-Furness BC,SD25996647,Roosebeck North,2024-06-11,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1055,Porthallow Cove,B34AA,Cornwall PHA,SW80212383,Porthallow North,2024-06-11,Mussels,ND,,,48,<RL,<RL,<LOQ
+BTX/2020/1056,Fowey,B70AB,Cornwall PHA,SX13025157,Pont Pill,2024-06-10,Mussels,Detected,<400,,<RL,<RL,<RL,<LOQ
+BTX/2020/1057,Mevagissey Bay,B70AM,Cornwall PHA,SX02264678,Pentewan,2024-06-10,Mussels,,,,<RL,<RL,<RL,
+BTX/2020/1058,St. Austell Bay,B70AE,Cornwall PHA,SX05744972,Ropehaven Outer,2024-06-10,Mussels,,,,<RL,<RL,<RL,
+BTX/2020/1059,Butley,B009E,East Suffolk Council,TM39434850,Pumping Station Outfall,2024-06-10,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1060,Deben,B010O,East Suffolk Council,TM28834500,Stonner Point,2024-06-10,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1061,Dee,B45AB,Flintshire CC,SJ1598685656,Salisbury,2024-06-11,Cockles,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1062,Swansea,B037U,Swansea PHA,SS67659210,Queens Dock,2024-06-11,Mussels,ND,,,,,,
+BTX/2020/1063,West Mersea,B13AA,Colchester BC,TM03101211,West Mersea Outfall,2024-06-11,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1064,Poole,B54CI,Bournemouth Poole Christchurch Council,SZ01818871,West Brownsea 1,2024-06-11,Mussels,,,,,,,<LOQ
+BTX/2020/1076,West Mersea,B13AG,Colchester BC,TL97441340,Salcott Pacifics,2024-06-16,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1077,Helford,B034W,Cornwall PHA,SW75462765,Porth Navas Quay,2024-06-16,Pacific oysters,ND,,,,,,
+BTX/2020/1078,Porthallow Cove,B34AA,Cornwall PHA,SW80212383,Porthallow North,2024-06-16,Mussels,,,,29,<RL,<RL,
+BTX/2020/1079,Brancaster,B05AS,Kings Lynn & West Norfolk BC,TF79884539,Norton Creek Mussels,2024-06-16,Mussels,,,,,,,<LOQ
+BTX/2020/1080,Holy Island - Ross Links,B001M,Northumberland CC,NU12333958,Ross Links,2024-06-15,Pacific oysters,,,,<RL,<RL,<RL,
+BTX/2020/1114,Lantivet Bay,B70AI,Cornwall PHA,SX16305094,Sandheap Point,2024-06-17,Mussels,ND,,,<RL,<RL,<RL,
+BTX/2020/1115,Fowey,B70AB,Cornwall PHA,SX13025157,Pont Pill,2024-06-17,Mussels,,,,<RL,<RL,<RL,
+BTX/2020/1116,Mevagissey Bay,B70AM,Cornwall PHA,SX02264678,Pentewan,2024-06-17,Mussels,ND,,,<RL,<RL,<RL,
+BTX/2020/1117,St. Austell Bay,B70AE,Cornwall PHA,SX05744972,Ropehaven Outer,2024-06-17,Mussels,ND,,,47,<RL,<RL,<LOQ
+BTX/2020/1118,Colne,B012F,Colchester BC,TM06201600,Pyefleet Spit,2024-06-17,Pacific Oysters,ND,,,<RL,<RL,<RL,1
+BTX/2020/1128,Three Rivers,B071O,Carmarthenshire CC,SN36570690,Pastoun Scar,2024-06-18,Cockles,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1129,Blakeney,B006T,North Norfolk DC,TF99494497,South Side,2024-06-18,Pacific oysters,,,,,,,<LOQ
+BTX/2020/1130,Yealm,B031J,Plymouth PHA,SX54224904,Thorn,2024-06-18,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1131,Poole,B54CI,Bournemouth Poole Christchurch Council,SZ01818871,West Brownsea 1,2024-06-18,Mussels,ND,,,,,,
+BTX/2020/1132,Teign,B27AC,Teignbridge DC,SX92827284,Gas Works East,2024-06-18,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1133,Anglesey - Red Wharf Bay,B057J,Ynys Mon CC,SH53148022,Nodwydd,2024-06-18,Cockles,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1137,Camel,B35AE,Cornwall CC,SW93407530,Porthilly Rock B,2024-06-19,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1150,Three Rivers,B071O,Carmarthenshire CC,SN36570690,Pastoun Scar,2024-06-23,Cockles,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1151,Swale,B076P,Swale BC,TR01316497,The Causeway,2024-06-23,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1152,Porlock,B094D,Somerset West & Taunton Council,SS87114787,Porlock East,2024-06-23,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1153,Dart,B028P,South Hams DC,SX87945350,Long Wood South,2024-06-23,Pacific oysters,Detected,<400,,<RL,<RL,<RL,<LOQ
+BTX/2020/1154,Start Bay,B087I,South Hams DC,SX 8472 4671,Off Strete,2024-06-23,Surf clams,ND,,,<RL,<RL,<RL,3
+BTX/2020/1187,Fal,B33AN,Cornwall PHA,SW81963551,Mylor Creek,2024-06-24,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1188,St. Austell Bay,B70AE,Cornwall PHA,SX05744972,Ropehaven Outer,2024-06-24,Mussels,,,,47,<RL,<RL,<LOQ
+BTX/2020/1189,Mevagissey Bay,B70AM,Cornwall PHA,SX02264678,Pentewan,2024-06-24,Mussels,,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1190,Menai Strait - East,B055S,Gwynedd CC,SH58337328,West of Bangor Pier,2024-06-24,Mussels,ND,,,,,,
+BTX/2020/1191,Fal,B033Y,Cornwall PHA,SW85024095,Ruan Pontoon/Tregothnan,2024-06-24,Mussels,Detected,<400,,<RL,<RL,<RL,<LOQ
+BTX/2020/1192,Fal,B33BD,Cornwall PHA,SW84093949,Trelissick Pontoon,2024-06-24,Mussels,Detected,<400,,<RL,<RL,<RL,<LOQ
+BTX/2020/1193,Lantivet Bay,B70AI,Cornwall PHA,SX16305094,Sandheap Point,2024-06-24,Mussels,ND,,,<RL,<RL,<RL,
+BTX/2020/1194,Fowey,B70AB,Cornwall PHA,SX13025157,Pont Pill,2024-06-24,Mussels,Detected,<400,,<RL,<RL,<RL,
+BTX/2020/1195,Blackwater,B14AD,Maldon DC,TM04060768,St Peters Flats,2024-06-24,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1196,Burry Inlet,B038I,City and Council of Swansea,SS50509590,South East 4,2024-06-24,Cockles,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1197,Burry Inlet,B038L,City and Council of Swansea,SS43409470,Whitford Point,2024-06-23,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1198,Lyme Bay,B090M,Torbay BC,Unverified,Site 1,2024-06-23,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1208,Swansea,B037U,Swansea PHA,SS67659210,Queens Dock,2024-06-25,Mussels,ND,,,<RL,<RL,<RL,1.8
+BTX/2020/1209,Exe,B26BH,Teignbridge DC,SX97948072,Cockwood Harbour,2024-06-25,Mussels,ND,,,<RL,<RL,<RL,1.8
+BTX/2020/1213,Porthallow Cove,B34AA,Cornwall PHA,SW80212383,Porthallow North,2024-06-25,Mussels,ND,,,32,<RL,<RL,<LOQ
+BTX/2020/1214,Helford,B034W,Cornwall PHA,SW75462765,Porth Navas Quay,2024-06-25,Pacific oysters,ND,,,,,,
+BTX/2020/1219,Porthallow Cove,B34AA,Cornwall PHA,SW80212383,Porthallow North,2024-06-30,Mussels,,,,,,,<LOQ
+BTX/2020/1220,Ribble,B046C,West Lancashire DC,SD32802590,Point 31 Ribble Walls North,2024-06-30,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1221,Brixham,B082B,Torbay BC,SX90965741,Fishcombe SW corner,2024-06-30,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1261,Mevagissey Bay,B70AM,Cornwall PHA,SX02264678,Pentewan,2024-07-01,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1262,St. Austell Bay,B70AE,Cornwall PHA,SX05744972,Ropehaven Outer,2024-07-01,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1263,Helford,B034W,Cornwall PHA,SW75462765,Porth Navas Quay,2024-07-01,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1279,Crouch,B015Y,Maldon DC,TQ90429738,Althorne,2024-07-02,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1280,Yealm,B031J,Plymouth PHA,SX54224904,Thorn,2024-07-02,Pacific oysters,ND,,,,,,
+BTX/2020/1281,Southampton Water,B21AT,Southampton PHA,SU48760530,Hamble Estuary,2024-07-02,Manila clams,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1282,Solent,B24BK,Southampton PHA,SZ57479794,Browndown,2024-07-02,Native oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1285,Roach,B73AF,London PHA,TQ94909207,Paglesham,2024-07-03,Hard clams,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1286,Blakeney,B006R,North Norfolk DC,TF91804549,Wells - The Pool,2024-07-03,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1300,Porthallow Cove,B34AA,Cornwall PHA,SW80212383,Porthallow North,2024-07-07,Mussels,ND,,,31,<RL,<RL,<LOQ
+BTX/2020/1301,Brancaster,B05AS,Kings Lynn & West Norfolk BC,TF79884539,Norton Creek Mussels,2024-07-07,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1302,Porlock,B094D,Somerset West & Taunton Council,SS87114786,Porlock East,2024-07-07,Pacific oysters,ND,,,,,,
+BTX/2020/1303,Holy Island - Ross Links,B001M,Northumberland CC,NU12333958,Ross Links,2024-07-06,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1304,Taw/Torridge,B36AB,Torridge DC,SS46573142,Spratt Ridge East,2024-07-06,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1305,North Kent Coast,B17BS,Canterbury CC,TR10296690,WOCO Westbeach,2024-07-07,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1306,The Fleet,B25AI,Dorset Council,SY66477627,Fleet Oysters,2024-07-08,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1332,Lantivet Bay,B70AI,Cornwall PHA,SX16305094,Sandheap Point,2024-07-08,Mussels,ND,,,49,<RL,<RL,<LOQ
+BTX/2020/1333,St. Austell Bay,B70AE,Cornwall PHA,SX05744972,Ropehaven Outer,2024-07-08,Mussels,,,,48,<RL,<RL,
+BTX/2020/1334,Fowey,B70AB,Cornwall PHA,SX13025157,Pont Pill,2024-07-08,Mussels,Detected,<400,,25,<RL,<RL,<LOQ
+BTX/2020/1335,Fal,B033Y,Cornwall PHA,SW85024095,Ruan Pontoon/Tregothnan,2024-07-08,Mussels,Detected,<400,,,,,
+BTX/2020/1336,The Wash,B003V,Boston BC,TF44234098,Toft,2024-07-08,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1337,Fal,B33BD,Cornwall PHA,SW84093949,Trelissick Pontoon,2024-07-08,Mussels,Detected,<400,,,,,
+BTX/2020/1338,Fal,B33AN,Cornwall PHA,SW81963551,Mylor Creek,2024-07-08,Mussels,Detected,<400,,,,,
+BTX/2020/1339,Blackwater,B014V,Maldon DC,TL91160795,Goldhanger,2024-07-08,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1340,Poole,B54CI,Bournemouth Poole Christchurch Council,SZ01818871,West Brownsea 1,2024-07-08,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1341,The Wash,B04AP,Kings Lynn & West Norfolk BC,TF65963701,Stubborn Sand,2024-07-08,Cockles,Detected,<400,,<RL,<RL,<RL,<LOQ
+BTX/2020/1342,Dart,B028P,South Hams DC,SX87945350,Long Wood South,2024-07-08,Pacific oysters,ND,,,<RL,<RL,<RL,
+BTX/2020/1343,Start Bay,B087I,South Hams DC,SX 8472 4671,Off Strete,2024-07-08,Surf clams,,,,<RL,<RL,<RL,
+BTX/2020/1344,Bigbury and Avon,B030J,South Hams DC,SX67114467,South Hexdown North,2024-07-08,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1360,Morecambe Bay - Barrow,B077R,Barrow-in-Furness BC,SD24916365,Foulney,2024-07-09,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1361,Morecambe Bay - Roosebeck,B48AX,Barrow-in-Furness BC,SD25996647,Roosebeck North,2024-07-09,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1362,West Mersea,B13AA,Colchester BC,TM03101211,West Mersea Outfall,2024-07-09,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1363,Blackwater,B14AD,Maldon DC,TM04060768,St Peters Flats,2024-07-09,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1364,Butley,B009E,East Suffolk Council,TM39434850,Pumping Station Outfall,2024-07-08,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1365,Swansea,B037U,Swansea PHA,SS67659210,Queens Dock,2024-07-09,Mussels,ND,,,,,,
+BTX/2020/1366,Lyme Bay,B090M,Torbay BC,Unverified,Site 1,2024-07-08,Mussels,ND,,,,,,
+BTX/2020/1371,Dee,B45AB,Flintshire CC,SJ17568056,Salisbury,2024-07-10,Cockles,Detected,<400,,<RL,<RL,<RL,<LOQ
+BTX/2020/1383,Fowey,B70AB,Cornwall PHA,SX13025157,Pont Pill,2024-07-14,Mussels,,,,27,<RL,<RL,
+BTX/2020/1384,Lantivet Bay,B70AI,Cornwall PHA,SX16305094,Sandheap Point,2024-07-14,Mussels,,,,<RL,<RL,<RL,
+BTX/2020/1385,St. Austell Bay,B70AE,Cornwall PHA,SX05744972,Ropehaven Outer,2024-07-14,Mussels,ND,,,31,<RL,<RL,<LOQ
+BTX/2020/1386,Mevagissey Bay,B70AM,Cornwall PHA,SX02264678,Pentewan,2024-07-14,Mussels,ND,,,,,,
+BTX/2020/1387,Porthallow Cove,B34AA,Cornwall PHA,SW80212383,Porthallow North,2024-07-14,Mussels,,,,,,,<LOQ
+BTX/2020/1388,Menai Strait - East,B055S,Gwynedd CC,SH5833473287,West of Bangor Pier,2024-07-14,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1389,Menai Strait - West,B042O,Gwynedd CC,SH49916579,Area 11 East,2024-07-14,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1390,Deben,B010O,East Suffolk Council,TM28834500,Stonner Point,2024-07-14,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1423,Colne,B012F,Colchester BC,TM06201600,Pyefleet Spit,2024-07-15,Pacific Oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1424,Helford,B034W,Cornwall PHA,SW75462765,Porth Navas Quay,2024-07-15,Pacific oysters,ND,,,,,,
+BTX/2020/1425,Fal,B33AN,Cornwall PHA,SW81963546,Mylor Creek,2024-07-15,Mussels,Detected,<400,,,,,<LOQ
+BTX/2020/1426,Poole,B54CI,Bournemouth Poole Christchurch Council,SZ01818871,West Brownsea 1,2024-07-15,Mussels,ND,,,,,,
+BTX/2020/1427,Brixham,B082B,Torbay BC,SX90965741,Fishcombe SW corner,2024-07-15,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1437,West Mersea,B13AG,Colchester BC,TL97441340,Salcott Pacifics,2024-07-16,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1438,Exe,B26BH,Teignbridge DC,SX97948072,Cockwood Harbour,2024-07-16,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1439,Teign,B27AC,Teignbridge DC,SX92827284,Gas Works East,2024-07-16,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1458,Burry Inlet,B038B,Carmarthenshire CC,SS47959886,North (West),2024-07-21,Cockles,ND,,,<RL,<RL,<RL,10
+BTX/2020/1459,Three Rivers,B071O,Carmarthenshire CC,SN36570690,Pastoun Scar,2024-07-21,Cockles,ND,,,<RL,<RL,<RL,9.3
+BTX/2020/1460,Yealm,B031J,Plymouth PHA,SX54224904,Thorn,2024-07-21,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1461,Porthallow Cove,B34AA,Cornwall PHA,SW80212383,Porthallow North,2024-07-21,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1462,Holy Island - Ross Links,B001M,Northumberland CC,NU12333958,Ross Links,2024-07-20,Pacific oysters,ND,,,,,,
+BTX/2020/1463,Anglesey - Red Wharf Bay,B057J,Ynys Mon CC,SH53148022,Nodwydd,2024-07-21,Cockles,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1464,The Thames,B16BR,London PHA,TQ93798271,Phoenix,2024-07-21,Cockles,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1466,The Thames,B16CM,London PHA,TR00508769,East of Havengore Creek,2024-07-21,Cockles,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1467,The Thames,B16CN,London PHA,TR06779599,Crouch Approach,2024-07-21,Cockles,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1496,Fal,B33BD,Cornwall PHA,SW84093949,Trelissick Pontoon,2024-07-22,Mussels,Detected,<400,,<RL,<RL,<RL,<LOQ
+BTX/2020/1497,Fal,B033Y,Cornwall PHA,SW85024095,Ruan Pontoon/Tregothnan,2024-07-22,Mussels,Detected,<400,,<RL,<RL,<RL,<LOQ
+BTX/2020/1498,Fowey,B70AB,Cornwall PHA,SX13025157,Pont Pill,2024-07-22,Mussels,Detected,<400,,<RL,<RL,<RL,<LOQ
+BTX/2020/1499,Camel,B35AE,Cornwall CC,SW93407530,Porthilly Rock B,2024-07-22,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1500,St. Austell Bay,B70AE,Cornwall PHA,SX05744972,Ropehaven Outer,2024-07-22,Mussels,,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1501,Mevagissey Bay,B70AM,Cornwall PHA,SX02264678,Pentewan,2024-07-22,Mussels,,,,,,,<LOQ
+BTX/2020/1502,Fal,B33AN,Cornwall PHA,SW81963546,Mylor Creek,2024-07-22,Mussels,Detected,<400,,<RL,<RL,<RL,<LOQ
+BTX/2020/1503,Start Bay,B087I,South Hams DC,SX84724671,Off Strete,2024-07-22,Surf clams,ND,,,<RL,<RL,<RL,2.5
+BTX/2020/1504,Bigbury and Avon,B030J,South Hams DC,SX67114467,South Hexdown North,2024-07-22,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1505,Dart,B028P,South Hams DC,SX87945350,Long Wood South,2024-07-22,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1506,Lyme Bay,B090M,Torbay BC,Unverified,Site 1,2024-07-21,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1507,Lantivet Bay,B70AI,Cornwall PHA,SX16305094,Sandheap Point,2024-07-22,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1508,Burry Inlet,B038L,City and Council of Swansea,SS4425695519,Whitford Point,2024-07-21,Mussels,ND,,,<RL,<RL,<RL,9.6
+BTX/2020/1509,Burry Inlet,B038I,City and Council of Swansea,SS5113995645,South East 4,2024-07-22,Cockles,ND,,,<RL,<RL,<RL,11
+BTX/2020/1519,Porlock,B094D,Somerset West & Taunton Council,SS87114786,Porlock East,2024-07-23,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1520,Swansea,B037U,Swansea PHA,SS67659210,Queens Dock,2024-07-23,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1521,Poole,B54CI,Bournemouth Poole Christchurch Council,SZ01818871,West Brownsea 1,2024-07-23,Mussels,ND,,,,,,
+BTX/2020/1524,Silloth,B059L,Allerdale BC,NY10055345,Lees Scar,2024-07-24,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1525,Taw/Torridge,B36AB,Torridge DC,SS46573142,Spratt Ridge East,2024-07-23,Mussels,ND,,,,,,
+BTX/2020/1541,Helford,B034W,Cornwall PHA,SW75462765,Porth Navas Quay,2024-07-28,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1542,Fal,B033Y,Cornwall PHA,SW85024095,Ruan Pontoon/Tregothnan,2024-07-28,Mussels,Detected,<400,,,,,
+BTX/2020/1543,Fal,B33AN,Cornwall PHA,SW81963551,Mylor Creek,2024-07-28,Mussels,Detected,<400,,<RL,<RL,<RL,<LOQ
+BTX/2020/1544,Menai Strait - East,B055S,Gwynedd CC,SH5833473287,West of Bangor Pier,2024-07-28,Mussels,ND,,,,,,
+BTX/2020/1545,Burry Inlet,B038I,City and Council of Swansea,SS51139995645,South East 4,2024-07-28,Cockles,,,,,,,5.4
+BTX/2020/1546,Fal,B33BD,Cornwall PHA,SW84093949,Trelissick Pontoon,2024-07-28,Mussels,Detected,<400,,<RL,<RL,<RL,
+BTX/2020/1573,Fowey,B70AB,Cornwall PHA,SX13025157,Pont Pill,2024-07-29,Mussels,,,,,,,<LOQ
+BTX/2020/1574,St. Austell Bay,B70AE,Cornwall PHA,SX05744972,Ropehaven Outer,2024-07-29,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1575,Mevagissey Bay,B70AM,Cornwall PHA,SX02264678,Pentewan,2024-07-29,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1576,Swale,B076P,Swale BC,TR01316497,The Causeway,2024-07-29,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1583,Burry Inlet,B038B,Carmarthenshire CC,SS48009950,North (West),2024-07-30,Cockles,ND,,,<RL,<RL,<RL,4.7
+BTX/2020/1584,Conwy,B044U,Conwy CBC,SH7732179327,Conwy East,2024-07-30,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1585,Porthallow Cove,B34AA,Cornwall PHA,SW80212383,Porthallow North,2024-07-30,Mussels,,,,,,,<LOQ
+BTX/2020/1586,Yealm,B031J,Plymouth PHA,SX54224904,Thorn,2024-07-30,Pacific oysters,,,,<RL,<RL,<RL,
+BTX/2020/1682,Morecambe Bay - Barrow,B077R,Barrow-in-Furness BC,SD24916365,Foulney,2024-08-06,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1683,Morecambe Bay - Roosebeck,B48AX,Barrow-in-Furness BC,SD25996647,Roosebeck North,2024-08-06,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1614,The Wash,B003V,Boston BC,TF44234098,Toft,2024-08-04,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1668,Poole,B54CI,Bournemouth Poole Christchurch Council,SZ01818871,West Brownsea 1,2024-08-05,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1687,North Kent Coast,B17BS,Canterbury CC,TR10326689,WOCO Westbeach,2024-08-05,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1684,Burry Inlet,B038B,Carmarthenshire CC,SS47959886,North (West),2024-08-06,Cockles,,,,<RL,<RL,<RL,
+BTX/2020/1688,West Mersea,B13AA,Colchester BC,TM03101211,West Mersea Outfall,2024-08-06,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1613,Porthallow Cove,B34AA,Cornwall PHA,SW80212383,Porthallow North,2024-08-04,Mussels,Detected,<400,,<RL,<RL,<RL,<LOQ
+BTX/2020/1652,Fal,B033Y,Cornwall PHA,SW85024095,Ruan Pontoon/Tregothnan,2024-08-05,Mussels,Detected,?400,320,,,,
+BTX/2020/1653,Mevagissey Bay,B70AM,Cornwall PHA,SX02264678,Pentewan,2024-08-05,Mussels,,,,,,,<LOQ
+BTX/2020/1654,Fal,B33AN,Cornwall PHA,SW81963551,Mylor Creek,2024-08-05,Mussels,Detected,<400,,,,,
+BTX/2020/1655,St. Austell Bay,B70AE,Cornwall PHA,SX05744972,Ropehaven Outer,2024-08-05,Mussels,,,,,,,<LOQ
+BTX/2020/1656,Fowey,B70AB,Cornwall PHA,SX13025157,Pont Pill,2024-08-05,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1657,Fal,B33BD,Cornwall PHA,SW84093949,Trelissick Pontoon,2024-08-05,Mussels,Detected,<400,,,,,
+BTX/2020/1658,Lantivet Bay,B70AI,Cornwall PHA,SX16305094,Sandheap Point,2024-08-05,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1625,The Fleet,B25AI,Dorset Council,SY66477627,Fleet Oysters,2024-08-05,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1659,Butley,B009E,East Suffolk Council,TM39434850,Pumping Station Outfall,2024-08-05,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1660,Deben,B010O,East Suffolk Council,TM28834500,Stonner Point,2024-08-05,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1619,Brancaster,B05AS,Kings Lynn & West Norfolk BC,TF79884539,Norton Creek Mussels,2024-08-04,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1661,The Wash,B04AP,Kings Lynn & West Norfolk BC,TF65963701,Stubborn Sand,2024-08-05,Cockles,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1615,Roach,B73AF,London PHA,TQ94909207,Paglesham,2024-08-04,Hard clams,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1616,The Thames,B16CN,London PHA,TR06779599,Crouch Approach,2024-08-04,Cockles,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1617,The Thames,B16CM,London PHA,TR00508769,East of Havengore Creek,2024-08-04,Cockles,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1618,The Thames,B16BR,London PHA,TQ93798271,Phoenix,2024-08-04,Cockles,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1662,Blakeney,B006R,North Norfolk DC,TF91804549,Wells - The Pool,2024-08-05,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1621,Holy Island - Ross Links,B001M,Northumberland CC,NU12333958,Ross Links,2024-08-03,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1685,Milford Haven,B39CZ,Pembrokeshire CC,SM89000275,Tethys Oyster Farm,2024-08-05,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1686,Yealm,B031J,Plymouth PHA,SX54224904,Thorn,2024-08-06,Pacific oysters,Detected,<400,,,,,
+BTX/2020/1663,Porlock,B094D,Somerset West & Taunton Council,SS87114787,Porlock East,2024-08-05,Pacific oysters,ND,,,,,,
+BTX/2020/1622,Southampton Water,B21AT,Southampton PHA,SU48760530,Hamble Estuary,2024-08-04,Manila clams,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1623,Solent,B24BK,Southampton PHA,SZ57479794,Browndown,2024-08-04,Native oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1664,Swansea,B037U,Swansea PHA,SS67659210,Queens Dock,2024-08-05,Mussels,ND,,,,,,
+BTX/2020/1665,Lyme Bay,B090M,Torbay BC,Unverified,Site 1,2024-08-04,Mussels,ND,,,,,,
+BTX/2020/1620,Taw/Torridge,B36AB,Torridge DC,SS46573142,Spratt Ridge East,2024-08-03,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1689,Dee,B45AB,Flintshire CC,SJ17568056,Salisbury,2024-08-07,Cockles,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1690,Blackwater,B014V,Maldon DC,TL91160795,Goldhanger,2024-08-07,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1691,Crouch,B015Y,Maldon DC,TQ90429738,Althorne,2024-08-07,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1703,Porthallow Cove,B34AA,Cornwall PHA,SW80212383,Porthallow North,2024-08-11,Mussels,,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1704,Fal,B33BD,Cornwall PHA,SW84093949,Trelissick Pontoon,2024-08-11,Mussels,Detected,<400,,,,,
+BTX/2020/1705,Fal,B033Y,Cornwall PHA,SW85024095,Ruan Pontoon/Tregothnan,2024-08-11,Mussels,Detected,<400,,,,,
+BTX/2020/1706,Helford,B034W,Cornwall PHA,SW75462765,Porth Navas Quay,2024-08-11,Pacific oysters,ND,,,,,,
+BTX/2020/1707,Fal,B33AN,Cornwall PHA,SW81963546,Mylor Creek,2024-08-11,Mussels,Detected,<400,,,,,
+BTX/2020/1708,Taw/Torridge,B36AB,Torridge DC,SS46573142,Spratt Ridge East,2024-08-10,Mussels,ND,,,,,,
+BTX/2020/1718,St. Austell Bay,B70AE,Cornwall PHA,SX05744972,Ropehaven Outer,2024-08-12,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1719,Mevagissey Bay,B70AM,Cornwall PHA,SX02264678,Pentewan,2024-08-12,Mussels,ND,,,,,,<LOQ
+BTX/2020/1720,Fowey,B70AB,Cornwall PHA,SX13025157,Pont Pill,2024-08-12,Mussels,,,,,,,<LOQ
+BTX/2020/1721,Menai Strait - West,B042O,Gwynedd CC,SH49916579,Area 11 East,2024-08-12,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1722,Menai Strait - East,B055S,Gwynedd CC,SH58337328,West of Bangor Pier,2024-08-11,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1723,Start Bay,B087I,South Hams DC,SX 8472 4671,Off Strete,2024-08-12,Surf clams,ND,,,<RL,<RL,<RL,3
+BTX/2020/1724,Dart,B028P,South Hams DC,SX87945350,Long Wood South,2024-08-12,Pacific oysters,,,,<RL,<RL,<RL,
+BTX/2020/1725,Brixham,B082B,Torbay BC,SX90965741,Fishcombe SW corner,2024-08-12,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1726,Ribble,B046C,West Lancashire DC,SD32802590,Point 31 Ribble Walls North,2024-08-12,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1773,West Mersea,B13AG,Colchester BC,TL97441340,Salcott Pacifics,2024-08-13,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1774,Lyme Bay,B090V,Dorset Council,SY45918886,Lyme Bay Ensis West,2024-08-18,Razors,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1796,Porthallow Cove,B34AA,Cornwall PHA,SW80212383,Porthallow North,2024-08-18,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1797,St. Austell Bay,B70AE,Cornwall PHA,SX05744972,Ropehaven Outer,2024-08-18,Mussels,,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1798,Lantivet Bay,B70AI,Cornwall PHA,SX16305094,Sandheap Point,2024-08-18,Mussels,ND,,,,,,
+BTX/2020/1799,Fowey,B70AB,Cornwall PHA,SX13025157,Pont Pill,2024-08-18,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1800,Burry Inlet,B038B,Carmarthenshire CC,SS48009950,North (West),2024-08-18,Cockles,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1801,Three Rivers,B071O,Carmarthenshire CC,SN36570690,Pastoun Scar,2024-08-18,Cockles,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1802,Poole,B54CI,Bournemouth Poole Christchurch Council,SZ01818871,West Brownsea 1,2024-08-18,Mussels,ND,,,,,,
+BTX/2020/1803,Holy Island - Ross Links,B001M,Northumberland CC,NU12333958,Ross Links,2024-08-16,Pacific oysters,ND,,,,,,
+BTX/2020/1804,Anglesey - Red Wharf Bay,B057J,Ynys Mon CC,SH53148022,Nodwydd,2024-08-18,Cockles,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1831,Fal,B033Y,Cornwall PHA,SW85024095,Ruan Pontoon/Tregothnan,2024-08-19,Mussels,Detected,<400,,<RL,<RL,<RL,<LOQ
+BTX/2020/1832,Fal,B33AN,Cornwall PHA,SW81963551,Mylor Creek,2024-08-19,Mussels,Detected,<400,,<RL,<RL,<RL,<LOQ
+BTX/2020/1833,Fal,B33BD,Cornwall PHA,SW84093949,Trelissick Pontoon,2024-08-19,Mussels,Detected,<400,,<RL,<RL,<RL,<LOQ
+BTX/2020/1834,Swansea,B037U,Swansea PHA,SS67659210,Queens Dock,2024-08-19,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1835,Burry Inlet,B038L,City and Council of Swansea,SS4425695519,Whitford Point,2024-08-18,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1836,Burry Inlet,B038I,City and Council of Swansea,SS5113995645,South East 4,2024-08-19,Cockles,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1837,Teign,B27AC,Teignbridge DC,SX92827284,Gas Works East,2024-08-19,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1838,Exe,B26BH,Teignbridge DC,SX97948072,Cockwood Harbour,2024-08-19,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1852,Colne,B012F,Colchester BC,TM06201600,Pyefleet Spit,2024-08-20,Pacific Oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1853,Yealm,B031J,Plymouth PHA,SX54224904,Thorn,2024-08-20,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1854,Lyme Bay,B090M,Torbay BC,Unverified,Site 1,2024-08-19,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1855,Porlock,B094D,Somerset West & Taunton Council,SS87114787,Porlock East,2024-08-20,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1856,Lune,B066W,Wyre BC,SD41835241,Pilling Sands East,2024-08-20,Cockles,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1863,Silloth,B059L,Allerdale BC,NY10055345,Lees Scar,2024-08-21,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1864,Milford Haven,B39CZ,Pembrokeshire CC,SM89000275,Tethys Oysters,2024-08-21,Pacific Oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1890,West Mersea,B13AA,Colchester BC,TM03101211,West Mersea Outfall,2024-08-25,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1891,Helford,B034W,Cornwall PHA,SW75462765,Porth Navas Quay,2024-08-25,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1892,Fal,B033Y,Cornwall PHA,SW85024095,Ruan Pontoon/Tregothnan,2024-08-25,Mussels,Detected,<400,,,,,
+BTX/2020/1893,Fal,B33BD,Cornwall PHA,SW84093949,Trelissick Pontoon,2024-08-25,Mussels,Detected,<400,,,,,
+BTX/2020/1894,Swale,B076P,Swale BC,TR01316497,The Causeway,2024-08-25,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1895,Ribble,B046C,West Lancashire DC,SD32802590,Point 31 Ribble Walls North,2024-08-25,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1897,The Fleet,B25AI,Dorset Council,SY66477627,Fleet Oysters,2024-08-26,Pacific oysters,ND,,,,,,
+BTX/2020/1920,Camel,B35AE,Cornwall CC,SW93407530,Porthilly Rock B,2024-08-25,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1921,Lune,B066W,Wyre BC,SD41835241,Pilling Sands East,2024-08-26,Cockles,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1932,Conwy,B044V,Conwy CBC,SH76317972,Conwy West,2024-08-27,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1933,Mevagissey Bay,B70AM,Cornwall PHA,SX02264678,Pentewan,2024-08-27,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1934,St. Austell Bay,B70AE,Cornwall PHA,SX05744972,Ropehaven Outer,2024-08-27,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1935,Menai Strait - East,B055S,Gwynedd CC,SH58337328,West of Bangor Pier,2024-08-27,Mussels,ND,,,,,,
+BTX/2020/1937,Blackwater,B14AD,Maldon DC,TM04060768,St Peters Flats,2024-08-28,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1988,Fal,B33BD,Cornwall PHA,SW84093949,Trelissick Pontoon,2024-09-02,Mussels,Detected,<400,,,,,
+BTX/2020/1989,Fal,B033Y,Cornwall PHA,SW85024095,Ruan Pontoon/Tregothnan,2024-09-02,Mussels,Detected,<400,,<RL,<RL,<RL,<LOQ
+BTX/2020/1990,Lantivet Bay,B70AI,Cornwall PHA,SX16305094,Sandheap Point,2024-09-02,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1991,Fowey,B70AB,Cornwall PHA,SX13025157,Pont Pill,2024-09-02,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1992,Fal,B33AN,Cornwall PHA,SW81963551,Mylor Creek,2024-09-02,Mussels,Detected,<400,,<RL,<RL,<RL,<LOQ
+BTX/2020/1993,Brancaster,B05AS,Kings Lynn & West Norfolk BC,TF79884539,Norton Creek Mussels,2024-09-02,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1994,Crouch,B015Y,Maldon DC,TQ90429738,Althorne,2024-09-02,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1995,Blakeney,B006R,North Norfolk DC,TF91804549,Wells - The Pool,2024-09-02,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1996,Yealm,B031J,Plymouth PHA,SX54224904,Thorn,2024-09-02,Pacific oysters,ND,,,,,,
+BTX/2020/1997,Southampton Water,B21AT,Southampton PHA,SU48760530,Hamble Estuary,2024-09-02,Manila clams,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/1998,Solent,B24BK,Southampton PHA,SZ57479794,Browndown,2024-09-02,Native oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2009,Poole,B54CI,Bournemouth Poole Christchurch Council,SZ01818871,West Brownsea 1,2024-09-03,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2010,Roach,B73AF,London PHA,TQ94909207,Paglesham,2024-09-02,Hard clams,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2011,Porthallow Cove,B34AA,Cornwall PHA,SW80212383,Porthallow North,2024-09-03,Mussels,ND,,,<RL,<RL,<RL,1.1
+BTX/2020/2012,The Wash,B04AP,Kings Lynn & West Norfolk BC,TF65963701,Stubborn Sand,2024-09-03,Cockles,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2013,Porlock,B094D,Somerset West & Taunton Council,SS87114787,Porlock East,2024-09-03,Pacific oysters,ND,,,,,,
+BTX/2020/2014,Swansea,B037U,Swansea PHA,SS67659210,Queens Dock,2024-09-03,Mussels,ND,,,,,,
+BTX/2020/2015,North Kent Coast,B17BS,Canterbury CC,TR10296690,WOCO Westbeach,2024-09-04,Pacific oysters,ND,,,<RL,<RL,<RL,2.6
+BTX/2020/2016,Lyme Bay,B090V,Dorset Council,SY45918886,Lyme Bay Ensis West,2024-09-08,Razors,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2027,St. Austell Bay,B70AE,Cornwall PHA,SX05744972,Ropehaven Outer,2024-09-08,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2028,Mevagissey Bay,B70AM,Cornwall PHA,SX02264678,Pentewan,2024-09-08,Mussels,ND,,,,,,
+BTX/2020/2029,The Wash,B003V,Boston BC,TF44234098,Toft,2024-09-08,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2030,The Fleet,B25AI,Dorset Council,SY66477627,Fleet Oysters,2024-09-09,Pacific oysters,ND,,,<RL,<RL,<RL,1.1
+BTX/2020/2065,Morecambe Bay - Barrow,B077R,Barrow-in-Furness BC,SD24916365,Foulney,2024-09-09,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2066,Morecambe Bay - Roosebeck,B48AX,Barrow-in-Furness BC,SD25996647,Roosebeck North,2024-09-09,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2067,North Kent Coast,B17BS,Canterbury CC,TR10326689,WOCO Westbeach,2024-09-09,Pacific oysters,,,,<RL,<RL,<RL,
+BTX/2020/2068,Helford,B034W,Cornwall PHA,SW75462765,Porth Navas Quay,2024-09-09,Pacific oysters,ND,,,,,,
+BTX/2020/2069,Butley,B009E,East Suffolk Council,TM39434850,Pumping Station Outfall,2024-09-09,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2070,Deben,B010O,East Suffolk Council,TM28834500,Stonner Point,2024-09-09,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2071,Brixham,B082B,Torbay BC,SX90965741,Fishcombe SW corner,2024-09-09,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2072,Lyme Bay,B090M,Torbay BC,Unverified,Site 1,2024-09-08,Mussels,ND,,,,,,
+BTX/2020/2087,Fal,B33AN,Cornwall PHA,SW81963546,Mylor Creek,2024-09-10,Mussels,Detected,<400,,,,,
+BTX/2020/2088,Dee,B45AB,Flintshire CC,SJ1774880536,Salisbury,2024-09-10,Cockles,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2089,Menai Strait - West,B042O,Gwynedd CC,SH49916579,Area 11 East,2024-09-10,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2090,Menai Strait - East,B055S,Gwynedd CC,SH5833473287,West of Bangor Pier,2024-09-10,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2091,Blackwater,B014V,Maldon DC,TL91160795,Goldhanger,2024-09-09,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2101,Burry Inlet,B038B,Carmarthenshire CC,SS48009950,North (West),2024-09-15,Cockles,Detected,<400,,<RL,<RL,<RL,<LOQ
+BTX/2020/2102,Three Rivers,B071O,Carmarthenshire CC,SN36570690,Pastoun Scar,2024-09-15,Cockles,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2103,Porthallow Cove,B34AA,Cornwall PHA,SW80212383,Porthallow North,2024-09-15,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2104,Fowey,B70AB,Cornwall PHA,SX13025157,Pont Pill,2024-09-15,Mussels,ND,,,,,,
+BTX/2020/2105,Lantivet Bay,B70AI,Cornwall PHA,SX16305094,Sandheap Point,2024-09-15,Mussels,ND,,,,,,
+BTX/2020/2106,Taw/Torridge,B036V,Torridge DC,SS4669031020,Neck Gut 1,2024-09-15,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2107,Holy Island - Ross Links,B001M,Northumberland CC,NU12333958,Ross Links,2024-09-14,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2108,West Mersea,B13AG,Colchester BC,TL97441340,Salcott Pacifics,2024-09-15,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2109,Poole,B54CI,Bournemouth Poole Christchurch Council,SZ01818871,West Brownsea 1,2024-09-15,Mussels,ND,,,,,,
+BTX/2020/2155,Fal,B33AN,Cornwall PHA,SW81963546,Mylor Creek,2024-09-16,Mussels,Detected,<400,,<RL,<RL,<RL,<LOQ
+BTX/2020/2156,Fal,B033Y,Cornwall PHA,SW85024095,Ruan Pontoon/Tregothnan,2024-09-16,Mussels,Detected,<400,,<RL,<RL,<RL,<LOQ
+BTX/2020/2157,Fal,B33BD,Cornwall PHA,SW84093949,Trelissick Pontoon,2024-09-16,Mussels,Detected,<400,,<RL,<RL,<RL,<LOQ
+BTX/2020/2158,Colne,B012F,Colchester BC,TM06201600,Pyefleet Spit,2024-09-16,Pacific Oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2159,Anglesey - Red Wharf Bay,B057J,Ynys Mon CC,SH53148022,Nodwydd,2024-09-16,Cockles,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2160,Blakeney,B006R,North Norfolk DC,TF91804549,Wells - The Pool,2024-09-16,Mussels,not tested,,,not tested,not tested,not tested,not tested
+BTX/2020/2161,Yealm,B031J,Plymouth PHA,SX54224904,Thorn,2024-09-16,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2162,Start Bay,B087I,South Hams DC,SX84724671,Off Strete,2024-09-16,Surf clams,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2163,Dart,B028P,South Hams DC,SX87945350,Long Wood South,2024-09-16,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2172,Swansea,B037U,Swansea PHA,SS67659210,Queens Dock,2024-09-17,Mussels,ND,,,<RL,<RL,<RL,1
+BTX/2020/2173,Camel,B35AE,Cornwall CC,SW93407530,Porthilly Rock B,2024-09-17,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2174,Porlock,B094D,Somerset West & Taunton Council,SS87114786,Porlock East,2024-09-17,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2175,The Thames,B16CM,London PHA,TR00508769,East of Havengore Creek,2024-09-17,Cockles,Detected,<400,,<RL,<RL,<RL,<LOQ
+BTX/2020/2176,The Thames,B16BR,London PHA,TQ93798271,Phoenix,2024-09-17,Cockles,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2177,The Thames,B16CN,London PHA,TR06779599,Crouch Approach,2024-09-17,Cockles,Detected,<400,,<RL,<RL,<RL,<LOQ
+BTX/2020/2178,Exe,B26BH,Teignbridge DC,SX97948072,Cockwood Harbour,2024-09-17,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2179,Teign,B27AC,Teignbridge DC,SX92827284,Gas Works East,2024-09-17,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2200,St. Austell Bay,B70AE,Cornwall PHA,SX05744972,Ropehaven Outer,2024-09-22,Mussels,ND,,,<RL,<RL,<RL,<RL
+BTX/2020/2201,Mevagissey Bay,B70AM,Cornwall PHA,SX02264678,Pentewan,2024-09-22,Mussels,ND,,,<RL,<RL,<RL,<RL
+BTX/2020/2202,Burry Inlet,B038I,City and Council of Swansea,SS50509590,South East 4,2024-09-22,Cockles,ND,,,<RL,<RL,<RL,<RL
+BTX/2020/2203,Burry Inlet,B038T,City and Council of Swansea,SS44409730,Whitford Point,2024-09-22,Cockles,not tested ,,,not tested ,not tested ,not tested ,not tested 
+BTX/2020/2204,Burry Inlet,B038L,City and Council of Swansea,SS43409470,Whitford Point,2024-09-22,Mussels,ND,,,<RL,<RL,<RL,<RL
+BTX/2020/2205,Ribble,B046C,West Lancashire DC,SD32802590,Point 31 Ribble Walls North,2024-09-22,Mussels,ND,,,<RL,<RL,<RL,<RL
+BTX/2020/2237,West Mersea,B13AA,Colchester BC,TM03101211,West Mersea Outfall,2024-09-23,Pacific oysters,ND,,,<RL,<RL,<RL,<RL
+BTX/2020/2238,Conwy,B044V,Conwy CBC,SH76317972,Conwy West,2024-09-23,Mussels,ND,,,<RL,<RL,<RL,<RL
+BTX/2020/2239,Helford,B034W,Cornwall PHA,SW75462765,Porth Navas Quay,2024-09-23,Pacific oysters,ND,,,<RL,<RL,<RL,<RL
+BTX/2020/2240,Fal,B33AN,Cornwall PHA,SW81963551,Mylor Creek,2024-09-23,Mussels,Detected,<400,,,,,
+BTX/2020/2241,Percuil,B033R,Cornwall PHA,SW85853369,Percuil,2024-09-23,Native oysters,ND,,,<RL,<RL,<RL,<RL
+BTX/2020/2242,Menai Strait - East,B055S,Gwynedd CC,SH58337328,West of Bangor Pier,2024-09-22,Mussels,ND,,,,,,
+BTX/2020/2243,Menai Strait - West,B042O,Gwynedd CC,SH49916579 ,Area 11 East,2024-09-23,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2244,Lyme Bay,B090M,Torbay BC,Unverified ,Site 1,2024-09-22,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2258,Blackwater,B14AD,Maldon DC,TM04060768,St Peters Flats,2024-09-24,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2259,Beaulieu,B023I,New Forest DC,SU40280135,Landing Stage,2024-09-24,Manila clams,ND,,,<RL,<RL,<RL,1.9
+BTX/2020/2260,Milford Haven,B39CZ,Pembrokeshire CC,SM89000275,Tethys Oyster Farm,2024-09-23,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2261,Lune,B066Y,Wyre BC,SD34504722,Sea Centre South,2024-09-24,Mussels,Not tested ,,,Not tested ,Not tested ,Not tested ,Not tested 
+BTX/2020/2262,Lune,B066Z,Wyre BC,SD34194862,Knott Spit,2024-09-24,Mussels,Not tested ,,,Not tested ,Not tested ,Not tested ,Not tested 
+BTX/2020/2263,Lune,B066W,Wyre BC,SD41835241,Pilling Sands East,2024-09-24,Cockles,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2272,Porthallow Cove,B34AA,Cornwall PHA,SW80212383,Porthallow North,2024-09-29,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2273,Holy Island - Ross Links,B001M,Northumberland CC,NU12333958,Ross Links,2024-09-28,Pacific oysters,ND,,,,,,
+BTX/2020/2308,Fal,B33BG,Cornwall PHA,SW82803517,Mylor Pool,2024-09-30,Native oysters,Detected,<400,,<RL,<RL,<RL,<LOQ
+BTX/2020/2309,Fal,B33BD,Cornwall PHA,SW84093949,Trelissick Pontoon,2024-09-30,Mussels,Detected,<400,,<RL,<RL,<RL,<LOQ
+BTX/2020/2310,Fal,B033E,Cornwall PHA,SW85134212,Grimes Bar,2024-09-30,Native oysters,Detected,<400,,<RL,<RL,<RL,<LOQ
+BTX/2020/2325,The Thames,B16CN,London PHA,TR06779599,Crouch Approach,2024-10-02,Cockles,Detected,<400,,<RL,<RL,<RL,<LOQ
+BTX/2020/2326,The Thames,B16BR,London PHA,TQ93798271,Phoenix,2024-10-02,Cockles,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2327,Roach,B73AF,London PHA,TQ94909207,Paglesham,2024-10-02,Hard clams,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2328,The Thames,B16CM,London PHA,TR00508769,East of Havengore Creek,2024-10-02,Cockles,Detected,<400,,<RL,<RL,<RL,<LOQ
+BTX/2020/2329,North Kent Coast,B17BS,Canterbury CC,TR10326689,WOCO Westbeach,2024-10-06,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2330,West Mersea,B13AA,Colchester BC,TM03101211,West Mersea Outfall,2024-10-06,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2331,Fowey,B70AB,Cornwall PHA,SX13025157,Pont Pill,2024-10-06,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2332,Lantivet Bay,B70AI,Cornwall PHA,SX16305094,Sandheap Point,2024-10-06,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2333,Mevagissey Bay,B70AM,Cornwall PHA,SX02264678,Pentewan,2024-10-06,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2334,St. Austell Bay,B70AE,Cornwall PHA,SX05744972,Ropehaven Outer,2024-10-06,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2335,Ribble,B046C,West Lancashire DC,SD32802590,Point 31 Ribble Walls North,2024-10-06,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2380,Morecambe Bay - Barrow,B077R,Barrow-in-Furness BC,SD24916365,Foulney,2024-10-07,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2381,Morecambe Bay - Roosebeck,B48AX,Barrow-in-Furness BC,SD25996647,Roosebeck North,2024-10-07,Pacific oysters,ND,,,<RL,<RL,<RL,1.4
+BTX/2020/2382,The Wash,B003V,Boston BC,TF44234098,Toft,2024-10-06,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2383,Blackwater,B014V,Maldon DC,TL91160795,Goldhanger,2024-10-07,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2384,Poole,B54CL,Bournemouth Poole Christchurch Council,SZ01818870,West Brownsea 1,2024-10-07,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2385,Lune,B066W,Wyre BC,SD41835241,Pilling Sands East,2024-10-07,Cockles,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2401,Beaulieu,B023I,New Forest DC,SU40280135,Landing Stage,2024-10-08,Manila clams,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2418,West Mersea,B13AG,Colchester BC,TL9740413451,Salcott Pacifics,2024-10-13,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2419,Helford,B034W,Cornwall PHA,SW75462765,Porth Navas Quay,2024-10-13,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2420,Brancaster,B05AS,Kings Lynn & West Norfolk BC,TF79884539,Norton Creek Mussels,2024-10-13,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2421,Poole,B54CI,Bournemouth Poole Christchurch Council,SZ01818871,West Brownsea 1,2024-10-13,Mussels,,,,<RL,<RL,<RL,
+BTX/2020/2422,The Fleet,B25AI,Dorset Council,SY66477627,Fleet Oysters,2024-10-14,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2445,Burry Inlet,B038B,Carmarthenshire CC,SS48009950,North (West),2024-10-14,Cockles,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2446,Three Rivers,B071O,Carmarthenshire CC,SN36570690,Pastoun Scar,2024-10-14,Cockles,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2447,Deben,B010O,East Suffolk Council,TM28834500,Stonner Point,2024-10-14,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2448,The Wash,B04AP,Kings Lynn & West Norfolk BC,TF6595737003,Stubborn Sand,2024-10-14,Cockles,Detected,<400,,<RL,<RL,<RL,<LOQ
+BTX/2020/2449,Brixham,B082B,Torbay BC,SX90965741,Fishcombe SW corner,2024-10-14,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2450,Lyme Bay,B090M,Torbay BC,Unverified,Site 1,2024-10-13,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2451,Yealm,B031J,Plymouth PHA,SX54224904,Thorn,2024-10-14,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2452,Butley,B009E,East Suffolk Council,TM39434850,Pumping Station Outfall,2024-10-14,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2453,Blakeney,B006R,North Norfolk DC,TF91804549,Wells - The Pool,2024-10-14,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2467,Camel,B35AE,Cornwall CC,SW93407530,Porthilly Rock B,2024-10-15,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2468,Swansea,B037U,Swansea PHA,SS67659210,Queens Dock,2024-10-15,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2471,Conwy,B044V,Conwy CBC,SH7630879722,Conwy West,2024-10-14,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2472,Anglesey - Red Wharf Bay,B057J,Ynys Mon CC,SH53148022,Nodwydd,2024-10-16,Cockles,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2491,Silloth,B059L,Allerdale BC,NY10055345,Lees Scar,2024-10-20,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2492,West Mersea,B13AA,Colchester BC,TM03101211,West Mersea Outfall,2024-10-20,Pacific oysters,Not tested,,,Not tested,Not tested,Not tested,Not tested
+BTX/2020/2493,Menai Strait - West,B042O,Gwynedd CC,SH49916579,Area 11 East,2024-10-20,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2494,Menai Strait - East,B055S,Gwynedd CC,SH5833473287,West of Bangor Pier,2024-10-19,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2495,Holy Island - Ross Links,B001M,Northumberland CC,NU12333958,Ross Links,2024-10-20,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2496,Milford Haven,B39CZ,Pembrokeshire CC,SM89000275,Tethys Oyster,2024-10-20,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2497,Porlock,B094D,Somerset West & Taunton Council,SS87114786,Porlock East,2024-10-20,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2498,Bigbury and Avon,B030J,South Hams DC,SX67074458,South Hexdown North,2024-10-20,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2499,Southampton Water,B21AT,Southampton PHA,SU48760530,Hamble Estuary,2024-10-20,Manila clams,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2500,Solent,B24BK,Southampton PHA,SZ57479794,Browndown,2024-10-20,Native oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2528,Fal,B033E,Cornwall PHA,SW85134212,Grimes Bar,2024-10-21,Native oysters,Detected,<400,,<RL,<RL,<RL,<LOQ
+BTX/2020/2529,Fal,B33BD,Cornwall PHA,SW84093949,Trelissick Pontoon,2024-10-21,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2530,Taw/Torridge,B036V,Torridge DC,SS46533134,Neck Gut,2024-10-21,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2531,Burry Inlet,B038L,City and Council of Swansea,SS4425695519,Whitford Point,2024-10-21,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2532,Burry Inlet,B038I,City and Council of Swansea,SS5113995645,South East 4,2024-10-21,Cockles,Detected,<400,,<RL,<RL,<RL,<LOQ
+BTX/2020/2540,Dee,B45AB,Flintshire CC,SJ17568056,Salisbury,2024-10-22,Cockles,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2541,Swale,B076P,Swale BC,TR01316497,The Causeway,2024-10-22,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2542,Start Bay,B087I,South Hams DC,SX 8472 4671,Off Strete,2024-10-22,Surf clams,ND,,,<RL,<RL,<RL,4
+BTX/2020/2543,Dart,B028P,South Hams DC,SX87945350,Long Wood South,2024-10-22,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2544,Exe,B26BH,Teignbridge DC,SX97948072,Cockwood Harbour,2024-10-22,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2547,Fal,B33BG,Cornwall PHA,SW82803517,Mylor Pool,2024-10-22,Native oysters,ND,,,<RL,<RL,<RL,1.4
+BTX/2020/2548,Percuil,B033R,Cornwall PHA,SW85853369,Percuil,2024-10-22,Native oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2549,Porthallow Cove,B34AA,Cornwall PHA,SW80212383,Porthallow North,2024-10-22,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2583,Colne,B012F,Colchester BC,TM06201600,Pyefleet Spit,2024-10-28,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2584,Crouch,B015Y,Maldon DC,TQ90429738,Althorne,2024-10-28,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2593,Teign,B27AC,Teignbridge DC,SX92827284,Gas Works East,2024-10-29,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2622,Holy Island - Ross Links,B001M,Northumberland CC,NU12333958,Ross Links,2024-11-03,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2623,Brancaster,B05AS,Kings Lynn & West Norfolk BC,TF79884539,Norton Creek Mussels,2024-11-03,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2645,The Wash,B04AP,Kings Lynn & West Norfolk BC,TF65963701,Stubborn Sand,2024-11-04,Cockles,Detected,<400,,<RL,<RL,<RL,<LOQ
+BTX/2020/2646,Poole,B54CI,Bournemouth Poole Christchurch Council,SZ01818871,West Brownsea 1,2024-11-04,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2655,Morecambe Bay - Roosebeck,B48AX,Barrow-in-Furness BC,SD25996647,Roosebeck North,2024-11-05,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2656,Morecambe Bay - Barrow,B077R,Barrow-in-Furness BC,SD24916365,Foulney,2024-11-05,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2657,North Kent Coast,B17BS,Canterbury CC,TR10326689,WOCO Westbeach,2024-11-05,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2658,Butley,B009E,East Suffolk Council,TM39434850,Pumping Station Outfall,2024-11-05,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2659,Deben,B010O,East Suffolk Council,TM28834500,Stonner Point,2024-11-05,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2660,The Wash,B003V,Boston BC,TF44234098,Toft,2024-11-05,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2661,Menai Strait - East,B055S,Gwynedd CC,SH58337328,West of Bangor Pier,2024-11-04,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2662,Menai Strait - West,B042O,Gwynedd CC,SH49916579,Area 11 East,2024-11-05,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2669,The Fleet,B25AI,Dorset Council,SY66477627,Fleet Oysters,2024-11-11,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2701,Conwy,B044V,Conwy CBC,SH7630879722,Conwy West,2024-11-11,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2702,Solent,B24BK,Southampton PHA,SZ56499887,Browndown,2024-11-11,Native oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2703,Southampton Water,B21AT,Southampton PHA,SU48760530,Hamble Estuary,2024-11-11,Manila clams,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2704,Yealm,B031J,Plymouth PHA,SX54224904,Thorn,2024-11-11,Pacific oysters,ND,,,<RL,<RL,<RL,1.1
+BTX/2020/2705,Lune,B066W,Wyre BC,SD41835241,Pilling Sands East,2024-11-11,Cockles,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2706,Poole,B54CI,Bournemouth Poole Christchurch Council,SZ01818871,West Brownsea 1,2024-11-11,Mussels,,,,<RL,<RL,<RL,
+BTX/2020/2712,West Mersea,B13AG,Colchester BC,TL97441340,Salcott Pacifics,2024-11-12,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2713,Helford,B034W,Cornwall PHA,SW75462765,Porth Navas Quay,2024-11-12,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2714,Blackwater,B14AD,Maldon DC,TM04060768,St Peters Flats,2024-11-12,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2715,Lyme Bay,B090M,Torbay BC,Unverified,Site 1,2024-11-11,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2716,Brixham,B082B,Torbay BC,SX90965741,Fishcombe SW corner,2024-11-12,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2717,Anglesey - Red Wharf Bay,B057J,Ynys Mon CC,SH53148022,Nodwydd,2024-11-13,Cockles,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2718,Colne,B012F,Colchester BC,TM06201600,Pyefleet Spit,2024-11-13,Pacific Oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2731,Three Rivers,B071O,Carmarthenshire CC,SN36570690,Pastoun Scar,2024-11-17,Cockles,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2732,Burry Inlet,B038B,Carmarthenshire CC,SS48009950,North (West),2024-11-17,Cockles,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2733,Roach,B73AF,London PHA,TQ94909207,Paglesham,2024-11-17,Hard clams,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2734,Taw/Torridge,B036V,Torridge DC,SS46573142,Neck Gut,2024-11-16,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2735,Milford Haven,B39CZ,Pembrokeshire CC,SM89000275,Tethys Oyster,2024-11-17,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2736,Burry Inlet,B038L,City and Council of Swansea,SS4425695519,Whitford Point,2024-11-17,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2737,Start Bay,B087I,South Hams DC,SX84724671,Off Strete,2024-11-17,Surf clams,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2738,Dart,B028P,South Hams DC,SX87945350,Long Wood South,2024-11-17,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2755,Blakeney,B006R,North Norfolk DC,TF91804549,Wells - The Pool,2024-11-18,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2756,Swansea,B037U,Swansea PHA,SS67659210,Queens Dock,2024-11-18,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2757,Burry Inlet,B038I,City and Council of Swansea,SS5113995645,South East 4,2024-11-18,Cockles,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2765,Silloth,B059L,Allerdale BC,NY10055345,Lees Scar,2024-11-19,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2766,Camel,B35AE,Cornwall CC,SW93407530,Porthilly Rock B,2024-11-19,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2767,Dee,B45AB,Flintshire CC,SJ17568056,Salisbury,2024-11-19,Cockles,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2768,Swale,B076P,Swale BC,TR01316497,The Causeway,2024-11-19,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2769,Crouch,B015Y,Maldon DC,TQ90429738,Althorne,2024-11-19,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2770,Porlock,B094D,Somerset West & Taunton Council,SS87114787,Porlock East,2024-11-19,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2771,Bigbury and Avon,B030J,South Hams DC,SX67114467,South Hexdown North,2024-11-19,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2772,Ribble,B046C,West Lancashire DC,SD32802590,Point 31 Ribble Walls North,2024-11-20,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2773,West Mersea,B13AA,Colchester BC,TM03101211,West Mersea Outfall,2024-11-20,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2774,The Thames,B16BS,London PHA,TQ88148489,West of Southend Pier,2024-11-20,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2779,Fal,B33BG,Cornwall PHA,SW82803517,Mylor Pool,2024-11-24,Native oysters,Detected,<400,,<RL,<RL,<RL,<LOQ
+BTX/2020/2780,Fal,B033E,Cornwall PHA,SW85134212,Grimes Bar,2024-11-24,Native oysters,Detected,<400,,<RL,<RL,<RL,<LOQ
+BTX/2020/2781,Lantivet Bay,B70AI,Cornwall PHA,SX16305094,Sandheap Point,2024-11-24,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2782,Fowey,B70AB,Cornwall PHA,SX13025157,Pont Pill,2024-11-24,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2783,St. Austell Bay,B70AE,Cornwall PHA,SX05744972,Ropehaven Outer,2024-11-24,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2784,Mevagissey Bay,B70AK,Cornwall PHA,SX05214698,South Mevagissey Bottom,2024-11-24,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2785,Fal,B33BD,Cornwall PHA,SW84093949,Trelissick Pontoon,2024-11-24,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2803,Porthallow Cove,B34AA,Cornwall PHA,SW80212383,Porthallow North,2024-11-25,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2804,Percuil,B033R,Cornwall PHA,SW85853369,Percuil,2024-11-25,Native oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2805,West Mersea,B13AG,Colchester BC,TL97441340,Salcott Pacifics,2024-11-25,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2806,Blackwater,B014V,Maldon DC,TL91160795,Goldhanger,2024-11-25,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2816,Colne,B012F,Colchester BC,TM06201600,Pyefleet Spit,2024-11-26,Pacific Oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2817,Teign,B27AC,Teignbridge DC,SX92827284,Gas Works East,2024-11-26,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2818,Exe,B26BH,Teignbridge DC,SX97948072,Cockwood Harbour,2024-11-26,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2867,Blakeney,B006R,North Norfolk DC,TF91804549,Wells - The Pool,2024-12-02,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2868,Butley,B009E,East Suffolk Council,TM39434850,Pumping Station Outfall,2024-12-02,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2869,Southampton Water,B21AT,Southampton PHA,SU48760530,Hamble Estuary,2024-12-02,Manila clams,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2870,Solent,B24BK,Southampton PHA,SZ57479794,Browndown,2024-12-02,Native oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2880,North Kent Coast,B17BS,Canterbury CC,TR10326689,WOCO Westbeach,2024-12-03,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2881,Menai Strait - East,B055S,Gwynedd CC,SH58337328,West of Bangor Pier,2024-12-02,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2882,The Thames,B16BS,London PHA,TQ88148489,West of Southend Pier,2024-12-03,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2883,Blackwater,B14AD,Maldon DC,TM04060768,St Peters Flats,2024-12-03,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2884,Poole,B54CI,Bournemouth Poole Christchurch Council,SZ01818871,West Brownsea 1,2024-12-03,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2885,Anglesey - Red Wharf Bay,B057J,Ynys Mon CC,SH53148022,Nodwydd,2024-12-03,Cockles,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2892,West Mersea,B13AA,Colchester BC,TM03101211,West Mersea Outfall,2024-12-04,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2900,Fowey,B70AB,Cornwall PHA,SX13025157,Pont Pill,2024-12-08,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2901,St. Austell Bay,B70AE,Cornwall PHA,SX05744972,Ropehaven Outer,2024-12-08,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2902,Lantivet Bay,B70AI,Cornwall PHA,SX16305094,Sandheap Point,2024-12-08,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2903,Mevagissey Bay,B70AK,Cornwall PHA,SX05214698,South Mevagissey Bottom,2024-12-08,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2904,The Fleet,B25AI,Dorset Council,SY66477627,Fleet Oysters,2024-12-09,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2919,Fal,B033E,Cornwall PHA,SW85134212,Grimes Bar,2024-12-09,Native oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2920,Fal,B33BD,Cornwall PHA,SW84093949,Trelissick Pontoon,2024-12-09,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2921,Morecambe Bay - Roosebeck,B48AX,Barrow-in-Furness BC,SD25996647,Roosebeck North,2024-12-08,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2922,Morecambe Bay - Barrow,B077R,Barrow-in-Furness BC,SD24916365,Foulney,2024-12-08,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2923,Deben,B010O,East Suffolk Council,TM28834500,Stonner Point,2024-12-09,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2924,Ribble,B046C,West Lancashire DC,SD32802590,Point 31 Ribble Walls North,2024-12-08,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2925,Swale,B076P,Swale BC,TR01316497,The Causeway,2024-12-09,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2926,Brixham,B082B,Torbay BC,SX90965741,Fishcombe SW corner,2024-12-09,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2927,Lyme Bay,B090M,Torbay BC,SY13687543,Site 1,2024-12-08,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2928,Lune,B066W,Wyre BC,SD41835241,Pilling Sands East,2024-12-09,Cockles,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2932,Percuil,B033R,Cornwall PHA,SW85853369,Percuil,2024-12-10,Native oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2933,Porthallow Cove,B34AA,Cornwall PHA,SW80212383,Porthallow North,2024-12-10,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2934,Swansea,B037U,Swansea PHA,SS67659210,Queens Dock,2024-12-10,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2935,Blackwater,B014V,Maldon DC,TL91160795,Goldhanger,2024-12-10,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2936,Conwy,B044V,Conwy CBC,SH7630879722,Conwy West,2024-12-10,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2937,Dee,B45AB,Flintshire CC,SJ1712180450,Salisbury,2024-12-10,Cockles,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2945,Three Rivers,B071O,Carmarthenshire CC,SN36570690,Pastoun Scar,2024-12-15,Cockles,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2946,Burry Inlet,B038B,Carmarthenshire CC,SS554809950,North (West),2024-12-15,Cockles,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2947,Helford,B034W,Cornwall PHA,SW75462765,Porth Navas Quay,2024-12-15,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2948,Camel,B35AE,Cornwall CC,SW93407530,Porthilly Rock B,2024-12-15,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2949,Brancaster,B05AS,Kings Lynn & West Norfolk BC,TF7987845358,Norton Creek Mussels,2024-12-15,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2950,Roach,B73AF,London PHA,TQ94909207,Paglesham,2024-12-15,Hard clams,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2951,Taw/Torridge,B036V,North Devon DC,SS46403160,Neck Gut 1,2024-12-15,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2952,Milford Haven,B39CZ,Pembrokeshire CC,SM89000275,Tethys Oyster,2024-12-14,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2953,Yealm,B031J,Plymouth PHA,SX54224904,Thorn,2024-12-15,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2954,Dart,B028P,South Hams DC,SX87945350,Long Wood South,2024-12-15,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2955,Burry Inlet,B038L,City and Council of Swansea,SS4425695519,Whitford Point,2024-12-15,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2956,Porlock,B094D,Somerset West & Taunton Council,SS87114786,Porlock East,2024-12-15,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2972,The Wash,B003V,Boston BC,TF44234098,Toft,2024-12-16,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2973,The Wash,B04AP,Kings Lynn & West Norfolk BC,TF65963701,Stubborn Sand,2024-12-16,Cockles,Detected,<400,,<RL,<RL,<RL,<LOQ
+BTX/2020/2974,Crouch,B015Y,Maldon DC,TQ90429738,Althorne,2024-12-16,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2975,Holy Island - Ross Links,B001M,Northumberland CC,NU12333958,Ross Links,2024-12-15,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2976,Portsmouth Harbour,B020H,Portsmouth PHA,SU62850544,Paulsgrove,2024-12-16,Hard clams,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2977,Langstone Harbour,B019I,Portsmouth PHA,SU70560339,Stoke Common Lake,2024-12-16,Hard clams,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2978,Burry Inlet,B038I,City and Council of Swansea,SS5113995645,South East 4,2024-12-16,Cockles,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/2979,Exe,B26BH,Teignbridge DC,SX97948072,Cockwood Harbour,2024-12-16,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0001,Solent,B24BK,Southampton PHA,SZ57479794,Browndown,2025-01-05,Native oysters,ND,,<RL,<RL,<RL,<RL,<LOQ
+BTX/2021/0002,Southampton Water,B21AT,Southampton PHA,SU48760530,Hamble Estuary,2025-01-05,Manila clams,ND,,<RL,<RL,<RL,<RL,<LOQ
+BTX/2021/0004,Morecambe Bay - Roosebeck,B48AX,Barrow-in-Furness BC,SD25996647,Roosebeck North,2025-01-06,Pacific oysters,ND,,<RL,<RL,<RL,<RL,<LOQ
+BTX/2021/0005,Morecambe Bay - Barrow,B077R,Barrow-in-Furness BC,SD24916365,Foulney,2025-01-06,Mussels,ND,,<RL,<RL,<RL,<RL,<LOQ
+BTX/2021/0006,Blackwater,B014V,Maldon DC,TL91160795,Goldhanger,2025-01-06,Pacific oysters,ND,,<RL,<RL,<RL,<RL,<LOQ
+BTX/2021/0019,Blackwater,B14AD,Maldon DC,TM04060768,St Peters Flats,2025-01-07,Pacific oysters,ND,,<RL,<RL,<RL,<RL,<LOQ
+BTX/2021/0024,Mevagissey Bay,B70AK,Cornwall PHA,SX05214698,South Mevagissey Bottom,2025-01-12,Mussels,ND,,<RL,<RL,<RL,<RL,<LOQ
+BTX/2021/0025,St. Austell Bay,B70AE,Cornwall PHA,SX05744972,Ropehaven Outer,2025-01-12,Mussels,ND,,<RL,<RL,<RL,<RL,<LOQ
+BTX/2021/0026,Fowey,B70AB,Cornwall PHA,SX13025157,Pont Pill,2025-01-12,Mussels,ND,,<RL,<RL,<RL,<RL,<LOQ
+BTX/2021/0027,Lantivet Bay,B70AI,Cornwall PHA,SX16305094,Sandheap Point,2025-01-12,Mussels,ND,,<RL,<RL,<RL,<RL,<LOQ
+BTX/2021/0028,Brancaster,B05AS,Kings Lynn & West Norfolk BC,TF7987845358,Norton Creek Mussels,2025-01-12,Mussels,ND,,<RL,<RL,<RL,<RL,<LOQ
+BTX/2021/0029,Holy Island - Ross Links,B001M,Northumberland CC,NU12333958,Ross Links,2025-01-11,Pacific oysters,ND,,<RL,<RL,<RL,<RL,<LOQ
+BTX/2021/0030,Taw/Torridge,B036V,Torridge DC,SS46573142,Neck Gut,2025-01-12,Mussels,ND,,<RL,<RL,<RL,<RL,<LOQ
+BTX/2021/0031,Yealm,B031J,Plymouth PHA,SX54224904,Thorn,2025-01-12,Pacific oysters,ND,,<RL,<RL,<RL,<RL,<LOQ
+BTX/2021/0033,The Fleet,B25AI,Dorset Council,SY66477627,Fleet Oysters,2025-01-13,Pacific oysters,ND,,<RL,<RL,<RL,<RL,<LOQ
+BTX/2021/0056,Burry Inlet,B038B,Carmarthenshire CC,SS4570099862,North (West),2025-01-13,Cockles,Detected,<400,<RL,<RL,<RL,<RL,<LOQ
+BTX/2021/0057,Colne,B012F,Colchester BC,TM06201600,Pyefleet Spit,2025-01-13,Pacific Oysters,ND,,<RL,<RL,<RL,<RL,<LOQ
+BTX/2021/0058,West Mersea,B13AG,Colchester BC,TL97441340,Salcott Pacifics,2025-01-12,Pacific oysters,ND,,<RL,<RL,<RL,<RL,<LOQ
+BTX/2021/0059,Helford,B034W,Cornwall PHA,SW75462765,Porth Navas Quay,2025-01-13,Pacific oysters,ND,,<RL,<RL,<RL,<RL,<LOQ
+BTX/2021/0060,Butley,B009E,East Suffolk Council,TM39434850,Pumping Station Outfall,2025-01-13,Pacific oysters,ND,,<RL,<RL,<RL,<RL,<LOQ
+BTX/2021/0061,Deben,B010O,East Suffolk Council,TM28834500,Stonner Point,2025-01-13,Mussels,ND,,<RL,<RL,<RL,<RL,<LOQ
+BTX/2021/0062,The Wash,B04AP,Kings Lynn & West Norfolk BC,TF65963701,Stubborn Sand,2025-01-13,Cockles,Detected,<400,<RL,<RL,<RL,<RL,<LOQ
+BTX/2021/0063,Blakeney,B006R,North Norfolk DC,TF91804549,Wells - The Pool,2025-01-13,Mussels,ND,,<RL,<RL,<RL,<RL,<LOQ
+BTX/2021/0064,Poole,B54CI,Bournemouth Poole Christchurch Council,SZ01818871,West Brownsea 1,2025-01-13,Mussels,ND,,<RL,<RL,<RL,<RL,<LOQ
+BTX/2021/0065,Langstone Harbour,B019I,Portsmouth PHA,SU70560339,Stoke Common Lake,2025-01-13,Hard clams,ND,,<RL,<RL,<RL,<RL,<LOQ
+BTX/2021/0066,Swansea,B037U,Swansea PHA,SS67659210,Queens Dock,2025-01-13,Mussels,ND,,<RL,<RL,<RL,<RL,<LOQ
+BTX/2021/0067,Brixham,B082B,Torbay BC,SX90965741,Fishcombe SW corner,2025-01-13,Mussels,ND,,<RL,<RL,<RL,<RL,<LOQ
+BTX/2021/0068,Lyme Bay,B090M,Torbay BC,Unverified,Site 1,2025-01-12,Mussels,ND,,<RL,<RL,<RL,<RL,<LOQ
+BTX/2021/0069,Roach,B73AF,London PHA,TQ94909207,Paglesham,2025-01-13,Hard clams,ND,,<RL,<RL,<RL,<RL,<LOQ
+BTX/2021/0084,Camel,B35AE,Cornwall CC,SW93407530,Porthilly Rock B,2025-01-14,Mussels,ND,,<RL,<RL,<RL,<RL,<LOQ
+BTX/2021/0085,The Wash,B003V,Boston BC,TF44234098,Toft,2025-01-14,Mussels,ND,,<RL,<RL,<RL,<RL,<LOQ
+BTX/2021/0086,Crouch,B015Y,Maldon DC,TQ90429738,Althorne,2025-01-14,Mussels,ND,,<RL,<RL,<RL,<RL,<LOQ
+BTX/2021/0087,Portsmouth Harbour,B020H,Portsmouth PHA,SU62850544,Paulsgrove,2025-01-14,Hard clams,ND,,<RL,<RL,<RL,<RL,<LOQ
+BTX/2021/0088,Start Bay,B087I,South Hams DC,SX84724671,Off Strete,2025-01-14,Surf clams,ND,,<RL,<RL,<RL,<RL,<LOQ
+BTX/2021/0089,Dart,B028P,South Hams DC,SX87945350,Long Wood South,2025-01-14,Pacific oysters,ND,,<RL,<RL,<RL,<RL,<LOQ
+BTX/2021/0090,Teign,B27AC,Teignbridge DC,SX92827284,Gas Works East,2025-01-14,Mussels,ND,,<RL,<RL,<RL,<RL,<LOQ
+BTX/2021/0091,Porlock,B094D,Somerset West & Taunton Council,SS87114786,Porlock East,2025-01-14,Pacific oysters,ND,,<RL,<RL,<RL,<RL,<LOQ
+BTX/2021/0094,Milford Haven,B39CZ,Pembrokeshire CC,SM89000275,Tethys Oyster,2025-01-15,Pacific oysters,ND,,<RL,<RL,<RL,<RL,<LOQ
+BTX/2021/0100,North Kent Coast,B17BS,Canterbury CC,TR1038266803,WOCO Westbeach,2025-01-19,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0101,Burry Inlet,B038L,City and Council of Swansea,SS4425695519,Whitford Point,2025-01-19,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0103,West Mersea,B13AA,Colchester BC,TM03101211,West Mersea Outfall,2025-01-19,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0104,Swale,B076P,Swale BC,TR01316497,The Causeway,2025-01-19,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0111,Fal,B33BD,Cornwall PHA,SW84093949,Trelissick Pontoon,2025-01-20,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0112,Fal,B033E,Cornwall PHA,SW85134212,Grimes Bar,2025-01-20,Native oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0113,The Thames,B16BS,London PHA,TQ88148489,West of Southend Pier,2025-01-20,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0114,Dee,B45AG,Wirral BC,SJ21068470,West Kirby,2025-01-20,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0119,Fal (Lower),B33BW,Cornwall PHA,SW83663789,East Bank North,2025-01-21,Queen scallops,Detected,?400,<RL,<RL,<RL,<RL,<LOQ
+BTX/2021/0120,Fal (Lower),B33BX,Cornwall PHA,SW82803517,Mylor Pool,2025-01-21,Queen scallops,Detected,<400,,<RL,<RL,<RL,<LOQ
+BTX/2021/0121,Exe,B26BH,Teignbridge DC,SX97948072,Cockwood Harbour,2025-01-21,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0122,Lune,B066W,Wyre BC,SD41835241,Pilling Sands East,2025-01-21,Cockles,Detected,<400,,<RL,<RL,<RL,<LOQ
+BTX/2021/0123,Lune,B066Y,Wyre BC,SD34504722,Sea Centre South,2025-01-21,Mussels,Not tested,,,Not tested,Not tested,Not tested,Not tested
+BTX/2021/0126,Porthallow Cove,B34AA,Cornwall PHA,SW80212383,Porthallow North,2025-01-22,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0127,Percuil,B033R,Cornwall PHA,SW85853369,Percuil,2025-01-22,Native oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0134,Conwy,B044V,Conwy CBC,SH7630879722,Conwy West,2025-01-27,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0135,Fal (Lower),B33BX,Cornwall PHA,SW82803517,Mylor Pool,2025-01-28,Queen scallops,Not tested,,,Not tested,Not tested,Not tested,Not tested
+BTX/2021/0136,Fal (Lower),B33BW,Cornwall PHA,SW83683833,East Bank North,2025-01-28,Queen scallops,Not tested,,,Not tested,Not tested,Not tested,Not tested
+BTX/2021/0154,Silloth,B059L,Allerdale BC,NY10055345,Lees Scar,2025-02-02,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0155,Holy Island - Ross Links,B001M,Northumberland CC,NU12333958,Ross Links,2025-02-01,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0172,Butley,B009E,East Suffolk Council,TM39434850,Pumping Station Outfall,2025-02-03,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0173,Deben,B010O,East Suffolk Council,TM28834500,Stonner Point,2025-02-03,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0174,Ribble,B046C,West Lancashire DC,SD32802590,Point 31 Ribble Walls North,2025-02-03,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0175,The Wash,B003V,Boston BC,TF44234098,Toft,2025-02-02,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0176,Blackwater,B014V,Maldon DC,TL91160795,Goldhanger,2025-02-03,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0179,Morecambe Bay - Barrow,B077R,Barrow-in-Furness BC,SD24916365,Foulney,2025-02-04,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0180,Morecambe Bay - Roosebeck,B48AX,Barrow-in-Furness BC,SD25996647,Roosebeck North,2025-02-04,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0181,Fal (Lower),B33BX,Cornwall PHA,SW82803517,Mylor Pool,2025-02-04,Queen scallops,Detected,<400,,<RL,<RL,<RL,<LOQ
+BTX/2021/0182,Fal (Lower),B33BW,Cornwall PHA,SW83683833,East Bank North,2025-02-04,Queen scallops,Detected,?400,226,<RL,<RL,<RL,<LOQ
+BTX/2021/0187,Brancaster,B05AS,Kings Lynn & West Norfolk BC,TF7987845358,Norton Creek Mussels,2025-02-09,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0188,Taw/Torridge,B36AV,North Devon DC,SS4653231340,Neck Gut,2025-02-08,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0191,The Fleet,B25AI,Dorset Council,SY66477627,Fleet Oysters,2025-02-10,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0201,Burry Inlet,B38AI,Carmarthenshire CC,SN4562799840,Burry Port,2025-02-10,Cockles,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0202,Conwy,B044V,Conwy CBC,SH763087922,Conwy West,2025-02-09,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0203,The Wash,B04AP,Kings Lynn & West Norfolk BC,TF65963701,Stubborn Sand,2025-02-10,Cockles,Detected,<400,,<RL,<RL,<RL,<LOQ
+BTX/2021/0204,Yealm,B031J,Plymouth PHA,SX54224904,Thorn,2025-02-10,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0205,Poole,B54CI,Bournemouth Poole Christchurch Council,SZ01818871,West Brownsea 1,2025-02-10,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0206,Lune,B066W,Wyre BC,SD41835241,Pilling Sands East,2025-02-09,Cockles,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0217,Camel,B35AE,Cornwall CC,SW93407530,Porthilly Rock B,2025-02-11,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0218,Fal (Lower),B33BX,Cornwall PHA,SW82803517,Mylor Pool,2025-02-11,Queen scallops,Detected,<400,,<RL,<RL,<RL,<LOQ
+BTX/2021/0219,Fal (Upper),B33CA,Cornwall PHA,SW84123916,South Wood,2025-02-11,Queen scallops,Detected,<400,,<RL,<RL,<RL,<LOQ
+BTX/2021/0220,Helford,B034W,Cornwall PHA,SW75462765,Porth Navas Quay,2025-02-11,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0221,Dart,B028P,South Hams DC,SX87945350,Long Wood South,2025-02-11,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0222,Bigbury and Avon,B030J,South Hams DC,SX67074458,South Hexdown North,2025-02-11,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0223,Southampton Water,B21AT,Southampton PHA,SU48760530,Hamble Estuary,2025-02-11,Manila clams,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0224,Solent,B24BK,Southampton PHA,SZ57479794,Browndown,2025-02-11,Native oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0225,Swansea,B037U,Swansea PHA,SS67659210,Queens Dock,2025-02-11,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0226,Porlock,B094D,Somerset West & Taunton Council,SS87114787,Porlock East,2025-02-11,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0230,Roach,B73AF,London PHA,TQ94909207,Paglesham,2025-02-12,Hard clams,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0233,West Mersea,B13AA,Colchester BC,TM03101211,West Mersea Outfall,2025-02-16,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0234,Lantivet Bay,B70AI,Cornwall PHA,SX16305094,Sandheap Point,2025-02-16,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0235,Mevagissey Bay,B70AK,Cornwall PHA,SX05214698,South Mevagissey Bottom,2025-02-16,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0236,St. Austell Bay,B70AE,Cornwall PHA,SX05744972,Ropehaven Outer,2025-02-16,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0237,Milford Haven,B39CZ,Pembrokeshire CC,SM89000275,Tethys Oyster,2025-02-16,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0238,Burry Inlet,B038L,City and Council of Swansea,SS4425695519,Whitford Point,2025-02-16,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0256,Burry Inlet,B038I,City and Council of Swansea,SS5113995645,South East 4,2025-02-17,Cockles,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0257,Fal (Upper),B33BD,Cornwall PHA,SW84093949,Trelissick Pontoon,2025-02-17,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0258,Fal (Lower),B33BG,Cornwall PHA,SW82803517,Mylor Pool,2025-02-17,Native oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0259,Fal (Upper),B033E,Cornwall PHA,SW85134212,Grimes Bar,2025-02-17,Native oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0260,Blackwater,B14AD,Maldon DC,TM04060768,St Peters Flats,2025-02-17,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0261,North Kent Coast,B17BS,Canterbury CC,TR1037566797,WOCO Westbeach,2025-02-17,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0262,Langstone Harbour,B019I,Portsmouth PHA,SU70560339,Stoke Common Lake,2025-02-17,Hard clams,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0265,Fal (Upper),B33CA,Cornwall PHA,SW84123916,South Wood,2025-02-18,Queen scallops,Detected,<400,,<RL,<RL,<RL,<LOQ
+BTX/2021/0266,Fal (Lower),B33BW,Cornwall PHA,SW83663789,East Bank North,2025-02-18,Queen scallops,Detected,<400,,<RL,<RL,<RL,<LOQ
+BTX/2021/0267,Menai Strait - East,B055S,Gwynedd CC,SH5833473287,West of Bangor Pier,2025-02-17,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0268,Menai Strait - West,B042O,Gwynedd CC,SH49916579,Area 11 East,2025-02-18,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0269,Portsmouth Harbour,B020H,Portsmouth PHA,SU62850544,Paulsgrove,2025-02-18,Hard clams,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0270,The Thames,B16BS,London PHA,TQ88148489,West of Southend Pier,2025-02-18,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0271,Crouch,B015Y,Maldon DC,TQ90429738,Althorne,2025-02-18,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0277,Swale,B076P,Swale BC,TR01316497,The Causeway,2025-02-19,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0287,West Mersea,B13AG,Colchester BC,TL97441340,Salcott Pacifics,2025-02-23,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0295,Colne,B012F,Colchester BC,TM06201600,Pyefleet Spit,2025-02-24,Pacific Oysters,ND ,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0296,Brixham,B082B,Torbay BC,SX90965741,Fishcombe SW corner,2025-02-23,Mussels,ND ,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0297,Lyme Bay,B090M,Torbay BC,Unverified (SY13687543),Site 1,2025-02-23,Mussels,ND ,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0298,Dee,B45AG,Wirral BC,SJ21468468,West Kirby,2025-02-23,Mussels,ND ,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0300,Helford,B034W,Cornwall PHA,SW75462765,Porth Navas Quay,2025-02-25,Pacific oysters,ND,,,,,,
+BTX/2021/0301,Fal (Upper),B33CA,Cornwall PHA,SW84123916,South Wood,2025-02-25,Queen scallops,Detected,<400,,<RL,<RL,<RL,<LOQ
+BTX/2021/0302,Fal (Lower),B33BX,Cornwall PHA,SW82803517,Mylor Pool,2025-02-25,Queen scallops,Detected,<400,,<RL,<RL,<RL,<LOQ
+BTX/2021/0303,Ribble,B046C,West Lancashire DC,SD32802590,Point 31 Ribble Walls North,2025-02-25,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0304,Teign,B27AC,Teignbridge DC,SX92827284,Gas Works East,2025-02-25,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0305,Exe,B26BH,Teignbridge DC,SX97948072,Cockwood Harbour,2025-02-25,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0310,Porthallow Cove,B34AA,Cornwall PHA,SW80212383,Porthallow North,2025-02-26,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0311,Blakeney,B006R,North Norfolk DC,TF91804549,Wells - The Pool,2025-02-26,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0312,Anglesey - Red Wharf Bay,B057J,Ynys Mon CC,SH53148022,Nodwydd,2025-02-26,Cockles,Detected,<400,,<RL,<RL,<RL,<LOQ
+BTX/2021/0319,Bigbury and Avon,B030J,South Hams DC,SX67074458,South Hexdown North,2025-03-02,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0342,Silloth,B059L,Allerdale BC,NY10055345,Lees Scar,2025-03-03,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0343,The Wash,B003V,Boston BC,TF44234098,Toft,2025-03-02,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0344,Blackwater,B014V,Maldon DC,TL91160795,Goldhanger,2025-03-03,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0345,Portsmouth Harbour,B020H,Portsmouth PHA,SU62850544,Paulsgrove,2025-03-03,Hard clams,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0360,Morecambe Bay - Barrow,B077R,Barrow-in-Furness BC,SD24916365,Foulney,2025-03-04,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0361,Morecambe Bay - Roosebeck,B48AX,Barrow-in-Furness BC,SD25996647,Roosebeck North,2025-03-04,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0362,Fal (Upper),B33CA,Cornwall PHA,SW84123916,South Wood,2025-03-04,Queen scallops,Detected,<400,,<RL,<RL,<RL,<LOQ
+BTX/2021/0363,Langstone Harbour,B019I,Portsmouth PHA,SU70560339,Stoke Common Lake,2025-03-04,Hard clams,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0366,Blackwater,B14AD,Maldon DC,TM04060768,St Peters Flats,2025-03-04,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0378,Brancaster,B05AS,Kings Lynn & West Norfolk BC,TF7987845358,Norton Creek Mussels,2025-03-09,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0380,The Fleet,B25AI,Dorset Council,SY66477627,Fleet Oysters,2025-03-10,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0393,West Mersea,B13AG,Colchester BC,TL97441340,Salcott Pacifics,2025-03-10,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0394,Helford,B034W,Cornwall PHA,SW75462765,Porth Navas Quay,2025-03-10,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0395,Mevagissey Bay,B70AK,Cornwall PHA,SX05214698,South Mevagissey Bottom,2025-03-10,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0396,St. Austell Bay,B70AE,Cornwall PHA,SX05744972,Ropehaven Outer,2025-03-10,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0397,Lantivet Bay,B70AI,Cornwall PHA,SX16305094,Sandheap Point,2025-03-10,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0398,The Wash,B04AP,Kings Lynn & West Norfolk BC,TF65963701,Stubborn Sand,2025-03-10,Cockles,Detected,<400,,<RL,<RL,<RL,<LOQ
+BTX/2021/0399,Yealm,B031J,Plymouth PHA,SX54224904,Thorn,2025-03-10,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0400,Start Bay,B087I,South Hams DC,SX84724671,Off Strete,2025-03-10,Surf clams,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0401,Southampton Water,B21AT,Southampton PHA,SU48760530,Hamble Estuary,2025-03-10,Manila clams,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0402,Solent,B24BK,Southampton PHA,SZ57479794,Browndown,2025-03-10,Native oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0403,Butley,B009E,East Suffolk Council,TM39434850,Pumping Station Outfall,2025-03-10,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0404,Deben,B010O,East Suffolk Council,TM28834500,Stonner Point,2025-03-09,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0405,Swansea,B037U,Swansea PHA,SS67659210,Queens Dock,2025-03-10,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0406,Taw/Torridge,B036V,Torridge DC,SS46403160,Neck Gut,2025-03-10,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0410,Camel,B35AE,Cornwall CC,SW93407530,Porthilly Rock B,2025-03-11,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0411,Colne,B012F,Colchester BC,TM06201600,Pyefleet Spit,2025-03-11,Pacific Oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0412,Crouch,B015Y,Maldon DC,TQ90429738,Althorne,2025-03-11,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0413,Exe,B26BH,Teignbridge DC,SX97948072,Cockwood Harbour,2025-03-11,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0414,Blakeney,B006R,North Norfolk DC,TF91804549,Wells - The Pool,2025-03-12,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0417,Burry Inlet,B38AI,Carmarthenshire CC,SN46010018,Burry Port,2025-03-16,Cockles,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0418,Milford Haven,B39CZ,Pembrokeshire CC,SM89000275,Tethys Oyster,2025-03-16,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0419,Poole,B54CI,Bournemouth Poole Christchurch Council,SZ01818871,West Brownsea 1,2025-03-16,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0420,Roach,B73AF,London PHA,TQ94909207,Paglesham,2025-03-16,Hard clams,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0421,Lune,B066Z,Wyre BC,SD34194862,Knott Spit,2025-03-16,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0422,Holy Island - Ross Links,B001M,Northumberland CC,NU12333958,Ross Links,2025-03-16,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0423,Burry Inlet,B038L,City and Council of Swansea,SS4425695519,Whitford Point,2025-03-16,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0424,Porlock,B094D,Somerset West & Taunton Council,SS87114786,Porlock East,2025-03-16,Pacific oysters,Unsuitable,,,Unsuitable,Unsuitable,Unsuitable,Unsuitable
+BTX/2021/0425,Anglesey - Red Wharf Bay,B057J,Ynys Mon CC,SH53148022,Nodwydd,2025-03-13,Cockles,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0440,Mevagissey Bay,B70AK,Cornwall PHA,SX05214698,South Mevagissey Bottom,2025-03-17,Mussels,ND,,,,,,
+BTX/2021/0441,Fal (Lower),B33BX,Cornwall PHA,SW82803517,Mylor Pool,2025-03-17,Queen scallops,Detected,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0442,Fal (Upper),B33CA,Cornwall PHA,SW84123916,South Wood,2025-03-17,Queen scallops,Detected,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0443,Fal (Lower),B33BW,Cornwall PHA,SW83663789,East Bank North,2025-03-17,Queen scallops,Detected,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0444,Burry Inlet,B038I,City and Council of Swansea,SS5113995645,South East 4,2025-03-17,Cockles,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0445,Brixham,B082B,Torbay BC,SX90965741,Fishcombe SW corner,2025-03-16,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0446,Lyme Bay,B090M,Torbay BC,SY13687543,Site 1,2025-03-16,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0447,North Kent Coast,B17BS,Canterbury CC,TR1038266504,WOCO Westbeach,2025-03-17,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0450,Menai Strait - West,B042O,Gwynedd CC,SH49916579,Area 11 East,2025-03-18,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0451,Menai Strait - East,B055S,Gwynedd CC,SH5833473287,West of Bangor Pier,2025-03-17,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0459,Swale,B076P,Swale BC,TR01316497,The Causeway,2025-03-19,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0460,West Mersea,B13AA,Colchester BC,TM03101211,West Mersea Outfall,2025-03-18,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0469,The Thames,B16BS,London PHA,TQ88148489,West of Southend Pier,2025-03-23,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0478,Fal (Upper),B33BD,Cornwall PHA,SW84093949,Trelissick Pontoon,2025-03-24,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0479,Fal (Upper),B033E,Cornwall PHA,SW85134212,Grimes Bar,2025-03-24,Native oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0480,Dee,B45AG,Wirral BC,SJ21068470,West Kirby,2025-03-24,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0485,Percuil,B033R,Cornwall PHA,SW85853369,Percuil,2025-03-25,Native oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0486,Porthallow Cove,B34AA,Cornwall PHA,SW80212383,Porthallow North,2025-03-25,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0487,Teign,B27AC,Teignbridge DC,SX92827284,Gas Works East,2025-03-25,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0488,Fal (Upper),B33CA,Cornwall PHA,SW84123916,South Wood,2025-03-26,Queen scallops,Detected,<400,,<RL,<RL,<RL,<LOQ
+BTX/2021/0495,Conwy,B044V,Conwy CBC,SH7630879722,Conwy West,2025-03-30,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0496,Ribble,B046C,West Lancashire DC,SD32802590,Point 31 Ribble Walls North,2025-03-30,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0497,Porlock,B094D,Somerset West & Taunton Council,SS87114786,Porlock East,2025-03-30,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0498,Portland,B25Ak,Dorset Council,SY68707757,Site A (M. sp),2025-03-31,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0499,Portland,B25AM,Dorset Council,SY68707757,Site A (P. ma),2025-03-31,King scallops,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0525,Fal (Upper),B33CA,Cornwall PHA,SW84123916,South Wood,2025-04-07,Queen scallops,Detected,<400,,<RL,<RL,<RL,<LOQ
+BTX/2021/0526,Porthallow Cove,B34AA,Cornwall PHA,SW80212383,Porthallow North,2025-04-07,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0527,Fal (Lower),B33AN,Cornwall PHA,SW81963546,Mylor Creek,2025-04-07,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0528,Fal (Upper),B33BD,Cornwall PHA,SW84093949,Trelissick Pontoon,2025-04-07,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0529,Fal (Upper),B033Y,Cornwall PHA,SW85024095,Ruan Pontoon/Tregothnan,2025-04-07,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0530,Mevagissey Bay,B70AK,Cornwall PHA,SX05214698,South Mevagissey Bottom,2025-04-07,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0531,St. Austell Bay,B70AE,Cornwall PHA,SX05744972,Ropehaven Outer,2025-04-07,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0532,Lantivet Bay,B70AI,Cornwall PHA,SX16305094,Sandheap Point,2025-04-07,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0533,Crouch,B015Y,Maldon DC,TQ90429738,Althorne,2025-04-07,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0534,Swansea,B037U,Swansea PHA,SS67659210,Queens Dock,2025-04-07,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0535,Lune,B066W,Wyre BC,SD41835241,Pilling Sands East,2025-04-07,Cockles,Detected,<400,,<RL,<RL,<RL,<LOQ
+BTX/2021/0553,West Mersea,B13AG,Colchester BC,TL97441340,Salcott Pacifics,2025-04-08,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0554,Camel,B35AE,Cornwall CC,SW93407530,Porthilly Rock B,2025-04-08,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0555,Helford,B034W,Cornwall PHA,SW75462765,Porth Navas Quay,2025-04-08,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0556,Yealm,B031J,Plymouth PHA,SX54224904,Thorn,2025-04-08,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0557,Taw/Torridge,B036V,North Devon DC,SS46403160,Neck Gut 1,2025-04-08,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0568,Colne,B012F,Colchester BC,TM06201600,Pyefleet Spit,2025-04-09,Pacific Oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0569,Roach,B73AF,London PHA,TQ94909207,Paglesham,2025-04-09,Hard clams,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0576,Brancaster,B05AS,Kings Lynn & West Norfolk BC,TF7987845358,Norton Creek Mussels,2025-04-13,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0577,Holy Island - Ross Links,B001M,Northumberland CC,NU12333958,Ross Links,2025-04-12,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0582,The Fleet,B25AI,Dorset Council,SY66477627,Fleet Oysters,2025-04-14,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0603,The Wash,B04AP,Kings Lynn & West Norfolk BC,TF65963701,Stubborn Sand,2025-04-14,Cockles,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0604,Burry Inlet,B038L,City and Council of Swansea,SS4425695519,Whitford Point,2025-04-14,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0605,Milford Haven,B39CZ,Pembrokeshire CC,SM89000275,Tethys Oyster,2025-04-14,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0606,Lyme Bay,B090M,Torbay BC,SY13687543,Site 1,2025-04-13,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0607,Brixham,B082B,Torbay BC,SX90965741,Fishcombe SW corner,2025-04-13,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0608,Deben,B010O,East Suffolk Council,TM28834500,Stonner Point,2025-04-14,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0609,Butley,B009E,East Suffolk Council,TM39434850,Pumping Station Outfall,2025-04-14,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0610,Burry Inlet,B038I,City and Council of Swansea,SS5113995645,South East 4,2025-04-14,Cockles,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0611,The Wash,B003V,Boston BC,TF44234098,Toft,2025-04-13,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0612,Porlock,B094D,Somerset West & Taunton Council,SS87114786,Porlock East,2025-04-14,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0613,North Kent Coast,B17BS,Canterbury CC,TR10326689,WOCO Westbeach,2025-04-14,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0614,The Thames,B16CN,London PHA,TR06779599,Crouch Approach,2025-04-14,Cockles,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0615,The Thames,B16CM,London PHA,TR00508769,East of Havengore Creek,2025-04-14,Cockles,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0616,The Thames,B16BR,London PHA,TQ93798271,Phoenix,2025-04-14,Cockles,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0617,Poole,B54CI,Bournemouth Poole Christchurch Council,SZ01818871,West Brownsea 1,2025-04-14,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0640,Morecambe Bay - Barrow,B077R,Barrow-in-Furness BC,SD24916365,Foulney,2025-04-15,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0641,Morecambe Bay - Roosebeck,B48AX,Barrow-in-Furness BC,SD25996647,Roosebeck North,2025-04-15,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0642,Conwy,B044V,Conwy CBC,SH7630879722,Conwy West,2025-04-15,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0643,Fal (Upper),B33CA,Cornwall PHA,SW84123916,South Wood,2025-04-15,Queen scallops,Detected,<400,,<RL,<RL,<RL,<LOQ
+BTX/2021/0644,West Mersea,B13AA,Colchester BC,TM03101211,West Mersea Outfall,2025-04-15,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0645,Blackwater,B14AD,Maldon DC,TM04060768,St Peters Flats,2025-04-15,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0646,Exe,B26BH,Teignbridge DC,SX97948072,Cockwood Harbour,2025-04-15,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0652,The Thames,B16BS,London PHA,TQ88148489,West of Southend Pier,2025-04-16,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0654,Portland,B25AK,Dorset Council,SY68707757,Site A (M. sp),2025-04-20,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0655,Portland,B25AM,Dorset Council,SY68707757,Site A (P. ma),2025-04-20,King scallops,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0664,St. Austell Bay,B70AE,Cornwall PHA,SX05744972,Ropehaven Outer,2025-04-20,Mussels,ND,,,,,,
+BTX/2021/0665,Lantivet Bay,B70AI,Cornwall PHA,SX16305094,Sandheap Point,2025-04-20,Mussels,ND,,,,,,
+BTX/2021/0666,Mevagissey Bay,B70AK,Cornwall PHA,SX05214698,South Mevagissey Bottom,2025-04-20,Mussels,ND,,,,,,
+BTX/2021/0667,Menai Strait - East,B055S,Gwynedd CC,SH5833473287,West of Bangor Pier,2025-04-19,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0668,Menai Strait - West,B042O,Gwynedd CC,SH49916579,Area 11 East,2025-04-20,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0669,Bigbury and Avon,B030J,South Hams DC,SX67074458,South Hexdown North,2025-04-20,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0670,Start Bay,B087I,South Hams DC,SX84724671,Off Strete,2025-04-20,Surf clams,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0692,Dee,B45AG,Wirral BC,SJ21068470,West Kirby,2025-04-21,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0703,Teign,B27AC,Teignbridge DC,SX92827284,Gas Works East,2025-04-22,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0708,Fal (Upper),B33CA,Cornwall PHA,SW84123916,South Wood,2025-04-23,Queen scallops,Detected,<400,,<RL,<RL,<RL,<LOQ
+BTX/2021/0714,Burry Inlet,B38AI,Carmarthenshire CC,SN46010018,Burry Port,2025-04-27,Cockles,Detected,<400,,<RL,<RL,<RL,<LOQ
+BTX/2021/0715,Dart,B028P,South Hams DC,SX87945350,Long Wood South,2025-04-27,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0716,Anglesey - Red Wharf Bay,B057J,Ynys Mon CC,SH53148022,Nodwydd,2025-04-27,Cockles,Detected,<400,,<RL,<RL,<RL,<LOQ
+BTX/2021/0729,Fal (Lower),B33BX,Cornwall PHA,SW82803517,Mylor Pool,2025-04-28,Queen scallops,Detected,<400,,<RL,<RL,<RL,<LOQ
+BTX/2021/0730,Blakeney,B006R,North Norfolk DC,TF91804549,Wells - The Pool,2025-04-28,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0731,Ribble,B046C,West Lancashire DC,SD32802590,Point 31 Ribble Walls North,2025-04-28,Mussels,ND,,,28,<RL,<RL,<LOQ
+BTX/2021/0732,Start Bay,B087I,South Hams DC,SX84724671,Off Strete,2025-04-28,Surf clams,,,,,,,<LOQ
+BTX/2021/0749,Silloth,B059L,Allerdale BC,NY10055345,Lees Scar,2025-04-29,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0750,Blackwater,B014V,Maldon DC,TL91160795,Goldhanger,2025-04-29,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0751,Solent,B24BK,Southampton PHA,SZ57479794,Browndown,2025-04-29,Native oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0752,Southampton Water,B21AT,Southampton PHA,SU48760530,Hamble Estuary,2025-04-29,Manila clams,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0757,Fal (Upper),B33CA,Cornwall PHA,SW84123916,South Wood,2025-04-30,Queen scallops,Detected,<400,,<RL,<RL,<RL,<LOQ
+BTX/2021/0777,Porthallow Cove,B34AA,Cornwall PHA,SW80212383,Porthallow North,2025-05-05,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0778,Fal (Upper),B033Y,Cornwall PHA,SW85024095,Ruan Pontoon/Tregothnan,2025-05-05,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0779,Fal (Upper),B33BD,Cornwall PHA,SW84093949,Trelissick Pontoon,2025-05-05,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0780,Fal (Lower),B33AN,Cornwall PHA,SW81963546,Mylor Creek,2025-05-05,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0781,Deben,B010O,East Suffolk Council,TM28834500,Stonner Point,2025-05-05,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0782,Butley,B009E,East Suffolk Council,TM39434850,Pumping Station Outfall,2025-05-05,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0803,West Mersea,B13AG,Colchester BC,TL97441340,Salcott Pacifics,2025-05-06,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0804,Lantivet Bay,B70AI,Cornwall PHA,SX16305094,Sandheap Point,2025-05-06,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0805,St. Austell Bay,B70AE,Cornwall PHA,SX05744972,Ropehaven Outer,2025-05-06,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0806,Mevagissey Bay,B70AK,Cornwall PHA,SX05214698,South Mevagissey Bottom,2025-05-06,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0807,Yealm,B031J,Plymouth PHA,SX54224904,Thorn,2025-05-06,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0808,Start Bay,B087I,South Hams DC,SX84724671,Off Strete,2025-05-06,Surf clams,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0809,Swansea,B037U,Swansea PHA,SS67659210,Queens Dock,2025-05-06,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0826,Colne,B012F,Colchester BC,TM06201600,Pyefleet Spit,2025-05-07,Pacific Oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0838,Helford,B034W,Cornwall PHA,SW75462765,Porth Navas Quay,2025-05-11,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0839,The Wash,B003V,Boston BC,TF44234098,Toft,2025-05-11,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0840,Brancaster,B05AS,Kings Lynn & West Norfolk BC,TF79884536,Norton Creek Mussels,2025-05-11,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0841,Taw/Torridge,B036V,North Devon DC,SS46403160,Neck Gut 1,2025-05-11,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0842,Holy Island - Ross Links,B001M,Northumberland CC,NU12333958,Ross Links,2025-05-11,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0843,Dart,B028P,South Hams DC,SX87945350,Long Wood South,2025-05-11,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0844,Bigbury and Avon,B030J,South Hams DC,SX67074458,South Hexdown North,2025-05-11,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0845,Burry Inlet,B038I,City and Council of Swansea,SS5113995645,South East 4,2025-05-11,Cockles,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0847,Roach,B73AF,London PHA,TQ94909207,Paglesham,2025-05-11,Hard clams,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0855,The Fleet,B25AI,Dorset Council,SY66477627,Fleet Oysters,2025-05-12,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0875,Camel,B35AE,Cornwall CC,SW93407530,Porthilly Rock B,2025-05-12,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0876,Morecambe Bay - Barrow,B077R,Barrow-in-Furness BC,SD24916365,Foulney,2025-05-12,Mussels,ND,,,41,<RL,<RL,<LOQ
+BTX/2021/0877,Morecambe Bay - Roosebeck,B48AX,Barrow-in-Furness BC,SD25996647,Roosebeck North,2025-05-12,Pacific oysters,ND,,,<RL,<RL,<RL,1.6
+BTX/2021/0878,Conwy,B044V,Conwy CBC,SH7630879722,Conwy West,2025-05-12,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0879,The Wash,B04AP,Kings Lynn & West Norfolk BC,TF65963701,Stubborn Sand,2025-05-12,Cockles,Detected,<400,,<RL,<RL,<RL,<LOQ
+BTX/2021/0880,Crouch,B015Y,Maldon DC,TQ90429738,Althorne,2025-05-12,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0881,Blakeney,B006R,North Norfolk DC,TF91804549,Wells - The Pool,2025-05-12,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0882,Burry Inlet,B038L,City and Council of Swansea,SS4425695519,Whitford Point,2025-05-12,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0883,Swansea,B037U,Swansea PHA,SS67659210,Queens Dock,2025-05-12,Mussels,ND,,,,,,
+BTX/2021/0884,Poole,B54CI,Bournemouth Poole Christchurch Council,SZ01818871,West Brownsea 1,2025-05-12,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0905,North Kent Coast,B17BS,Canterbury CC,TR10296690,WOCO Westbeach,2025-05-13,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0906,Mevagissey Bay,B70AK,Cornwall PHA,SX05214698,South Mevagissey Bottom,2025-05-13,Mussels,ND,,,<RL,<RL,<RL,1.3
+BTX/2021/0907,St. Austell Bay,B70AE,Cornwall PHA,SX05744972,Ropehaven Outer,2025-05-13,Mussels,,,,<RL,<RL,<RL,
+BTX/2021/0908,Fal (Upper),B33BD,Cornwall PHA,SW84093949,Trelissick Pontoon,2025-05-13,Mussels,ND,,,,,,
+BTX/2021/0909,Dee,B45AB,Flintshire CC,SJ1768056,Salisbury,2025-05-12,Cockles,Detected,<400,,<RL,<RL,<RL,<LOQ
+BTX/2021/0910,Blackwater,B014V,Maldon DC,TL91160795,Goldhanger,2025-05-13,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0911,Milford Haven,B39CZ,Pembrokeshire CC,SM89000275,Tethys Oyster,2025-05-13,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0912,Porlock,B094D,Somerset West & Taunton Council,SS87114786,Porlock East,2025-05-13,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0913,Southampton Water,B21AT,Southampton PHA,SU48760530,Hamble Estuary,2025-05-13,Manila clams,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0914,Solent,B24BK,Southampton PHA,SZ57479794,Browndown,2025-05-13,Native oysters,ND,,,,,,<LOQ
+BTX/2021/0919,Start Bay,B087I,South Hams DC,SX84724671,Off Strete,2025-05-14,Surf clams,,,,,,,<LOQ
+BTX/2021/0921,Portland,B25Ak,Dorset Council,SY68707757,Site A (M. sp),2025-05-18,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0922,Portland,B25AM,Dorset Council,SY68707757,Site A (P. ma),2025-05-18,King scallops,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0939,West Mersea,B13AA,Colchester BC,TM03101211,West Mersea Outfall,2025-05-18,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0940,Mevagissey Bay,B70AK,Cornwall PHA,SX05214698,South Mevagissey Bottom,2025-05-18,Mussels,ND,,,<RL,<RL,<RL,1
+BTX/2021/0941,Lantivet Bay,B70AI,Cornwall PHA,SX16305094,Sandheap Point,2025-05-18,Mussels,,,,<RL,<RL,<RL,
+BTX/2021/0942,St. Austell Bay,B70AE,Cornwall PHA,SX05744972,Ropehaven Outer,2025-05-18,Mussels,,,,<RL,<RL,<RL,
+BTX/2021/0943,Helford,B034W,Cornwall PHA,SW75462765,Porth Navas Quay,2025-05-18,Pacific oysters,ND,,,,,,
+BTX/2021/0944,Ribble,B046C,West Lancashire DC,SD32802590,Point 31 Ribble Walls North,2025-05-18,Mussels,ND,,,41,<RL,<RL,<LOQ
+BTX/2021/0945,The Thames,B16BS,London PHA,TQ88148489,West of Southend Pier,2025-05-18,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0968,Fal (Lower),B33BW,Cornwall PHA,SW83663789,East Bank North,2025-05-19,Queen scallops,Detected,<400,,<RL,<RL,<RL,<LOQ
+BTX/2020/0969,Fal (Lower),B33BX,Cornwall PHA,SW82803517,Mylor Pool,2025-05-19,Queen scallops,Detected,<400,,<RL,<RL,<RL,<LOQ
+BTX/2020/0970,Fal (Upper),B33CA,Cornwall PHA,SW84123916,South Wood,2025-05-19,Queen scallops,Detected,<400,,<RL,<RL,<RL,<LOQ
+BTX/2020/0971,Blackwater,B14AD,Maldon DC,TM04060768,St Peters Flats,2025-05-19,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0972,Solent,B24BK,Southampton PHA,SZ57479794,Browndown,2025-05-19,Native oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2020/0973,Start Bay,B087I,South Hams DC,SX84724671,Off Strete,2025-05-19,Surf clams,,,,,,,<LOQ
+BTX/2021/0986,Swale,B076P,Swale BC,TR01316497,The Causeway,2025-05-20,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0987,Swansea,B037U,Swansea PHA,SS67659210,Queens Dock,2025-05-20,Mussels,ND,,,,,,
+BTX/2021/0988,Lune,B066W,Wyre BC,SD41835241,Pilling Sands East,2025-05-20,Cockles,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/0999,Brancaster,B05AS,Kings Lynn & West Norfolk BC,TF79884536,Norton Creek Mussels,2025-05-25,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/1000,Bigbury and Avon,B030J,South Hams DC,SX67074458,South Hexdown North,2025-05-25,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/1001,Anglesey - Red Wharf Bay,B057J,Ynys Mon CC,SH53148022,Nodwydd,2025-05-25,Cockles,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/1018,Burry Inlet,B38AI,Carmarthenshire CC,SN46010018,Burry Port,2025-05-26,Cockles,Detected,<400,,<RL,<RL,<RL,<LOQ
+BTX/2021/1019,Three Rivers,B071O,Carmarthenshire CC,SN3634207158,Pastoun Scar,2025-05-26,Cockles,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/1020,St. Austell Bay,B70AE,Cornwall PHA,SX05744972,Ropehaven Outer,2025-05-26,Mussels,,,,<RL,<RL,<RL,
+BTX/2021/1021,Mevagissey Bay,B70AK,Cornwall PHA,SX05214698,South Mevagissey Bottom,2025-05-26,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/1022,Milford Haven,B39CZ,Pembrokeshire CC,SM89000275,Tethys Oyster,2025-05-26,Pacific oysters,ND,,,,,,
+BTX/2021/1023,Start Bay,B087I,South Hams DC,SX84724671,Off Strete,2025-05-26,Surf clams,,,,,,,3.4
+BTX/2021/1043,Camel,B35AE,Cornwall CC,SW93407530,Porthilly Rock B,2025-05-27,Mussels,not tested,not tested,,not tested,not tested,not tested,not tested
+BTX/2021/1044,The Thames,B16BR,London PHA,TQ93798271,Phoenix,2025-05-27,Cockles,Detected,<400,,<RL,<RL,<RL,<LOQ
+BTX/2021/1045,The Thames,B16CM,London PHA,TR00508769,East of Havengore Creek,2025-05-27,Cockles,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/1046,The Thames,B16CN,London PHA,TR06779599,Crouch Approach,2025-05-27,Cockles,Detected,<400,,<RL,<RL,<RL,<LOQ
+BTX/2021/1047,Solent,B24BK,Southampton PHA,SZ57479794,Browndown,2025-05-27,Native oysters,,,,,,,<LOQ
+BTX/2021/1048,Swansea,B037U,Swansea PHA,SS67659210,Queens Dock,2025-05-27,Mussels,ND,,,,,,
+BTX/2021/1049,Teign,B27AC,Teignbridge DC,SX92827284,Gas Works East,2025-05-27,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/1050,Exe,B26BH,Teignbridge DC,SX97948072,Cockwood Harbour,2025-05-27,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/1051,Brixham,B082B,Torbay BC,SX90965741,Fishcombe SW corner,2025-05-27,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/1052,Lyme Bay,B090M,Torbay BC,SY13687543,Site 1,2025-05-26,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/1056,Silloth,B059L,Allerdale BC,NY10055345,Lees Scar,2025-05-27,Mussels,ND,,,25,<RL,<RL,<LOQ
+BTX/2021/1079,St. Austell Bay,B70AE,Cornwall PHA,SX05744972,Ropehaven Outer,2025-06-02,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/1080,Mevagissey Bay,B70AK,Cornwall PHA,SX05214698,South Mevagissey Bottom,2025-06-02,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/1081,Lantivet Bay,B70AI,Cornwall PHA,SX16305094,Sandheap Point,2025-06-02,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/1082,Fal (Lower),B33BW,Cornwall PHA,SW83663789,East Bank North,2025-06-02,Queen scallops,Detected,<400,,<RL,<RL,<RL,<LOQ
+BTX/2021/1083,Fal (Upper),B033Y,Cornwall PHA,SW85024095,Ruan Pontoon/Tregothnan,2025-06-02,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/1084,Fal (Upper),B33BD,Cornwall PHA,SW84093949,Trelissick Pontoon,2025-06-02,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/1085,Menai Strait - East,B055S,Gwynedd CC,SH5833473287,West of Bangor Pier,2025-06-01,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/1086,Menai Strait - West,B042O,Gwynedd CC,SH49916579,Area 11 East,2025-06-02,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/1087,Blackwater,B14AD,Maldon DC,TM04060768,St Peters Flats,2025-06-02,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/1088,Holy Island - Ross Links,B001M,Northumberland CC,NU12333958,Ross Links,2025-06-01,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/1089,Brixham,B082B,Torbay BC,SX90965741,Fishcombe SW corner,2025-06-02,Mussels,ND,,,<RL,<RL,<RL,1.8
+BTX/2021/1090,Lyme Bay,B090M,Torbay BC,Unverified,Site 1,2025-06-01,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/1126,Morecambe Bay - Roosebeck,B48AX,Barrow-in-Furness BC,SD25996647,Roosebeck North,2025-06-03,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/1127,Morecambe Bay - Barrow,B077R,Barrow-in-Furness BC,SD24916365,Foulney,2025-06-03,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/1128,Fal (Lower),B33BX,Cornwall PHA,SW82803517,Mylor Pool,2025-06-03,Queen scallops,Detected,<400,,<RL,<RL,<RL,<LOQ
+BTX/2021/1129,Fal (Lower),B33AN,Cornwall PHA,SW81963546,Mylor Creek,2025-06-03,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/1130,Porthallow Cove,B34AA,Cornwall PHA,SW80212383,Porthallow North,2025-06-03,Mussels,ND,,,<RL,<RL,<RL,1
+BTX/2021/1134,Deben,B010O,East Suffolk Council,TM28834500,Stonner Point,2025-06-04,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/1135,Butley,B009E,East Suffolk Council,TM39434850,Pumping Station Outfall,2025-06-04,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/1152,St. Austell Bay,B70AE,Cornwall PHA,SX05744972,Ropehaven Outer,2025-06-08,Mussels,,,,<RL,<RL,<RL,
+BTX/2021/1153,Mevagissey Bay,B70AK,Cornwall PHA,SX05214698,South Mevagissey Bottom,2025-06-08,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/1154,Lantivet Bay,B70AI,Cornwall PHA,SX16305094,Sandheap Point,2025-06-08,Mussels,,,,<RL,<RL,<RL,
+BTX/2021/1155,The Wash,B003V,Boston BC,TF44234098,Toft,2025-06-08,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/1156,Brancaster,B05AS,Kings Lynn & West Norfolk BC,TF79884539,Norton Creek Mussels,2025-06-08,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/1157,The Thames,B16CN,London PHA,TR06779599,Crouch Approach,2025-06-08,Cockles,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/1158,The Thames,B16CM,London PHA,TR00508769,East of Havengore Creek,2025-06-08,Cockles,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/1159,The Thames,B16BR,London PHA,TQ93798271,Phoenix,2025-06-08,Cockles,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/1160,Roach,B73AF,London PHA,TQ94909207,Paglesham,2025-06-08,Hard clams,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/1161,Holy Island - Ross Links,B001M,Northumberland CC,NU12333958,Ross Links,2025-06-07,Pacific oysters,ND,,,,,,
+BTX/2021/1162,Taw/Torridge,B036V,North Devon DC,SS46403160,Neck Gut 1,2025-06-08,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/1163,Bigbury and Avon,B030J,South Hams DC,SX67074458,South Hexdown North,2025-06-08,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/1164,The Fleet,B25AI,Dorset Council,SY66477627,Fleet Oysters,2025-06-09,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/1172,Helford,B034W,Cornwall PHA,SW75462765,Porth Navas Quay,2025-06-09,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/1173,The Wash,B04AP,Kings Lynn & West Norfolk BC,TF65963701,Stubborn Sand,2025-06-09,Cockles,Detected,<400,,<RL,<RL,<RL,<LOQ
+BTX/2021/1174,Blakeney,B006R,North Norfolk DC,TF91804549,Wells - The Pool,2025-06-09,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/1175,Poole,B54CI,Bournemouth Poole Christchurch Council,SZ01818871,West Brownsea 1,2025-06-09,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/1176,Porlock,B094D,Somerset West & Taunton Council,SS87114786,Porlock East,2025-06-09,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/1177,Brixham,B082B,Torbay BC,SX90965741,Fishcombe SW corner,2025-06-08,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/1178,Lyme Bay,B090M,Torbay BC,Unverified,Site 1,2025-06-08,Mussels,,,,<RL,<RL,<RL,<LOQ
+BTX/2021/1215,Porthallow Cove,B34AA,Cornwall PHA,SW80212383,Porthallow North,2025-06-10,Mussels,ND,,,<RL,<RL,<RL,
+BTX/2021/1216,Fal (Lower),B33AN,Cornwall PHA,SW81963546,Mylor Creek,2025-06-10,Mussels,ND,,,,,,
+BTX/2021/1217,Camel,B35AE,Cornwall CC,SW93407530,Porthilly Rock B,2025-06-10,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/1218,Dee,B45AB,Flintshire CC,SJ1748080363,Salisbury,2025-06-09,Cockles,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/1219,Teign,B27AC,Teignbridge DC,SX92827284,Gas Works East,2025-06-10,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/1220,Southampton Water,B21AT,Southampton PHA,SU48760530,Hamble Estuary,2025-06-10,Manila clams,Detected,<400,,<RL,<RL,<RL,<LOQ
+BTX/2021/1221,Solent,B24BK,Southampton PHA,SZ57479794,Browndown,2025-06-10,Native oysters,Detected,<400,,<RL,<RL,<RL,<LOQ
+BTX/2021/1222,Start Bay,B087I,South Hams DC,SX84724671,Off Strete,2025-06-10,Surf clams,ND,,,<RL,<RL,<RL,3.6
+BTX/2021/1223,Dart,B028P,South Hams DC,SX87945350,Long Wood South,2025-06-10,Pacific oysters,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/1224,Swansea,B037U,Swansea PHA,SS67659210,Queens Dock,2025-06-10,Mussels,ND,,,<RL,<RL,<RL,<LOQ
+BTX/2021/1225,Milford Haven,B39CZ,Pembrokeshire CC,SM89000275,Tethys Oyster,2025-06-11,Pacific oysters,ND,,,<RL,<RL,<RL,1.2
